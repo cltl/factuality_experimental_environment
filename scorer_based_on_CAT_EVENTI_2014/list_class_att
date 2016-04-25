@@ -1,0 +1,8 @@
+#NAME	type(markable|one2one|many2one|instance)	specificity(directional|undirectional|comparable|non-comparable|0)	list_att
+
+# markable
+EVENT_MENTION	markable	0	certainty	polarity	time
+
+# one2one
+
+# instance
