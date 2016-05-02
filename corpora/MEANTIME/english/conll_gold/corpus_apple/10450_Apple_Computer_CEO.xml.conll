@@ -1,0 +1,925 @@
+1	Apple	_	_	_	_
+2	Computer	_	_	_	_
+3	CEO	_	_	_	_
+4	Steve	_	_	_	_
+5	Jobs	_	_	_	_
+6	gives	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+7	opening	_	_	_	_
+8	keynote	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+9	to	_	_	_	_
+10	WWDC	B-E-5	B-CERTAIN-5	B-POS-5	B-NON_FUTURE-5
+11	2005	_	_	_	_
+
+12	June	_	_	_	_
+
+13	6	_	_	_	_
+
+14	,	_	_	_	_
+
+15	2005	_	_	_	_
+
+16	Apple	_	_	_	_
+
+17	Computer	_	_	_	_
+
+18	CEO	_	_	_	_
+
+19	and	_	_	_	_
+
+20	co-founder	_	_	_	_
+
+21	Steve	_	_	_	_
+
+22	Jobs	_	_	_	_
+
+23	gave	B-E-14	B-CERTAIN-14	B-POS-14	B-NON_FUTURE-14
+
+24	his	_	_	_	_
+
+25	annual	_	_	_	_
+
+26	opening	_	_	_	_
+
+27	keynote	B-E-11	B-CERTAIN-11	B-POS-11	B-NON_FUTURE-11
+
+28	to	_	_	_	_
+
+29	the	_	_	_	_
+
+30	World	_	_	_	_
+
+31	Wide	_	_	_	_
+
+32	Developers	_	_	_	_
+
+33	Conference	B-E-16	B-CERTAIN-16	B-POS-16	B-NON_FUTURE-16
+
+34	(	_	_	_	_
+
+35	WWDC	B-E-12	B-CERTAIN-12	B-POS-12	B-NON_FUTURE-12
+
+36	)	_	_	_	_
+
+37	at	_	_	_	_
+
+38	Moscone	_	_	_	_
+
+39	Center	_	_	_	_
+
+40	in	_	_	_	_
+
+41	San	_	_	_	_
+
+42	Francisco	_	_	_	_
+
+43	,	_	_	_	_
+
+44	California	_	_	_	_
+
+45	on	_	_	_	_
+
+46	Monday	_	_	_	_
+
+47	.	_	_	_	_
+
+48	He	_	_	_	_
+
+49	announced	B-E-15	B-CERTAIN-15	B-POS-15	B-NON_FUTURE-15
+
+50	a	_	_	_	_
+
+51	seamless	_	_	_	_
+
+52	integration	B-E-10	B-CERTAIN-10	B-POS-10	B-FUTURE-10
+
+53	of	_	_	_	_
+
+54	podcasting	_	_	_	_
+
+55	with	_	_	_	_
+
+56	iTunes	_	_	_	_
+
+57	,	_	_	_	_
+
+58	and	_	_	_	_
+
+59	,	_	_	_	_
+
+60	to	_	_	_	_
+
+61	the	_	_	_	_
+
+62	amazement	_	_	_	_
+
+63	of	_	_	_	_
+
+64	many	_	_	_	_
+
+65	,	_	_	_	_
+
+66	that	_	_	_	_
+
+67	future	_	_	_	_
+
+68	Apple	_	_	_	_
+
+69	Macintosh	_	_	_	_
+
+70	computers	_	_	_	_
+
+71	will	_	_	_	_
+
+72	feature	B-E-18	B-CERTAIN-18	B-POS-18	B-FUTURE-18
+
+73	Intel	_	_	_	_
+
+74	processors	_	_	_	_
+
+75	.	_	_	_	_
+
+76	Jobs	_	_	_	_
+
+77	welcomed	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
+
+78	everyone	_	_	_	_
+
+79	to	_	_	_	_
+
+80	the	_	_	_	_
+
+81	event	B-E-13	B-CERTAIN-13	B-POS-13	B-NON_FUTURE-13
+
+82	and	_	_	_	_
+
+83	announced	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+
+84	that	_	_	_	_
+
+85	there	_	_	_	_
+
+86	were	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+
+87	3,800	_	_	_	_
+
+88	attendees	_	_	_	_
+
+89	.	_	_	_	_
+
+90	There	_	_	_	_
+
+91	are	B-E-8	B-CERTAIN-8	B-POS-8	B-NON_FUTURE-8
+
+92	500	_	_	_	_
+
+93	Apple	_	_	_	_
+
+94	engineers	_	_	_	_
+
+95	at	_	_	_	_
+
+96	what	_	_	_	_
+
+97	is	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+
+98	their	_	_	_	_
+
+99	largest	_	_	_	_
+
+100	developers	_	_	_	_
+
+101	conference	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+
+102	in	_	_	_	_
+
+103	the	_	_	_	_
+
+104	past	_	_	_	_
+
+105	decade	_	_	_	_
+
+106	.	_	_	_	_
+
+107	There	_	_	_	_
+
+108	are	_	_	_	_
+
+109	over	_	_	_	_
+
+110	500,000	_	_	_	_
+
+111	developers	_	_	_	_
+
+112	of	_	_	_	_
+
+113	Apple	_	_	_	_
+
+114	programs	_	_	_	_
+
+115	(	_	_	_	_
+
+116	apps	_	_	_	_
+
+117	)	_	_	_	_
+
+118	.	_	_	_	_
+
+119	Jobs	_	_	_	_
+
+120	said	_	_	_	_
+
+121	that	_	_	_	_
+
+122	Apple	_	_	_	_
+
+123	has	_	_	_	_
+
+124	109	_	_	_	_
+
+125	retail	_	_	_	_
+
+126	stores	_	_	_	_
+
+127	,	_	_	_	_
+
+128	with	_	_	_	_
+
+129	one	_	_	_	_
+
+130	million	_	_	_	_
+
+131	visitors	_	_	_	_
+
+132	per	_	_	_	_
+
+133	week	_	_	_	_
+
+134	,	_	_	_	_
+
+135	creating	_	_	_	_
+
+136	over	_	_	_	_
+
+137	$	_	_	_	_
+
+138	500	_	_	_	_
+
+139	million	_	_	_	_
+
+140	yearly	_	_	_	_
+
+141	in	_	_	_	_
+
+142	revenue	_	_	_	_
+
+143	.	_	_	_	_
+
+144	The	_	_	_	_
+
+145	Mac	_	_	_	_
+
+146	market	_	_	_	_
+
+147	share	_	_	_	_
+
+148	is	_	_	_	_
+
+149	up	_	_	_	_
+
+150	82	_	_	_	_
+
+151	%	_	_	_	_
+
+152	from	_	_	_	_
+
+153	9	_	_	_	_
+
+154	months	_	_	_	_
+
+155	ago	_	_	_	_
+
+156	.	_	_	_	_
+
+157	Jobs	_	_	_	_
+
+158	then	_	_	_	_
+
+159	moved	_	_	_	_
+
+160	on	_	_	_	_
+
+161	to	_	_	_	_
+
+162	talk	_	_	_	_
+
+163	about	_	_	_	_
+
+164	a	_	_	_	_
+
+165	very	_	_	_	_
+
+166	anticipated	_	_	_	_
+
+167	announcement	_	_	_	_
+
+168	-	_	_	_	_
+
+169	Podcasting	_	_	_	_
+
+170	.	_	_	_	_
+
+171	Steve	_	_	_	_
+
+172	called	_	_	_	_
+
+173	podcasting	_	_	_	_
+
+174	“	_	_	_	_
+
+175	Wayne	_	_	_	_
+
+176	’	_	_	_	_
+
+177	s	_	_	_	_
+
+178	World	_	_	_	_
+
+179	for	_	_	_	_
+
+180	radio	_	_	_	_
+
+181	”	_	_	_	_
+
+182	.	_	_	_	_
+
+183	He	_	_	_	_
+
+184	called	_	_	_	_
+
+185	it	_	_	_	_
+
+186	the	_	_	_	_
+
+187	“	_	_	_	_
+
+188	hottest	_	_	_	_
+
+189	thing	_	_	_	_
+
+190	going	_	_	_	_
+
+191	in	_	_	_	_
+
+192	radio	_	_	_	_
+
+193	”	_	_	_	_
+
+194	,	_	_	_	_
+
+195	and	_	_	_	_
+
+196	,	_	_	_	_
+
+197	“	_	_	_	_
+
+198	exciting	_	_	_	_
+
+199	”	_	_	_	_
+
+200	.	_	_	_	_
+
+201	There	_	_	_	_
+
+202	are	_	_	_	_
+
+203	over	_	_	_	_
+
+204	8,000	_	_	_	_
+
+205	podcasts	_	_	_	_
+
+206	.	_	_	_	_
+
+207	Steve	_	_	_	_
+
+208	Jobs	_	_	_	_
+
+209	announced	_	_	_	_
+
+210	that	_	_	_	_
+
+211	automatic	_	_	_	_
+
+212	podcasting	_	_	_	_
+
+213	subscription	_	_	_	_
+
+214	would	_	_	_	_
+
+215	be	_	_	_	_
+
+216	built	_	_	_	_
+
+217	in	_	_	_	_
+
+218	to	_	_	_	_
+
+219	iTunes	_	_	_	_
+
+220	and	_	_	_	_
+
+221	iPod	_	_	_	_
+
+222	seamlessly	_	_	_	_
+
+223	.	_	_	_	_
+
+224	He	_	_	_	_
+
+225	also	_	_	_	_
+
+226	announced	_	_	_	_
+
+227	that	_	_	_	_
+
+228	QuickTime	_	_	_	_
+
+229	7	_	_	_	_
+
+230	would	_	_	_	_
+
+231	be	_	_	_	_
+
+232	soon	_	_	_	_
+
+233	available	_	_	_	_
+
+234	for	_	_	_	_
+
+235	Windows	_	_	_	_
+
+236	.	_	_	_	_
+
+237	Moving	_	_	_	_
+
+238	on	_	_	_	_
+
+239	,	_	_	_	_
+
+240	Jobs	_	_	_	_
+
+241	announced	_	_	_	_
+
+242	that	_	_	_	_
+
+243	there	_	_	_	_
+
+244	have	_	_	_	_
+
+245	been	_	_	_	_
+
+246	2	_	_	_	_
+
+247	million	_	_	_	_
+
+248	copies	_	_	_	_
+
+249	of	_	_	_	_
+
+250	Tiger	_	_	_	_
+
+251	sold	_	_	_	_
+
+252	in	_	_	_	_
+
+253	the	_	_	_	_
+
+254	6	_	_	_	_
+
+255	weeks	_	_	_	_
+
+256	that	_	_	_	_
+
+257	it	_	_	_	_
+
+258	has	_	_	_	_
+
+259	been	_	_	_	_
+
+260	available	_	_	_	_
+
+261	.	_	_	_	_
+
+262	He	_	_	_	_
+
+263	demoed	_	_	_	_
+
+264	the	_	_	_	_
+
+265	Wikipedia	_	_	_	_
+
+266	Dashboard	_	_	_	_
+
+267	widget	_	_	_	_
+
+268	.	_	_	_	_
+
+269	Steve	_	_	_	_
+
+270	announced	_	_	_	_
+
+271	that	_	_	_	_
+
+272	Mac	_	_	_	_
+
+273	OS	_	_	_	_
+
+274	X	_	_	_	_
+
+275	Leopard	_	_	_	_
+
+276	would	_	_	_	_
+
+277	be	_	_	_	_
+
+278	released	_	_	_	_
+
+279	in	_	_	_	_
+
+280	2007	_	_	_	_
+
+281	,	_	_	_	_
+
+282	the	_	_	_	_
+
+283	same	_	_	_	_
+
+284	time	_	_	_	_
+
+285	as	_	_	_	_
+
+286	Microsoft	_	_	_	_
+
+287	’	_	_	_	_
+
+288	s	_	_	_	_
+
+289	Longhorn	_	_	_	_
+
+290	.	_	_	_	_
+
+291	In	_	_	_	_
+
+292	a	_	_	_	_
+
+293	surprising	_	_	_	_
+
+294	move	_	_	_	_
+
+295	,	_	_	_	_
+
+296	Steve	_	_	_	_
+
+297	Jobs	_	_	_	_
+
+298	announced	_	_	_	_
+
+299	that	_	_	_	_
+
+300	Macintosh	_	_	_	_
+
+301	computers	_	_	_	_
+
+302	would	_	_	_	_
+
+303	begin	_	_	_	_
+
+304	to	_	_	_	_
+
+305	be	_	_	_	_
+
+306	shipped	_	_	_	_
+
+307	with	_	_	_	_
+
+308	Intel	_	_	_	_
+
+309	processors	_	_	_	_
+
+310	,	_	_	_	_
+
+311	the	_	_	_	_
+
+312	same	_	_	_	_
+
+313	as	_	_	_	_
+
+314	in	_	_	_	_
+
+315	Windows	_	_	_	_
+
+316	machines	_	_	_	_
+
+317	,	_	_	_	_
+
+318	ending	_	_	_	_
+
+319	the	_	_	_	_
+
+320	eleven	_	_	_	_
+
+321	year	_	_	_	_
+
+322	partnership	_	_	_	_
+
+323	with	_	_	_	_
+
+324	IBM	_	_	_	_
+
+325	and	_	_	_	_
+
+326	Motorola	_	_	_	_
+
+327	.	_	_	_	_
+
+328	This	_	_	_	_
+
+329	is	_	_	_	_
+
+330	said	_	_	_	_
+
+331	to	_	_	_	_
+
+332	be	_	_	_	_
+
+333	out	_	_	_	_
+
+334	of	_	_	_	_
+
+335	Apple	_	_	_	_
+
+336	's	_	_	_	_
+
+337	increasing	_	_	_	_
+
+338	frustration	_	_	_	_
+
+339	at	_	_	_	_
+
+340	IBM	_	_	_	_
+
+341	's	_	_	_	_
+
+342	inability	_	_	_	_
+
+343	to	_	_	_	_
+
+344	deliver	_	_	_	_
+
+345	faster	_	_	_	_
+
+346	and	_	_	_	_
+
+347	cooler	_	_	_	_
+
+348	processors	_	_	_	_
+
+349	,	_	_	_	_
+
+350	though	_	_	_	_
+
+351	it	_	_	_	_
+
+352	is	_	_	_	_
+
+353	interesting	_	_	_	_
+
+354	to	_	_	_	_
+
+355	note	_	_	_	_
+
+356	that	_	_	_	_
+
+357	Intel	_	_	_	_
+
+358	has	_	_	_	_
+
+359	recently	_	_	_	_
+
+360	added	_	_	_	_
+
+361	Digital	_	_	_	_
+
+362	Rights	_	_	_	_
+
+363	/	_	_	_	_
+
+364	Restrictions	_	_	_	_
+
+365	Management	_	_	_	_
+
+366	(	_	_	_	_
+
+367	DRM	_	_	_	_
+
+368	)	_	_	_	_
+
+369	to	_	_	_	_
+
+370	its	_	_	_	_
+
+371	latest	_	_	_	_
+
+372	processors	_	_	_	_
+
+373	.	_	_	_	_
+
+374	This	_	_	_	_
+
+375	'switch	_	_	_	_
+
+376	'	_	_	_	_
+
+377	,	_	_	_	_
+
+378	he	_	_	_	_
+
+379	said	_	_	_	_
+
+380	,	_	_	_	_
+
+381	would	_	_	_	_
+
+382	happen	_	_	_	_
+
+383	beginning	_	_	_	_
+
+384	next	_	_	_	_
+
+385	year	_	_	_	_
+
+386	.	_	_	_	_
+
+387	Jobs	_	_	_	_
+
+388	said	_	_	_	_
+
+389	that	_	_	_	_
+
+390	Mac	_	_	_	_
+
+391	OS	_	_	_	_
+
+392	X	_	_	_	_
+
+393	has	_	_	_	_
+
+394	had	_	_	_	_
+
+395	“	_	_	_	_
+
+396	a	_	_	_	_
+
+397	secret	_	_	_	_
+
+398	double	_	_	_	_
+
+399	life	_	_	_	_
+
+400	”	_	_	_	_
+
+401	and	_	_	_	_
+
+402	OS	_	_	_	_
+
+403	X	_	_	_	_
+
+404	had	_	_	_	_
+
+405	“	_	_	_	_
+
+406	been	_	_	_	_
+
+407	compiled	_	_	_	_
+
+408	for	_	_	_	_
+
+409	Intel	_	_	_	_
+
+410	processors	_	_	_	_
+
+411	]	_	_	_	_
+
+412	for	_	_	_	_
+
+413	five	_	_	_	_
+
+414	years	_	_	_	_
+
+415	.	_	_	_	_
+
+416	”	_	_	_	_
+
+417	He	_	_	_	_
+
+418	talked	_	_	_	_
+
+419	about	_	_	_	_
+
+420	the	_	_	_	_
+
+421	easiness	_	_	_	_
+
+422	for	_	_	_	_
+
+423	developers	_	_	_	_
+
+424	to	_	_	_	_
+
+425	port	_	_	_	_
+
+426	their	_	_	_	_
+
+427	Mac	_	_	_	_
+
+428	apps	_	_	_	_
+
+429	to	_	_	_	_
+
+430	Intel	_	_	_	_
+
+431	(	_	_	_	_
+
+432	x86	_	_	_	_
+
+433	)	_	_	_	_
+
+434	processors	_	_	_	_
+
+435	.	_	_	_	_
+
+436	Current	_	_	_	_
+
+437	PowerPC	_	_	_	_
+
+438	programs	_	_	_	_
+
+439	can	_	_	_	_
+
+440	be	_	_	_	_
+
+441	run	_	_	_	_
+
+442	on	_	_	_	_
+
+443	Intel	_	_	_	_
+
+444	processors	_	_	_	_
+
+445	due	_	_	_	_
+
+446	to	_	_	_	_
+
+447	a	_	_	_	_
+
+448	new	_	_	_	_
+
+449	Apple	_	_	_	_
+
+450	technology	_	_	_	_
+
+451	.	_	_	_	_
+
+452	He	_	_	_	_
+
+453	said	_	_	_	_
+
+454	that	_	_	_	_
+
+455	Apple	_	_	_	_
+
+456	is	_	_	_	_
+
+457	“	_	_	_	_
+
+458	getting	_	_	_	_
+
+459	ready	_	_	_	_
+
+460	”	_	_	_	_
+
+461	for	_	_	_	_
+
+462	the	_	_	_	_
+
+463	transition	_	_	_	_
+
+464	from	_	_	_	_
+
+465	PowerPC	_	_	_	_
+
+466	to	_	_	_	_
+
+467	Intel	_	_	_	_
+
+468	.	_	_	_	_

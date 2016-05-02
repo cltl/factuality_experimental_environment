@@ -1,131 +1,372 @@
-1	World	_	_	_
-2	's	_	_	_
-3	largest	_	_	_
-4	passenger	_	_	_
-5	airliner	_	_	_
-6	makes	B-E-23	B-CERTAIN-23	B-POS-23
-7	first	_	_	_
-8	flight	B-E-24	B-CERTAIN-24	B-POS-24
+1	World	_	_	_	_
+2	's	_	_	_	_
+3	largest	_	_	_	_
+4	passenger	_	_	_	_
+5	airliner	_	_	_	_
+6	makes	B-E-5	B-CERTAIN-5	B-POS-5	B-NON_FUTURE-5
+7	first	_	_	_	_
+8	flight	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
 
-9	April	_	_	_
-10	27	_	_	_
-11	,	_	_	_
-12	2005	_	_	_
+9	April	_	_	_	_
+10	27	_	_	_	_
+11	,	_	_	_	_
+12	2005	_	_	_	_
 
-13	The	_	_	_
-14	A380	_	_	_
-15	was	_	_	_
-16	revealed	B-E-13	B-CERTAIN-13	B-POS-13
-17	in	_	_	_
-18	January	_	_	_
-19	2005	_	_	_
+13	The	_	_	_	_
+14	A380	_	_	_	_
+15	was	_	_	_	_
+16	revealed	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+17	in	_	_	_	_
+18	January	_	_	_	_
+19	2005	_	_	_	_
 
-20	The	_	_	_
-21	world	_	_	_
-22	's	_	_	_
-23	largest	_	_	_
-24	passenger	_	_	_
-25	aircraft	_	_	_
-26	,	_	_	_
-27	the	_	_	_
-28	Airbus	_	_	_
-29	A380	_	_	_
-30	,	_	_	_
-31	has	_	_	_
-32	made	B-E-14	B-CERTAIN-14	B-POS-14
-33	its	_	_	_
-34	maiden	_	_	_
-35	flight	B-E-15	B-CERTAIN-15	B-POS-15
-36	after	_	_	_
-37	lifting	B-E-16	B-CERTAIN-16	B-POS-16
-38	off	I-E-16	I-CERTAIN-16	I-POS-16
-39	from	_	_	_
-40	Toulouse	_	_	_
-41	in	_	_	_
-42	France	_	_	_
-43	.	_	_	_
+20	The	_	_	_	_
+21	world	_	_	_	_
+22	's	_	_	_	_
+23	largest	_	_	_	_
+24	passenger	_	_	_	_
+25	aircraft	_	_	_	_
+26	,	_	_	_	_
+27	the	_	_	_	_
+28	Airbus	_	_	_	_
+29	A380	_	_	_	_
+30	,	_	_	_	_
+31	has	_	_	_	_
+32	made	B-E-8	B-CERTAIN-8	B-POS-8	B-NON_FUTURE-8
+33	its	_	_	_	_
+34	maiden	_	_	_	_
+35	flight	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+36	after	_	_	_	_
+37	lifting	B-E-10	B-CERTAIN-10	B-POS-10	B-NON_FUTURE-10
+38	off	I-E-10	I-CERTAIN-10	I-POS-10	I-NON_FUTURE-10
+39	from	_	_	_	_
+40	Toulouse	_	_	_	_
+41	in	_	_	_	_
+42	France	_	_	_	_
+43	.	_	_	_	_
 
-44	The	_	_	_
-45	take-off	B-E-17	B-CERTAIN-17	B-POS-17
-46	,	_	_	_
-47	at	_	_	_
-48	08:30	_	_	_
-49	UTC	_	_	_
-50	,	_	_	_
-51	was	B-E-22	B-CERTAIN-22	B-POS-22
-52	apparently	_	_	_
-53	normal	_	_	_
-54	and	_	_	_
-55	took	B-E-18	B-CERTAIN-18	B-POS-18
-56	place	I-E-18	I-CERTAIN-18	I-POS-18
-57	exactly	_	_	_
-58	on	_	_	_
-59	time	_	_	_
-60	.	_	_	_
+44	The	_	_	_	_
+45	take-off	B-E-11	B-CERTAIN-11	B-POS-11	B-NON_FUTURE-11
+46	,	_	_	_	_
+47	at	_	_	_	_
+48	08:30	_	_	_	_
+49	UTC	_	_	_	_
+50	,	_	_	_	_
+51	was	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+52	apparently	_	_	_	_
+53	normal	_	_	_	_
+54	and	_	_	_	_
+55	took	B-E-12	B-CERTAIN-12	B-POS-12	B-NON_FUTURE-12
+56	place	I-E-12	I-CERTAIN-12	I-POS-12	I-NON_FUTURE-12
+57	exactly	_	_	_	_
+58	on	_	_	_	_
+59	time	_	_	_	_
+60	.	_	_	_	_
 
-61	The	_	_	_
-62	aircraft	_	_	_
-63	flew	B-E-19	B-CERTAIN-19	B-POS-19
-64	into	_	_	_
-65	clear	_	_	_
-66	blue	_	_	_
-67	skies	_	_	_
-68	with	_	_	_
-69	a	_	_	_
-70	flight	_	_	_
-71	crew	_	_	_
-72	of	_	_	_
-73	six	_	_	_
-74	(	_	_	_
-75	all	_	_	_
-76	wearing	B-E-20	B-CERTAIN-20	B-POS-20
-77	parachutes	_	_	_
-78	as	_	_	_
-79	a	_	_	_
-80	safety	_	_	_
-81	precaution	B-E-21	B-CERTAIN-21	B-POS-21
-82	)	_	_	_
-83	and	_	_	_
-84	twenty	_	_	_
-85	tonnes	_	_	_
-86	of	_	_	_
-87	test	_	_	_
-88	equipment	_	_	_
-89	on	_	_	_
-90	board	_	_	_
-91	.	_	_	_
+61	The	_	_	_	_
+62	aircraft	_	_	_	_
+63	flew	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+64	into	_	_	_	_
+65	clear	_	_	_	_
+66	blue	_	_	_	_
+67	skies	_	_	_	_
+68	with	_	_	_	_
+69	a	_	_	_	_
+70	flight	_	_	_	_
+71	crew	_	_	_	_
+72	of	_	_	_	_
+73	six	_	_	_	_
+74	(	_	_	_	_
+75	all	_	_	_	_
+76	wearing	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
+77	parachutes	_	_	_	_
+78	as	_	_	_	_
+79	a	_	_	_	_
+80	safety	_	_	_	_
+81	precaution	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+82	)	_	_	_	_
+83	and	_	_	_	_
+84	twenty	_	_	_	_
+85	tonnes	_	_	_	_
+86	of	_	_	_	_
+87	test	_	_	_	_
+88	equipment	_	_	_	_
+89	on	_	_	_	_
+90	board	_	_	_	_
+91	.	_	_	_	_
 
-92	Around	_	_	_
-93	50,000	_	_	_
-94	people	_	_	_
-95	watched	_	_	_
-96	the	_	_	_
-97	maiden	_	_	_
-98	flight	_	_	_
-99	,	_	_	_
-100	many	_	_	_
-101	sitting	_	_	_
-102	on	_	_	_
-103	grass	_	_	_
-104	banks	_	_	_
-105	lining	_	_	_
-106	the	_	_	_
-107	runway	_	_	_
-108	.	_	_	_
+92	Around	_	_	_	_
+93	50,000	_	_	_	_
+94	people	_	_	_	_
+95	watched	_	_	_	_
+96	the	_	_	_	_
+97	maiden	_	_	_	_
+98	flight	_	_	_	_
+99	,	_	_	_	_
+100	many	_	_	_	_
+101	sitting	_	_	_	_
+102	on	_	_	_	_
+103	grass	_	_	_	_
+104	banks	_	_	_	_
+105	lining	_	_	_	_
+106	the	_	_	_	_
+107	runway	_	_	_	_
+108	.	_	_	_	_
 
-109	More	_	_	_
-110	people	_	_	_
-111	watched	_	_	_
-112	the	_	_	_
-113	flight	_	_	_
-114	on	_	_	_
-115	a	_	_	_
-116	giant	_	_	_
-117	screen	_	_	_
-118	erected	_	_	_
-119	in	_	_	_
-120	the	_	_	_
-121	centre	_	_	_
-122	of	_	_	_
-123	Toulouse	_	_	_
-124	.	_	_	_
+109	More	_	_	_	_
+110	people	_	_	_	_
+111	watched	_	_	_	_
+112	the	_	_	_	_
+113	flight	_	_	_	_
+114	on	_	_	_	_
+115	a	_	_	_	_
+116	giant	_	_	_	_
+117	screen	_	_	_	_
+118	erected	_	_	_	_
+119	in	_	_	_	_
+120	the	_	_	_	_
+121	centre	_	_	_	_
+122	of	_	_	_	_
+123	Toulouse	_	_	_	_
+124	.	_	_	_	_
+
+125	The	_	_	_	_
+126	test	_	_	_	_
+127	flight	_	_	_	_
+128	lasted	_	_	_	_
+129	four	_	_	_	_
+130	hours	_	_	_	_
+131	,	_	_	_	_
+132	with	_	_	_	_
+133	the	_	_	_	_
+134	aircraft	_	_	_	_
+135	flying	_	_	_	_
+136	no	_	_	_	_
+137	higher	_	_	_	_
+138	than	_	_	_	_
+139	10,000	_	_	_	_
+140	nor	_	_	_	_
+141	further	_	_	_	_
+142	than	_	_	_	_
+143	100	_	_	_	_
+144	miles	_	_	_	_
+145	from	_	_	_	_
+146	Toulouse	_	_	_	_
+147	as	_	_	_	_
+148	it	_	_	_	_
+149	circled	_	_	_	_
+150	the	_	_	_	_
+151	Bay	_	_	_	_
+152	of	_	_	_	_
+153	Biscay	_	_	_	_
+154	.	_	_	_	_
+
+155	The	_	_	_	_
+156	A380	_	_	_	_
+157	,	_	_	_	_
+158	known	_	_	_	_
+159	for	_	_	_	_
+160	many	_	_	_	_
+161	years	_	_	_	_
+162	during	_	_	_	_
+163	its	_	_	_	_
+164	development	_	_	_	_
+165	phase	_	_	_	_
+166	as	_	_	_	_
+167	the	_	_	_	_
+168	Airbus	_	_	_	_
+169	A3XX	_	_	_	_
+170	,	_	_	_	_
+171	will	_	_	_	_
+172	be	_	_	_	_
+173	the	_	_	_	_
+174	largest	_	_	_	_
+175	airliner	_	_	_	_
+176	in	_	_	_	_
+177	the	_	_	_	_
+178	world	_	_	_	_
+179	by	_	_	_	_
+180	a	_	_	_	_
+181	substantial	_	_	_	_
+182	margin	_	_	_	_
+183	when	_	_	_	_
+184	it	_	_	_	_
+185	enters	_	_	_	_
+186	service	_	_	_	_
+187	.	_	_	_	_
+
+188	The	_	_	_	_
+189	first	_	_	_	_
+190	A380	_	_	_	_
+191	prototype	_	_	_	_
+192	was	_	_	_	_
+193	unveiled	_	_	_	_
+194	during	_	_	_	_
+195	a	_	_	_	_
+196	lavish	_	_	_	_
+197	ceremony	_	_	_	_
+198	in	_	_	_	_
+199	Toulouse	_	_	_	_
+200	,	_	_	_	_
+201	France	_	_	_	_
+202	,	_	_	_	_
+203	on	_	_	_	_
+204	January	_	_	_	_
+205	18	_	_	_	_
+206	,	_	_	_	_
+207	2005	_	_	_	_
+208	.	_	_	_	_
+
+209	Its	_	_	_	_
+210	manufacturer	_	_	_	_
+211	's	_	_	_	_
+212	serial	_	_	_	_
+213	number	_	_	_	_
+214	is	_	_	_	_
+215	001	_	_	_	_
+216	,	_	_	_	_
+217	and	_	_	_	_
+218	it	_	_	_	_
+219	is	_	_	_	_
+220	registered	_	_	_	_
+221	F-WWOW	_	_	_	_
+222	.	_	_	_	_
+
+223	The	_	_	_	_
+224	new	_	_	_	_
+225	Airbus	_	_	_	_
+226	will	_	_	_	_
+227	initially	_	_	_	_
+228	be	_	_	_	_
+229	sold	_	_	_	_
+230	in	_	_	_	_
+231	two	_	_	_	_
+232	versions	_	_	_	_
+233	:	_	_	_	_
+234	the	_	_	_	_
+235	A380-800	_	_	_	_
+236	,	_	_	_	_
+237	a	_	_	_	_
+238	full	_	_	_	_
+239	double-decker	_	_	_	_
+240	configuration	_	_	_	_
+241	,	_	_	_	_
+242	able	_	_	_	_
+243	to	_	_	_	_
+244	carry	_	_	_	_
+245	555	_	_	_	_
+246	passengers	_	_	_	_
+247	in	_	_	_	_
+248	a	_	_	_	_
+249	three-class	_	_	_	_
+250	configuration	_	_	_	_
+251	or	_	_	_	_
+252	up	_	_	_	_
+253	to	_	_	_	_
+254	800	_	_	_	_
+255	passengers	_	_	_	_
+256	in	_	_	_	_
+257	a	_	_	_	_
+258	single-class	_	_	_	_
+259	economy	_	_	_	_
+260	configuration	_	_	_	_
+261	.	_	_	_	_
+
+262	Range	_	_	_	_
+263	for	_	_	_	_
+264	the	_	_	_	_
+265	A380-800	_	_	_	_
+266	model	_	_	_	_
+267	is	_	_	_	_
+268	expected	_	_	_	_
+269	to	_	_	_	_
+270	be	_	_	_	_
+271	8,000	_	_	_	_
+272	nautical	_	_	_	_
+273	miles	_	_	_	_
+274	(	_	_	_	_
+275	14,800	_	_	_	_
+276	km	_	_	_	_
+277	)	_	_	_	_
+278	.	_	_	_	_
+
+279	The	_	_	_	_
+280	second	_	_	_	_
+281	model	_	_	_	_
+282	,	_	_	_	_
+283	the	_	_	_	_
+284	A380-800F	_	_	_	_
+285	dedicated	_	_	_	_
+286	freighter	_	_	_	_
+287	,	_	_	_	_
+288	will	_	_	_	_
+289	carry	_	_	_	_
+290	150	_	_	_	_
+291	tons	_	_	_	_
+292	of	_	_	_	_
+293	cargo	_	_	_	_
+294	5,600	_	_	_	_
+295	miles	_	_	_	_
+296	(	_	_	_	_
+297	10,400	_	_	_	_
+298	km	_	_	_	_
+299	)	_	_	_	_
+300	.	_	_	_	_
+
+301	The	_	_	_	_
+302	cost	_	_	_	_
+303	of	_	_	_	_
+304	the	_	_	_	_
+305	project	_	_	_	_
+306	so	_	_	_	_
+307	far	_	_	_	_
+308	is	_	_	_	_
+309	#	_	_	_	_
+310	8.4	_	_	_	_
+311	bn	_	_	_	_
+312	,	_	_	_	_
+313	#	_	_	_	_
+314	1bn	_	_	_	_
+315	over	_	_	_	_
+316	budget	_	_	_	_
+317	.	_	_	_	_
+
+318	144	_	_	_	_
+319	planes	_	_	_	_
+320	have	_	_	_	_
+321	already	_	_	_	_
+322	been	_	_	_	_
+323	ordered	_	_	_	_
+324	.	_	_	_	_
+
+325	Singapore	_	_	_	_
+326	Airlines	_	_	_	_
+327	,	_	_	_	_
+328	which	_	_	_	_
+329	will	_	_	_	_
+330	be	_	_	_	_
+331	the	_	_	_	_
+332	first	_	_	_	_
+333	company	_	_	_	_
+334	to	_	_	_	_
+335	operate	_	_	_	_
+336	the	_	_	_	_
+337	new	_	_	_	_
+338	air	_	_	_	_
+339	giant	_	_	_	_
+340	,	_	_	_	_
+341	in	_	_	_	_
+342	July	_	_	_	_
+343	2006	_	_	_	_
+344	,	_	_	_	_
+345	have	_	_	_	_
+346	opened	_	_	_	_
+347	a	_	_	_	_
+348	reservation	_	_	_	_
+349	site	_	_	_	_
+350	for	_	_	_	_
+351	this	_	_	_	_
+352	first	_	_	_	_
+353	regular	_	_	_	_
+354	flight	_	_	_	_
+355	.	_	_	_	_

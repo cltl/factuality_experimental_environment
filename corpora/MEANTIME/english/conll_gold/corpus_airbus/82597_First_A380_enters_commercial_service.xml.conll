@@ -1,190 +1,190 @@
-1	First	_	_	_
-2	A380	_	_	_
-3	enters	B-E-37	B-CERTAIN-37	B-POS-37
-4	commercial	_	_	_
-5	service	B-E-38	B-CERTAIN-38	B-POS-38
+1	First	_	_	_	_
+2	A380	_	_	_	_
+3	enters	B-E-13	B-CERTAIN-13	B-POS-13	B-NON_FUTURE-13
+4	commercial	_	_	_	_
+5	service	B-E-14	B-CERTAIN-14	B-POS-14	B-NON_FUTURE-14
 
-6	October	_	_	_
-7	17	_	_	_
-8	,	_	_	_
-9	2007	_	_	_
+6	October	_	_	_	_
+7	17	_	_	_	_
+8	,	_	_	_	_
+9	2007	_	_	_	_
 
-10	It	_	_	_
-11	was	B-E-35	B-CERTAIN-35	B-POS-35
-12	a	_	_	_
-13	milestone	_	_	_
-14	in	_	_	_
-15	aviation	_	_	_
-16	history	_	_	_
-17	:	_	_	_
-18	the	_	_	_
-19	first	_	_	_
-20	Airbus	_	_	_
-21	A380	_	_	_
-22	landed	B-E-25	B-CERTAIN-25	B-POS-25
-23	at	_	_	_
-24	Singapore	_	_	_
-25	's	_	_	_
-26	Changi	_	_	_
-27	International	_	_	_
-28	Airport	_	_	_
-29	at	_	_	_
-30	6:40	_	_	_
-31	p.m.	_	_	_
-32	(	_	_	_
-33	GMT	_	_	_
-34	+8	_	_	_
-35	)	_	_	_
-36	after	_	_	_
-37	a	_	_	_
-38	12-hour	_	_	_
-39	flight	B-E-34	B-CERTAIN-34	B-POS-34
-40	from	_	_	_
-41	Airbus	_	_	_
-42	'	_	_	_
-43	Delivery	_	_	_
-44	Center	_	_	_
-45	.	_	_	_
+10	It	_	_	_	_
+11	was	B-E-11	B-CERTAIN-11	B-POS-11	B-NON_FUTURE-11
+12	a	_	_	_	_
+13	milestone	_	_	_	_
+14	in	_	_	_	_
+15	aviation	_	_	_	_
+16	history	_	_	_	_
+17	:	_	_	_	_
+18	the	_	_	_	_
+19	first	_	_	_	_
+20	Airbus	_	_	_	_
+21	A380	_	_	_	_
+22	landed	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+23	at	_	_	_	_
+24	Singapore	_	_	_	_
+25	's	_	_	_	_
+26	Changi	_	_	_	_
+27	International	_	_	_	_
+28	Airport	_	_	_	_
+29	at	_	_	_	_
+30	6:40	_	_	_	_
+31	p.m.	_	_	_	_
+32	(	_	_	_	_
+33	GMT	_	_	_	_
+34	+8	_	_	_	_
+35	)	_	_	_	_
+36	after	_	_	_	_
+37	a	_	_	_	_
+38	12-hour	_	_	_	_
+39	flight	B-E-10	B-CERTAIN-10	B-POS-10	B-NON_FUTURE-10
+40	from	_	_	_	_
+41	Airbus	_	_	_	_
+42	'	_	_	_	_
+43	Delivery	_	_	_	_
+44	Center	_	_	_	_
+45	.	_	_	_	_
 
-46	The	_	_	_
-47	aircraft	_	_	_
-48	was	_	_	_
-49	greeted	B-E-26	B-CERTAIN-26	B-POS-26
-50	by	_	_	_
-51	some	_	_	_
-52	400	_	_	_
-53	guests	_	_	_
-54	,	_	_	_
-55	including	_	_	_
-56	the	_	_	_
-57	Prime	_	_	_
-58	Minister	_	_	_
-59	of	_	_	_
-60	Singapore	_	_	_
-61	,	_	_	_
-62	Mr.	_	_	_
-63	Lee	_	_	_
-64	Hsien	_	_	_
-65	Loong	_	_	_
-66	,	_	_	_
-67	at	_	_	_
-68	the	_	_	_
-69	soon-to-open	_	_	_
-70	Terminal	_	_	_
-71	3	_	_	_
-72	of	_	_	_
-73	Changi	_	_	_
-74	International	_	_	_
-75	Airport	_	_	_
-76	.	_	_	_
+46	The	_	_	_	_
+47	aircraft	_	_	_	_
+48	was	_	_	_	_
+49	greeted	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
+50	by	_	_	_	_
+51	some	_	_	_	_
+52	400	_	_	_	_
+53	guests	_	_	_	_
+54	,	_	_	_	_
+55	including	_	_	_	_
+56	the	_	_	_	_
+57	Prime	_	_	_	_
+58	Minister	_	_	_	_
+59	of	_	_	_	_
+60	Singapore	_	_	_	_
+61	,	_	_	_	_
+62	Mr.	_	_	_	_
+63	Lee	_	_	_	_
+64	Hsien	_	_	_	_
+65	Loong	_	_	_	_
+66	,	_	_	_	_
+67	at	_	_	_	_
+68	the	_	_	_	_
+69	soon-to-open	_	_	_	_
+70	Terminal	_	_	_	_
+71	3	_	_	_	_
+72	of	_	_	_	_
+73	Changi	_	_	_	_
+74	International	_	_	_	_
+75	Airport	_	_	_	_
+76	.	_	_	_	_
 
-77	In	_	_	_
-78	his	_	_	_
-79	speech	B-E-27	B-CERTAIN-27	B-POS-27
-80	,	_	_	_
-81	the	_	_	_
-82	Prime	_	_	_
-83	Minister	_	_	_
-84	applauded	B-E-28	B-CERTAIN-28	B-POS-28
-85	Singapore	_	_	_
-86	Airlines	_	_	_
-87	(	_	_	_
-88	SIA	_	_	_
-89	)	_	_	_
-90	-	_	_	_
-91	the	_	_	_
-92	recipient	_	_	_
-93	carrier	_	_	_
-94	-	_	_	_
-95	and	_	_	_
-96	cited	B-E-29	B-CERTAIN-29	B-POS-29
-97	its	_	_	_
-98	success	B-E-30	B-CERTAIN-30	B-POS-30
-99	as	_	_	_
-100	a	_	_	_
-101	source	_	_	_
-102	of	_	_	_
-103	pride	B-E-31	B-CERTAIN-31	B-POS-31
-104	for	_	_	_
-105	all	_	_	_
-106	Singaporeans	_	_	_
-107	.	_	_	_
+77	In	_	_	_	_
+78	his	_	_	_	_
+79	speech	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+80	,	_	_	_	_
+81	the	_	_	_	_
+82	Prime	_	_	_	_
+83	Minister	_	_	_	_
+84	applauded	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+85	Singapore	_	_	_	_
+86	Airlines	_	_	_	_
+87	(	_	_	_	_
+88	SIA	_	_	_	_
+89	)	_	_	_	_
+90	-	_	_	_	_
+91	the	_	_	_	_
+92	recipient	_	_	_	_
+93	carrier	_	_	_	_
+94	-	_	_	_	_
+95	and	_	_	_	_
+96	cited	B-E-5	B-CERTAIN-5	B-POS-5	B-NON_FUTURE-5
+97	its	_	_	_	_
+98	success	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+99	as	_	_	_	_
+100	a	_	_	_	_
+101	source	_	_	_	_
+102	of	_	_	_	_
+103	pride	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+104	for	_	_	_	_
+105	all	_	_	_	_
+106	Singaporeans	_	_	_	_
+107	.	_	_	_	_
 
-108	He	_	_	_
-109	also	_	_	_
-110	said	B-E-32	B-CERTAIN-32	B-POS-32
-111	that	_	_	_
-112	the	_	_	_
-113	landing	B-E-33	B-CERTAIN-33	B-POS-33
-114	was	B-E-36	B-CERTAIN-36	B-POS-36
-115	a	_	_	_
-116	milestone	_	_	_
-117	not	_	_	_
-118	only	_	_	_
-119	for	_	_	_
-120	SIA	_	_	_
-121	,	_	_	_
-122	but	_	_	_
-123	also	_	_	_
-124	for	_	_	_
-125	Changi	_	_	_
-126	International	_	_	_
-127	Airport	_	_	_
-128	,	_	_	_
-129	the	_	_	_
-130	country	_	_	_
-131	's	_	_	_
-132	main	_	_	_
-133	airport	_	_	_
-134	.	_	_	_
+108	He	_	_	_	_
+109	also	_	_	_	_
+110	said	B-E-8	B-CERTAIN-8	B-POS-8	B-NON_FUTURE-8
+111	that	_	_	_	_
+112	the	_	_	_	_
+113	landing	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+114	was	B-E-12	B-CERTAIN-12	B-POS-12	B-NON_FUTURE-12
+115	a	_	_	_	_
+116	milestone	_	_	_	_
+117	not	_	_	_	_
+118	only	_	_	_	_
+119	for	_	_	_	_
+120	SIA	_	_	_	_
+121	,	_	_	_	_
+122	but	_	_	_	_
+123	also	_	_	_	_
+124	for	_	_	_	_
+125	Changi	_	_	_	_
+126	International	_	_	_	_
+127	Airport	_	_	_	_
+128	,	_	_	_	_
+129	the	_	_	_	_
+130	country	_	_	_	_
+131	's	_	_	_	_
+132	main	_	_	_	_
+133	airport	_	_	_	_
+134	.	_	_	_	_
 
-135	All	_	_	_
-136	existing	_	_	_
-137	terminals	_	_	_
-138	are	_	_	_
-139	currently	_	_	_
-140	A380-ready	_	_	_
-141	,	_	_	_
-142	and	_	_	_
-143	the	_	_	_
-144	SGD1.75-billion	_	_	_
-145	Terminal	_	_	_
-146	3	_	_	_
-147	will	_	_	_
-148	open	_	_	_
-149	its	_	_	_
-150	doors	_	_	_
-151	in	_	_	_
-152	January	_	_	_
-153	next	_	_	_
-154	year	_	_	_
-155	.	_	_	_
+135	All	_	_	_	_
+136	existing	_	_	_	_
+137	terminals	_	_	_	_
+138	are	_	_	_	_
+139	currently	_	_	_	_
+140	A380-ready	_	_	_	_
+141	,	_	_	_	_
+142	and	_	_	_	_
+143	the	_	_	_	_
+144	SGD1.75-billion	_	_	_	_
+145	Terminal	_	_	_	_
+146	3	_	_	_	_
+147	will	_	_	_	_
+148	open	_	_	_	_
+149	its	_	_	_	_
+150	doors	_	_	_	_
+151	in	_	_	_	_
+152	January	_	_	_	_
+153	next	_	_	_	_
+154	year	_	_	_	_
+155	.	_	_	_	_
 
-156	The	_	_	_
-157	A380	_	_	_
-158	will	_	_	_
-159	make	_	_	_
-160	a	_	_	_
-161	special	_	_	_
-162	charity	_	_	_
-163	flight	B-E-101	_-101	_-101
-164	on	_	_	_
-165	October	_	_	_
-166	25	_	_	_
-167	from	_	_	_
-168	Singapore	_	_	_
-169	to	_	_	_
-170	Sydney	_	_	_
-171	and	_	_	_
-172	will	_	_	_
-173	begin	_	_	_
-174	regular	_	_	_
-175	service	_	_	_
-176	on	_	_	_
-177	the	_	_	_
-178	Singapore-Sydney	_	_	_
-179	route	_	_	_
-180	on	_	_	_
-181	October	_	_	_
-182	28	_	_	_
-183	.	_	_	_
+156	The	_	_	_	_
+157	A380	_	_	_	_
+158	will	_	_	_	_
+159	make	_	_	_	_
+160	a	_	_	_	_
+161	special	_	_	_	_
+162	charity	_	_	_	_
+163	flight	_	_	_	_
+164	on	_	_	_	_
+165	October	_	_	_	_
+166	25	_	_	_	_
+167	from	_	_	_	_
+168	Singapore	_	_	_	_
+169	to	_	_	_	_
+170	Sydney	_	_	_	_
+171	and	_	_	_	_
+172	will	_	_	_	_
+173	begin	_	_	_	_
+174	regular	_	_	_	_
+175	service	_	_	_	_
+176	on	_	_	_	_
+177	the	_	_	_	_
+178	Singapore-Sydney	_	_	_	_
+179	route	_	_	_	_
+180	on	_	_	_	_
+181	October	_	_	_	_
+182	28	_	_	_	_
+183	.	_	_	_	_

@@ -1,185 +1,185 @@
-1	Airbus	_	_	_
-2	wins	B-E-25	B-CERTAIN-25	B-POS-25
-3	Qatar	_	_	_
-4	Airways	_	_	_
-5	order	B-E-26	B-CERTAIN-26	B-POS-26
-6	worth	B-E-27	B-CERTAIN-27	B-POS-27
-7	$	_	_	_
-8	15bn	_	_	_
+1	Airbus	_	_	_	_
+2	wins	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+3	Qatar	_	_	_	_
+4	Airways	_	_	_	_
+5	order	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
+6	worth	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+7	$	_	_	_	_
+8	15bn	_	_	_	_
 
-9	June	_	_	_
-10	13	_	_	_
-11	,	_	_	_
-12	2005	_	_	_
+9	June	_	_	_	_
+10	13	_	_	_	_
+11	,	_	_	_	_
+12	2005	_	_	_	_
 
-13	European	_	_	_
-14	aircraft	_	_	_
-15	manufacturer	_	_	_
-16	,	_	_	_
-17	Airbus	_	_	_
-18	,	_	_	_
-19	has	_	_	_
-20	won	B-E-28	B-CERTAIN-28	B-POS-28
-21	an	_	_	_
-22	order	B-E-29	B-CERTAIN-29	B-POS-29
-23	from	_	_	_
-24	Qatar	_	_	_
-25	Airways	_	_	_
-26	for	_	_	_
-27	up	_	_	_
-28	to	_	_	_
-29	60	_	_	_
-30	of	_	_	_
-31	its	_	_	_
-32	new	_	_	_
-33	mid-sized	_	_	_
-34	A350	_	_	_
-35	jets	_	_	_
-36	.	_	_	_
+13	European	_	_	_	_
+14	aircraft	_	_	_	_
+15	manufacturer	_	_	_	_
+16	,	_	_	_	_
+17	Airbus	_	_	_	_
+18	,	_	_	_	_
+19	has	_	_	_	_
+20	won	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+21	an	_	_	_	_
+22	order	B-E-5	B-CERTAIN-5	B-POS-5	B-NON_FUTURE-5
+23	from	_	_	_	_
+24	Qatar	_	_	_	_
+25	Airways	_	_	_	_
+26	for	_	_	_	_
+27	up	_	_	_	_
+28	to	_	_	_	_
+29	60	_	_	_	_
+30	of	_	_	_	_
+31	its	_	_	_	_
+32	new	_	_	_	_
+33	mid-sized	_	_	_	_
+34	A350	_	_	_	_
+35	jets	_	_	_	_
+36	.	_	_	_	_
 
-37	The	_	_	_
-38	order	B-E-30	B-CERTAIN-30	B-POS-30
-39	,	_	_	_
-40	which	B-E-31	B-CERTAIN-31	B-POS-31
-41	is	_	_	_
-42	believed	B-E-32	B-CERTAIN-32	B-POS-32
-43	to	_	_	_
-44	be	_	_	_
-45	worth	B-E-33	B-PROBABLE-33	B-POS-33
-46	$	_	_	_
-47	15	_	_	_
-48	billion	_	_	_
-49	,	_	_	_
-50	has	_	_	_
-51	given	B-E-34	B-CERTAIN-34	B-POS-34
-52	a	_	_	_
-53	boost	B-E-35	B-CERTAIN-35	B-POS-35
-54	to	_	_	_
-55	an	_	_	_
-56	otherwise	_	_	_
-57	disappointing	_	_	_
-58	Paris	_	_	_
-59	Air	_	_	_
-60	Show	B-E-36	B-CERTAIN-36	B-POS-36
-61	,	_	_	_
-62	which	B-E-37	B-CERTAIN-37	B-POS-37
-63	had	_	_	_
-64	been	_	_	_
-65	dominated	B-E-38	B-CERTAIN-38	B-POS-38
-66	by	_	_	_
-67	a	_	_	_
-68	state	_	_	_
-69	aid	_	_	_
-70	dispute	B-E-39	B-CERTAIN-39	B-POS-39
-71	between	_	_	_
-72	Airbus	_	_	_
-73	and	_	_	_
-74	Boeing	_	_	_
-75	.	_	_	_
+37	The	_	_	_	_
+38	order	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+39	,	_	_	_	_
+40	which	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+41	is	_	_	_	_
+42	believed	B-E-8	B-CERTAIN-8	B-POS-8	B-NON_FUTURE-8
+43	to	_	_	_	_
+44	be	_	_	_	_
+45	worth	B-E-9	B-PROBABLE-9	B-POS-9	B-NON_FUTURE-9
+46	$	_	_	_	_
+47	15	_	_	_	_
+48	billion	_	_	_	_
+49	,	_	_	_	_
+50	has	_	_	_	_
+51	given	B-E-10	B-CERTAIN-10	B-POS-10	B-NON_FUTURE-10
+52	a	_	_	_	_
+53	boost	B-E-11	B-CERTAIN-11	B-POS-11	B-NON_FUTURE-11
+54	to	_	_	_	_
+55	an	_	_	_	_
+56	otherwise	_	_	_	_
+57	disappointing	_	_	_	_
+58	Paris	_	_	_	_
+59	Air	_	_	_	_
+60	Show	B-E-12	B-CERTAIN-12	B-POS-12	B-NON_FUTURE-12
+61	,	_	_	_	_
+62	which	B-E-13	B-CERTAIN-13	B-POS-13	B-NON_FUTURE-13
+63	had	_	_	_	_
+64	been	_	_	_	_
+65	dominated	B-E-14	B-CERTAIN-14	B-POS-14	B-NON_FUTURE-14
+66	by	_	_	_	_
+67	a	_	_	_	_
+68	state	_	_	_	_
+69	aid	_	_	_	_
+70	dispute	B-E-15	B-CERTAIN-15	B-POS-15	B-NON_FUTURE-15
+71	between	_	_	_	_
+72	Airbus	_	_	_	_
+73	and	_	_	_	_
+74	Boeing	_	_	_	_
+75	.	_	_	_	_
 
-76	Qatar	_	_	_
-77	Airways	_	_	_
-78	,	_	_	_
-79	which	_	_	_
-80	choose	B-E-40	B-CERTAIN-40	B-POS-40
-81	the	_	_	_
-82	Airbus	_	_	_
-83	A350	_	_	_
-84	over	_	_	_
-85	Boeing	_	_	_
-86	's	_	_	_
-87	787	_	_	_
-88	,	_	_	_
-89	will	_	_	_
-90	also	_	_	_
-91	purchase	B-E-41	B-CERTAIN-41	B-POS-41
-92	20	_	_	_
-93	of	_	_	_
-94	Boeing	_	_	_
-95	's	_	_	_
-96	larger	_	_	_
-97	777	_	_	_
-98	planes	_	_	_
-99	for	_	_	_
-100	$	_	_	_
-101	4.6	_	_	_
-102	billion	_	_	_
-103	.	_	_	_
+76	Qatar	_	_	_	_
+77	Airways	_	_	_	_
+78	,	_	_	_	_
+79	which	_	_	_	_
+80	choose	B-E-16	B-CERTAIN-16	B-POS-16	B-NON_FUTURE-16
+81	the	_	_	_	_
+82	Airbus	_	_	_	_
+83	A350	_	_	_	_
+84	over	_	_	_	_
+85	Boeing	_	_	_	_
+86	's	_	_	_	_
+87	787	_	_	_	_
+88	,	_	_	_	_
+89	will	_	_	_	_
+90	also	_	_	_	_
+91	purchase	B-E-17	B-CERTAIN-17	B-POS-17	B-FUTURE-17
+92	20	_	_	_	_
+93	of	_	_	_	_
+94	Boeing	_	_	_	_
+95	's	_	_	_	_
+96	larger	_	_	_	_
+97	777	_	_	_	_
+98	planes	_	_	_	_
+99	for	_	_	_	_
+100	$	_	_	_	_
+101	4.6	_	_	_	_
+102	billion	_	_	_	_
+103	.	_	_	_	_
 
-104	Qatar	_	_	_
-105	has	B-E-42	B-CERTAIN-42	B-POS-42
-106	a	_	_	_
-107	previous	_	_	_
-108	order	B-E-43	B-CERTAIN-43	B-POS-43
-109	for	_	_	_
-110	2	_	_	_
-111	of	_	_	_
-112	Airbus	_	_	_
-113	'	_	_	_
-114	massive	_	_	_
-115	new	_	_	_
-116	A380	_	_	_
-117	's	_	_	_
-118	which	_	_	_
-119	it	_	_	_
-120	will	_	_	_
-121	begin	B-E-44	B-CERTAIN-44	B-POS-44
-122	to	_	_	_
-123	fly	B-E-45	B-CERTAIN-45	B-POS-45
-124	in	_	_	_
-125	2009	_	_	_
-126	out	_	_	_
-127	of	_	_	_
-128	London	_	_	_
-129	Heathrow	_	_	_
-130	.	_	_	_
+104	Qatar	_	_	_	_
+105	has	B-E-18	B-CERTAIN-18	B-POS-18	B-NON_FUTURE-18
+106	a	_	_	_	_
+107	previous	_	_	_	_
+108	order	B-E-19	B-CERTAIN-19	B-POS-19	B-NON_FUTURE-19
+109	for	_	_	_	_
+110	2	_	_	_	_
+111	of	_	_	_	_
+112	Airbus	_	_	_	_
+113	'	_	_	_	_
+114	massive	_	_	_	_
+115	new	_	_	_	_
+116	A380	_	_	_	_
+117	's	_	_	_	_
+118	which	_	_	_	_
+119	it	_	_	_	_
+120	will	_	_	_	_
+121	begin	B-E-20	B-CERTAIN-20	B-POS-20	B-FUTURE-20
+122	to	_	_	_	_
+123	fly	B-E-21	B-CERTAIN-21	B-POS-21	B-FUTURE-21
+124	in	_	_	_	_
+125	2009	_	_	_	_
+126	out	_	_	_	_
+127	of	_	_	_	_
+128	London	_	_	_	_
+129	Heathrow	_	_	_	_
+130	.	_	_	_	_
 
-131	In	_	_	_
-132	2004	_	_	_
-133	,	_	_	_
-134	Airbus	_	_	_
-135	sold	B-E-152	_-152	_-152
-136	more	_	_	_
-137	planes	_	_	_
-138	than	_	_	_
-139	Boeing	_	_	_
-140	for	_	_	_
-141	the	_	_	_
-142	first	_	_	_
-143	time	_	_	_
-144	ever	_	_	_
-145	,	_	_	_
-146	sparking	_	_	_
-147	questions	_	_	_
-148	whether	_	_	_
-149	the	_	_	_
-150	US	_	_	_
-151	company	_	_	_
-152	had	_	_	_
-153	lost	B-E-98	_-98	_-98
-154	its	_	_	_
-155	once	_	_	_
-156	seemingly	_	_	_
-157	impregnable	_	_	_
-158	grip	_	_	_
-159	on	_	_	_
-160	the	_	_	_
-161	aviation	_	_	_
-162	market	_	_	_
-163	.	_	_	_
+131	In	_	_	_	_
+132	2004	_	_	_	_
+133	,	_	_	_	_
+134	Airbus	_	_	_	_
+135	sold	_	_	_	_
+136	more	_	_	_	_
+137	planes	_	_	_	_
+138	than	_	_	_	_
+139	Boeing	_	_	_	_
+140	for	_	_	_	_
+141	the	_	_	_	_
+142	first	_	_	_	_
+143	time	_	_	_	_
+144	ever	_	_	_	_
+145	,	_	_	_	_
+146	sparking	_	_	_	_
+147	questions	_	_	_	_
+148	whether	_	_	_	_
+149	the	_	_	_	_
+150	US	_	_	_	_
+151	company	_	_	_	_
+152	had	_	_	_	_
+153	lost	_	_	_	_
+154	its	_	_	_	_
+155	once	_	_	_	_
+156	seemingly	_	_	_	_
+157	impregnable	_	_	_	_
+158	grip	_	_	_	_
+159	on	_	_	_	_
+160	the	_	_	_	_
+161	aviation	_	_	_	_
+162	market	_	_	_	_
+163	.	_	_	_	_
 
-164	However	_	_	_
-165	thus	_	_	_
-166	far	_	_	_
-167	,	_	_	_
-168	Boeing	_	_	_
-169	has	_	_	_
-170	received	B-E-97	_-97	_-97
-171	far	_	_	_
-172	more	_	_	_
-173	orders	_	_	_
-174	than	_	_	_
-175	Airbus	_	_	_
-176	in	_	_	_
-177	2005	_	_	_
-178	.	_	_	_
+164	However	_	_	_	_
+165	thus	_	_	_	_
+166	far	_	_	_	_
+167	,	_	_	_	_
+168	Boeing	_	_	_	_
+169	has	_	_	_	_
+170	received	_	_	_	_
+171	far	_	_	_	_
+172	more	_	_	_	_
+173	orders	_	_	_	_
+174	than	_	_	_	_
+175	Airbus	_	_	_	_
+176	in	_	_	_	_
+177	2005	_	_	_	_
+178	.	_	_	_	_

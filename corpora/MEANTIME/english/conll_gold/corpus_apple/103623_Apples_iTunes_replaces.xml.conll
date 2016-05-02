@@ -1,0 +1,421 @@
+1	Apple	_	_	_	_
+2	's	_	_	_	_
+3	iTunes	_	_	_	_
+4	replaces	B-E-8	B-CERTAIN-8	B-POS-8	B-NON_FUTURE-8
+5	Wal	_	_	_	_
+6	-	_	_	_	_
+7	Mart	_	_	_	_
+8	as	_	_	_	_
+9	No.	_	_	_	_
+10	1	_	_	_	_
+11	U.S.	_	_	_	_
+12	music	_	_	_	_
+13	seller	_	_	_	_
+
+14	April	_	_	_	_
+
+15	9	_	_	_	_
+
+16	,	_	_	_	_
+
+17	2008	_	_	_	_
+
+18	Five	_	_	_	_
+
+19	years	_	_	_	_
+
+20	after	_	_	_	_
+
+21	its	_	_	_	_
+
+22	launch	B-E-13	B-CERTAIN-13	B-POS-13	B-NON_FUTURE-13
+
+23	,	_	_	_	_
+
+24	Apple	_	_	_	_
+
+25	Computer	_	_	_	_
+
+26	's	_	_	_	_
+
+27	iTunes	_	_	_	_
+
+28	downloadable	_	_	_	_
+
+29	music	_	_	_	_
+
+30	service	_	_	_	_
+
+31	in	_	_	_	_
+
+32	February	_	_	_	_
+
+33	passed	B-E-14	B-CERTAIN-14	B-POS-14	B-NON_FUTURE-14
+
+34	Wal	_	_	_	_
+
+35	-	_	_	_	_
+
+36	Mart	_	_	_	_
+
+37	to	_	_	_	_
+
+38	become	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+
+39	the	_	_	_	_
+
+40	No.	_	_	_	_
+
+41	1	_	_	_	_
+
+42	music	_	_	_	_
+
+43	seller	_	_	_	_
+
+44	in	_	_	_	_
+
+45	the	_	_	_	_
+
+46	United	_	_	_	_
+
+47	States	_	_	_	_
+
+48	,	_	_	_	_
+
+49	according	_	_	_	_
+
+50	to	_	_	_	_
+
+51	figures	_	_	_	_
+
+52	released	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+
+53	April	_	_	_	_
+
+54	3	_	_	_	_
+
+55	by	_	_	_	_
+
+56	NPD	_	_	_	_
+
+57	Group	_	_	_	_
+
+58	,	_	_	_	_
+
+59	a	_	_	_	_
+
+60	market	_	_	_	_
+
+61	research	_	_	_	_
+
+62	firm	_	_	_	_
+
+63	.	_	_	_	_
+
+64	The	_	_	_	_
+
+65	firm	_	_	_	_
+
+66	said	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+
+67	more	_	_	_	_
+
+68	than	_	_	_	_
+
+69	4	_	_	_	_
+
+70	billion	_	_	_	_
+
+71	songs	_	_	_	_
+
+72	had	_	_	_	_
+
+73	been	_	_	_	_
+
+74	downloaded	B-E-11	B-CERTAIN-11	B-POS-11	B-NON_FUTURE-11
+
+75	from	_	_	_	_
+
+76	the	_	_	_	_
+
+77	iTunes	_	_	_	_
+
+78	store	_	_	_	_
+
+79	since	_	_	_	_
+
+80	its	_	_	_	_
+
+81	launch	B-E-5	B-CERTAIN-5	B-POS-5	B-NON_FUTURE-5
+
+82	in	_	_	_	_
+
+83	2003	_	_	_	_
+
+84	and	_	_	_	_
+
+85	that	_	_	_	_
+
+86	as	_	_	_	_
+
+87	of	_	_	_	_
+
+88	February	_	_	_	_
+
+89	,	_	_	_	_
+
+90	the	_	_	_	_
+
+91	iTunes	_	_	_	_
+
+92	store	_	_	_	_
+
+93	accounts	B-E-10	B-CERTAIN-10	B-POS-10	B-NON_FUTURE-10
+
+94	for	I-E-11	I-CERTAIN-11	I-POS-11	I-NON_FUTURE-11
+
+95	70	_	_	_	_
+
+96	%	_	_	_	_
+
+97	of	_	_	_	_
+
+98	all	_	_	_	_
+
+99	digital	_	_	_	_
+
+100	music	_	_	_	_
+
+101	sales	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+
+102	.	_	_	_	_
+
+103	NPD	_	_	_	_
+
+104	said	B-E-15	B-CERTAIN-15	B-POS-15	B-NON_FUTURE-15
+
+105	according	_	_	_	_
+
+106	to	_	_	_	_
+
+107	those	_	_	_	_
+
+108	figures	_	_	_	_
+
+109	,	_	_	_	_
+
+110	Apple	_	_	_	_
+
+111	's	_	_	_	_
+
+112	iTunes	_	_	_	_
+
+113	store	_	_	_	_
+
+114	passes	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
+
+115	U.S.	_	_	_	_
+
+116	electronics	_	_	_	_
+
+117	retailer	_	_	_	_
+
+118	Best	_	_	_	_
+
+119	Buy	_	_	_	_
+
+120	for	_	_	_	_
+
+121	the	_	_	_	_
+
+122	No.	_	_	_	_
+
+123	2	_	_	_	_
+
+124	U.S.	_	_	_	_
+
+125	music	_	_	_	_
+
+126	retailer	_	_	_	_
+
+127	in	_	_	_	_
+
+128	2007	_	_	_	_
+
+129	.	_	_	_	_
+
+130	According	_	_	_	_
+
+131	to	_	_	_	_
+
+132	an	_	_	_	_
+
+133	April	_	_	_	_
+
+134	2nd	_	_	_	_
+
+135	report	_	_	_	_
+
+136	in	_	_	_	_
+
+137	Ars	_	_	_	_
+
+138	Technica	_	_	_	_
+
+139	,	_	_	_	_
+
+140	an	_	_	_	_
+
+141	internal	_	_	_	_
+
+142	memo	_	_	_	_
+
+143	at	_	_	_	_
+
+144	Apple	_	_	_	_
+
+145	showed	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+
+146	the	_	_	_	_
+
+147	company	_	_	_	_
+
+148	passed	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+
+149	Wal	_	_	_	_
+
+150	-	_	_	_	_
+
+151	Mart	_	_	_	_
+
+152	as	_	_	_	_
+
+153	the	_	_	_	_
+
+154	top	_	_	_	_
+
+155	U.S.	_	_	_	_
+
+156	music	_	_	_	_
+
+157	seller	_	_	_	_
+
+158	Wal	_	_	_	_
+
+159	-	_	_	_	_
+
+160	Mart	_	_	_	_
+
+161	at	_	_	_	_
+
+162	the	_	_	_	_
+
+163	beginning	_	_	_	_
+
+164	of	_	_	_	_
+
+165	the	_	_	_	_
+
+166	year	_	_	_	_
+
+167	.	_	_	_	_
+
+168	Their	_	_	_	_
+
+169	projections	_	_	_	_
+
+170	showed	_	_	_	_
+
+171	that	_	_	_	_
+
+172	as	_	_	_	_
+
+173	of	_	_	_	_
+
+174	January	_	_	_	_
+
+175	2008	_	_	_	_
+
+176	,	_	_	_	_
+
+177	Apple	_	_	_	_
+
+178	's	_	_	_	_
+
+179	iTunes	_	_	_	_
+
+180	held	_	_	_	_
+
+181	19	_	_	_	_
+
+182	percent	_	_	_	_
+
+183	of	_	_	_	_
+
+184	the	_	_	_	_
+
+185	U.S.	_	_	_	_
+
+186	music	_	_	_	_
+
+187	market	_	_	_	_
+
+188	with	_	_	_	_
+
+189	Wal	_	_	_	_
+
+190	-	_	_	_	_
+
+191	Mart	_	_	_	_
+
+192	at	_	_	_	_
+
+193	15	_	_	_	_
+
+194	percent	_	_	_	_
+
+195	,	_	_	_	_
+
+196	followed	_	_	_	_
+
+197	by	_	_	_	_
+
+198	Best	_	_	_	_
+
+199	Buy	_	_	_	_
+
+200	at	_	_	_	_
+
+201	13	_	_	_	_
+
+202	percent	_	_	_	_
+
+203	.	_	_	_	_
+
+204	Rounding	_	_	_	_
+
+205	out	_	_	_	_
+
+206	the	_	_	_	_
+
+207	top	_	_	_	_
+
+208	five	_	_	_	_
+
+209	were	_	_	_	_
+
+210	Amazon.com	_	_	_	_
+
+211	and	_	_	_	_
+
+212	Target	_	_	_	_
+
+213	at	_	_	_	_
+
+214	6	_	_	_	_
+
+215	percent	_	_	_	_
+
+216	each	_	_	_	_
+
+217	.	_	_	_	_

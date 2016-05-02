@@ -1,214 +1,239 @@
-1	Government	_	_	_
-2	Accountability	_	_	_
-3	Office	_	_	_
-4	requests	B-E-22	B-CERTAIN-22	B-POS-22
-5	rerun	B-E-23	B-CERTAIN-23	B-POS-23
-6	of	_	_	_
-7	US	_	_	_
-8	Air	_	_	_
-9	Force	_	_	_
-10	tanker	_	_	_
-11	bid	_	_	_
+1	Government	_	_	_	_
+2	Accountability	_	_	_	_
+3	Office	_	_	_	_
+4	requests	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+5	rerun	B-E-2	B-CERTAIN-2	B-POS-2	B-FUTURE-2
+6	of	_	_	_	_
+7	US	_	_	_	_
+8	Air	_	_	_	_
+9	Force	_	_	_	_
+10	tanker	_	_	_	_
+11	bid	_	_	_	_
 
-12	July	_	_	_
-13	02	_	_	_
-14	,	_	_	_
-15	2008	_	_	_
+12	July	_	_	_	_
+13	02	_	_	_	_
+14	,	_	_	_	_
+15	2008	_	_	_	_
 
-16	The	_	_	_
-17	Government	_	_	_
-18	Accountability	_	_	_
-19	Office	_	_	_
-20	on	_	_	_
-21	June	_	_	_
-22	18	_	_	_
-23	called	B-E-24	B-CERTAIN-24	B-POS-24
-24	for	_	_	_
-25	a	_	_	_
-26	re-run	B-E-43	B-CERTAIN-43	B-POS-43
-27	of	_	_	_
-28	the	_	_	_
-29	bidding	B-E-25	B-CERTAIN-25	B-POS-25
-30	for	_	_	_
-31	the	_	_	_
-32	U.S.	_	_	_
-33	Air	_	_	_
-34	Force	_	_	_
-35	$	_	_	_
-36	40	_	_	_
-37	billion	_	_	_
-38	tanker	_	_	_
-39	contract	_	_	_
-40	,	_	_	_
-41	citing	B-E-26	B-CERTAIN-26	B-POS-26
-42	major	_	_	_
-43	flaws	B-E-27	B-CERTAIN-27	B-POS-27
-44	in	_	_	_
-45	the	_	_	_
-46	procurement	_	_	_
-47	process	B-E-28	B-CERTAIN-28	B-POS-28
-48	.	_	_	_
+16	The	_	_	_	_
+17	Government	_	_	_	_
+18	Accountability	_	_	_	_
+19	Office	_	_	_	_
+20	on	_	_	_	_
+21	June	_	_	_	_
+22	18	_	_	_	_
+23	called	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+24	for	_	_	_	_
+25	a	_	_	_	_
+26	re-run	B-E-22	B-CERTAIN-22	B-POS-22	B-FUTURE-22
+27	of	_	_	_	_
+28	the	_	_	_	_
+29	bidding	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+30	for	_	_	_	_
+31	the	_	_	_	_
+32	U.S.	_	_	_	_
+33	Air	_	_	_	_
+34	Force	_	_	_	_
+35	$	_	_	_	_
+36	40	_	_	_	_
+37	billion	_	_	_	_
+38	tanker	_	_	_	_
+39	contract	_	_	_	_
+40	,	_	_	_	_
+41	citing	B-E-5	B-CERTAIN-5	B-POS-5	B-NON_FUTURE-5
+42	major	_	_	_	_
+43	flaws	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+44	in	_	_	_	_
+45	the	_	_	_	_
+46	procurement	_	_	_	_
+47	process	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+48	.	_	_	_	_
 
-49	This	_	_	_
-50	imperils	B-E-29	B-CERTAIN-29	B-POS-29
-51	the	_	_	_
-52	Northrop	_	_	_
-53	Grumman	_	_	_
-54	and	_	_	_
-55	EADS	_	_	_
-56	North	_	_	_
-57	America	_	_	_
-58	plan	B-E-30	B-CERTAIN-30	B-POS-30
-59	to	_	_	_
-60	assemble	B-E-31	B-CERTAIN-31	B-POS-31
-61	the	_	_	_
-62	planes	_	_	_
-63	in	_	_	_
-64	Mobile	_	_	_
-65	,	_	_	_
-66	Alabama	_	_	_
-67	.	_	_	_
+49	This	_	_	_	_
+50	imperils	B-E-8	B-CERTAIN-8	B-POS-8	B-NON_FUTURE-8
+51	the	_	_	_	_
+52	Northrop	_	_	_	_
+53	Grumman	_	_	_	_
+54	and	_	_	_	_
+55	EADS	_	_	_	_
+56	North	_	_	_	_
+57	America	_	_	_	_
+58	plan	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+59	to	_	_	_	_
+60	assemble	B-E-10	B-CERTAIN-10	B-POS-10	B-FUTURE-10
+61	the	_	_	_	_
+62	planes	_	_	_	_
+63	in	_	_	_	_
+64	Mobile	_	_	_	_
+65	,	_	_	_	_
+66	Alabama	_	_	_	_
+67	.	_	_	_	_
 
-68	When	_	_	_
-69	the	_	_	_
-70	Air	_	_	_
-71	Force	_	_	_
-72	selected	B-E-32	B-CERTAIN-32	B-POS-32
-73	Los	_	_	_
-74	Angeles	_	_	_
-75	based	_	_	_
-76	Northrop	_	_	_
-77	Grumman	_	_	_
-78	on	_	_	_
-79	February	_	_	_
-80	29	_	_	_
-81	to	_	_	_
-82	build	B-E-33	B-CERTAIN-33	B-POS-33
-83	the	_	_	_
-84	aircraft	_	_	_
-85	,	_	_	_
-86	Boeing	_	_	_
-87	challenged	B-E-34	B-CERTAIN-34	B-POS-34
-88	the	_	_	_
-89	award	B-E-35	B-CERTAIN-35	B-POS-35
-90	in	_	_	_
-91	a	_	_	_
-92	formal	_	_	_
-93	protest	B-E-36	B-CERTAIN-36	B-POS-36
-94	before	_	_	_
-95	the	_	_	_
-96	GAO	_	_	_
-97	,	_	_	_
-98	claiming	B-E-40	B-CERTAIN-40	B-POS-40
-99	the	_	_	_
-100	evaluation	B-E-41	B-CERTAIN-41	B-POS-41
-101	was	_	_	_
-102	skewed	B-E-42	B-CERTAIN-42	B-POS-42
-103	towards	_	_	_
-104	Northrop	_	_	_
-105	.	_	_	_
+68	When	_	_	_	_
+69	the	_	_	_	_
+70	Air	_	_	_	_
+71	Force	_	_	_	_
+72	selected	B-E-11	B-CERTAIN-11	B-POS-11	B-NON_FUTURE-11
+73	Los	_	_	_	_
+74	Angeles	_	_	_	_
+75	based	_	_	_	_
+76	Northrop	_	_	_	_
+77	Grumman	_	_	_	_
+78	on	_	_	_	_
+79	February	_	_	_	_
+80	29	_	_	_	_
+81	to	_	_	_	_
+82	build	B-E-12	B-CERTAIN-12	B-POS-12	B-NON_FUTURE-12
+83	the	_	_	_	_
+84	aircraft	_	_	_	_
+85	,	_	_	_	_
+86	Boeing	_	_	_	_
+87	challenged	B-E-13	B-CERTAIN-13	B-POS-13	B-NON_FUTURE-13
+88	the	_	_	_	_
+89	award	B-E-14	B-CERTAIN-14	B-POS-14	B-NON_FUTURE-14
+90	in	_	_	_	_
+91	a	_	_	_	_
+92	formal	_	_	_	_
+93	protest	B-E-15	B-CERTAIN-15	B-POS-15	B-NON_FUTURE-15
+94	before	_	_	_	_
+95	the	_	_	_	_
+96	GAO	_	_	_	_
+97	,	_	_	_	_
+98	claiming	B-E-19	B-CERTAIN-19	B-POS-19	B-NON_FUTURE-19
+99	the	_	_	_	_
+100	evaluation	B-E-20	B-CERTAIN-20	B-POS-20	B-NON_FUTURE-20
+101	was	_	_	_	_
+102	skewed	B-E-21	B-CERTAIN-21	B-POS-21	B-NON_FUTURE-21
+103	towards	_	_	_	_
+104	Northrop	_	_	_	_
+105	.	_	_	_	_
 
-106	The	_	_	_
-107	GAO	_	_	_
-108	upheld	B-E-44	B-CERTAIN-44	B-POS-44
-109	Boeing	_	_	_
-110	's	_	_	_
-111	protest	B-E-37	B-CERTAIN-37	B-POS-37
-112	,	_	_	_
-113	though	_	_	_
-114	not	_	_	_
-115	all	_	_	_
-116	of	_	_	_
-117	their	_	_	_
-118	individual	_	_	_
-119	claims	B-E-38	B-CERTAIN-38	B-POS-38
-120	were	_	_	_
-121	upheld	B-E-39	B-CERTAIN-39	B-POS-39
-122	.	_	_	_
+106	The	_	_	_	_
+107	GAO	_	_	_	_
+108	upheld	B-E-23	B-CERTAIN-23	B-POS-23	B-NON_FUTURE-23
+109	Boeing	_	_	_	_
+110	's	_	_	_	_
+111	protest	B-E-16	B-CERTAIN-16	B-POS-16	B-NON_FUTURE-16
+112	,	_	_	_	_
+113	though	_	_	_	_
+114	not	_	_	_	_
+115	all	_	_	_	_
+116	of	_	_	_	_
+117	their	_	_	_	_
+118	individual	_	_	_	_
+119	claims	B-E-17	B-CERTAIN-17	B-POS-17	B-NON_FUTURE-17
+120	were	_	_	_	_
+121	upheld	B-E-18	B-CERTAIN-18	B-POS-18	B-NON_FUTURE-18
+122	.	_	_	_	_
 
-123	``	_	_	_
-124	Our	_	_	_
-125	review	_	_	_
-126	of	_	_	_
-127	the	_	_	_
-128	record	_	_	_
-129	led	_	_	_
-130	us	_	_	_
-131	to	_	_	_
-132	conclude	_	_	_
-133	that	_	_	_
-134	the	_	_	_
-135	Air	_	_	_
-136	Force	_	_	_
-137	had	_	_	_
-138	made	_	_	_
-139	a	_	_	_
-140	number	_	_	_
-141	of	_	_	_
-142	significant	_	_	_
-143	errors	_	_	_
-144	that	_	_	_
-145	could	_	_	_
-146	have	_	_	_
-147	affected	_	_	_
-148	the	_	_	_
-149	outcome	_	_	_
-150	of	_	_	_
-151	what	_	_	_
-152	was	_	_	_
-153	a	_	_	_
-154	close	_	_	_
-155	competition	B-E-89	_-89	_-89
-156	between	_	_	_
-157	Boeing	_	_	_
-158	and	_	_	_
-159	Northrop	_	_	_
-160	Grumman	_	_	_
-161	,	_	_	_
-162	''	_	_	_
-163	said	_	_	_
-164	Michael	_	_	_
-165	R.	_	_	_
-166	Golden	_	_	_
-167	,	_	_	_
-168	the	_	_	_
-169	GAO	_	_	_
-170	's	_	_	_
-171	managing	_	_	_
-172	associate	_	_	_
-173	general	_	_	_
-174	counsel	_	_	_
-175	for	_	_	_
-176	procurement	_	_	_
-177	law	_	_	_
-178	.	_	_	_
+123	``	_	_	_	_
+124	Our	_	_	_	_
+125	review	_	_	_	_
+126	of	_	_	_	_
+127	the	_	_	_	_
+128	record	_	_	_	_
+129	led	_	_	_	_
+130	us	_	_	_	_
+131	to	_	_	_	_
+132	conclude	_	_	_	_
+133	that	_	_	_	_
+134	the	_	_	_	_
+135	Air	_	_	_	_
+136	Force	_	_	_	_
+137	had	_	_	_	_
+138	made	_	_	_	_
+139	a	_	_	_	_
+140	number	_	_	_	_
+141	of	_	_	_	_
+142	significant	_	_	_	_
+143	errors	_	_	_	_
+144	that	_	_	_	_
+145	could	_	_	_	_
+146	have	_	_	_	_
+147	affected	_	_	_	_
+148	the	_	_	_	_
+149	outcome	_	_	_	_
+150	of	_	_	_	_
+151	what	_	_	_	_
+152	was	_	_	_	_
+153	a	_	_	_	_
+154	close	_	_	_	_
+155	competition	_	_	_	_
+156	between	_	_	_	_
+157	Boeing	_	_	_	_
+158	and	_	_	_	_
+159	Northrop	_	_	_	_
+160	Grumman	_	_	_	_
+161	,	_	_	_	_
+162	''	_	_	_	_
+163	said	_	_	_	_
+164	Michael	_	_	_	_
+165	R.	_	_	_	_
+166	Golden	_	_	_	_
+167	,	_	_	_	_
+168	the	_	_	_	_
+169	GAO	_	_	_	_
+170	's	_	_	_	_
+171	managing	_	_	_	_
+172	associate	_	_	_	_
+173	general	_	_	_	_
+174	counsel	_	_	_	_
+175	for	_	_	_	_
+176	procurement	_	_	_	_
+177	law	_	_	_	_
+178	.	_	_	_	_
 
-179	The	_	_	_
-180	GAO	_	_	_
-181	issued	_	_	_
-182	a	_	_	_
-183	non-binding	_	_	_
-184	recommendation	_	_	_
-185	that	_	_	_
-186	the	_	_	_
-187	Air	_	_	_
-188	Force	_	_	_
-189	re-open	_	_	_
-190	the	_	_	_
-191	competition	_	_	_
-192	,	_	_	_
-193	allow	_	_	_
-194	the	_	_	_
-195	competitors	_	_	_
-196	to	_	_	_
-197	submit	_	_	_
-198	revised	_	_	_
-199	bids	_	_	_
-200	,	_	_	_
-201	and	_	_	_
-202	completely	_	_	_
-203	re-evaluate	_	_	_
-204	the	_	_	_
-205	new	_	_	_
-206	bids	_	_	_
-207	.	_	_	_
+179	The	_	_	_	_
+180	GAO	_	_	_	_
+181	issued	_	_	_	_
+182	a	_	_	_	_
+183	non-binding	_	_	_	_
+184	recommendation	_	_	_	_
+185	that	_	_	_	_
+186	the	_	_	_	_
+187	Air	_	_	_	_
+188	Force	_	_	_	_
+189	re-open	_	_	_	_
+190	the	_	_	_	_
+191	competition	_	_	_	_
+192	,	_	_	_	_
+193	allow	_	_	_	_
+194	the	_	_	_	_
+195	competitors	_	_	_	_
+196	to	_	_	_	_
+197	submit	_	_	_	_
+198	revised	_	_	_	_
+199	bids	_	_	_	_
+200	,	_	_	_	_
+201	and	_	_	_	_
+202	completely	_	_	_	_
+203	re-evaluate	_	_	_	_
+204	the	_	_	_	_
+205	new	_	_	_	_
+206	bids	_	_	_	_
+207	.	_	_	_	_
+
+208	This	_	_	_	_
+209	process	_	_	_	_
+210	could	_	_	_	_
+211	take	_	_	_	_
+212	a	_	_	_	_
+213	year	_	_	_	_
+214	or	_	_	_	_
+215	more	_	_	_	_
+216	to	_	_	_	_
+217	complete	_	_	_	_
+218	.	_	_	_	_
+
+219	The	_	_	_	_
+220	Air	_	_	_	_
+221	Force	_	_	_	_
+222	has	_	_	_	_
+223	60	_	_	_	_
+224	days	_	_	_	_
+225	to	_	_	_	_
+226	respond	_	_	_	_
+227	to	_	_	_	_
+228	the	_	_	_	_
+229	GAO	_	_	_	_
+230	.	_	_	_	_

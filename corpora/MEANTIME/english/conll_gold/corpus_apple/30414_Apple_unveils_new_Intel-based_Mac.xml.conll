@@ -1,0 +1,207 @@
+1	Apple	_	_	_	_
+2	unveils	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+3	new	_	_	_	_
+4	Intel-based	_	_	_	_
+5	Mac	_	_	_	_
+
+6	January	_	_	_	_
+
+7	11	_	_	_	_
+
+8	,	_	_	_	_
+
+9	2006	_	_	_	_
+
+10	Apple	_	_	_	_
+
+11	Computer	_	_	_	_
+
+12	announced	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
+
+13	on	_	_	_	_
+
+14	Tuesday	_	_	_	_
+
+15	the	_	_	_	_
+
+16	first	_	_	_	_
+
+17	generation	_	_	_	_
+
+18	of	_	_	_	_
+
+19	their	_	_	_	_
+
+20	products	_	_	_	_
+
+21	to	_	_	_	_
+
+22	use	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+
+23	Intel	_	_	_	_
+
+24	processors	_	_	_	_
+
+25	.	_	_	_	_
+
+26	The	_	_	_	_
+
+27	iMac	_	_	_	_
+
+28	and	_	_	_	_
+
+29	the	_	_	_	_
+
+30	new	_	_	_	_
+
+31	MacBook	_	_	_	_
+
+32	Pro	_	_	_	_
+
+33	-	_	_	_	_
+
+34	a	_	_	_	_
+
+35	notebook	_	_	_	_
+
+36	computer	_	_	_	_
+
+37	replacing	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+
+38	the	_	_	_	_
+
+39	PowerBook	_	_	_	_
+
+40	-	_	_	_	_
+
+41	are	_	_	_	_
+
+42	said	_	_	_	_
+
+43	to	_	_	_	_
+
+44	be	B-E-5	B-POSSIBLE-5	B-POS-5	B-NON_FUTURE-5
+
+45	up	_	_	_	_
+
+46	to	_	_	_	_
+
+47	four	_	_	_	_
+
+48	times	_	_	_	_
+
+49	faster	_	_	_	_
+
+50	than	_	_	_	_
+
+51	their	_	_	_	_
+
+52	predecessors	_	_	_	_
+
+53	(	_	_	_	_
+
+54	up	_	_	_	_
+
+55	to	_	_	_	_
+
+56	two	_	_	_	_
+
+57	times	_	_	_	_
+
+58	faster	_	_	_	_
+
+59	in	_	_	_	_
+
+60	the	_	_	_	_
+
+61	iMac	_	_	_	_
+
+62	,	_	_	_	_
+
+63	four	_	_	_	_
+
+64	times	_	_	_	_
+
+65	for	_	_	_	_
+
+66	the	_	_	_	_
+
+67	MacBook	_	_	_	_
+
+68	.	_	_	_	_
+
+69	)	_	_	_	_
+
+70	These	_	_	_	_
+
+71	new	_	_	_	_
+
+72	lines	_	_	_	_
+
+73	of	_	_	_	_
+
+74	computers	_	_	_	_
+
+75	have	_	_	_	_
+
+76	been	_	_	_	_
+
+77	set	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+
+78	up	I-E-6	I-CERTAIN-6	I-POS-6	I-NON_FUTURE-6
+
+79	to	_	_	_	_
+
+80	support	B-E-7	B-CERTAIN-7	B-POS-7	B-FUTURE-7
+
+81	the	_	_	_	_
+
+82	newest	_	_	_	_
+
+83	collection	_	_	_	_
+
+84	of	_	_	_	_
+
+85	Mac	_	_	_	_
+
+86	software	_	_	_	_
+
+87	entitled	B-E-8	B-CERTAIN-8	B-POS-8	B-NON_FUTURE-8
+
+88	iLife	_	_	_	_
+
+89	,	_	_	_	_
+
+90	which	_	_	_	_
+
+91	has	_	_	_	_
+
+92	added	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+
+93	internet	_	_	_	_
+
+94	publication	_	_	_	_
+
+95	software	_	_	_	_
+
+96	to	_	_	_	_
+
+97	its	_	_	_	_
+
+98	high-end	_	_	_	_
+
+99	graphics	_	_	_	_
+
+100	,	_	_	_	_
+
+101	video	_	_	_	_
+
+102	,	_	_	_	_
+
+103	and	_	_	_	_
+
+104	sound	_	_	_	_
+
+105	tools	_	_	_	_
+
+106	.	_	_	_	_

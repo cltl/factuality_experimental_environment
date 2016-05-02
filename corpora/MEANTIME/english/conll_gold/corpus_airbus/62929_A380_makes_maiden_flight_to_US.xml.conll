@@ -1,171 +1,349 @@
-1	A380	_	_	_
-2	makes	B-E-32	B-CERTAIN-32	B-POS-32
-3	maiden	_	_	_
-4	flight	B-E-33	B-CERTAIN-33	B-POS-33
-5	to	_	_	_
-6	US	_	_	_
+1	A380	_	_	_	_
+2	makes	B-E-10	B-CERTAIN-10	B-POS-10	B-NON_FUTURE-10
+3	maiden	_	_	_	_
+4	flight	B-E-11	B-CERTAIN-11	B-POS-11	B-NON_FUTURE-11
+5	to	_	_	_	_
+6	US	_	_	_	_
 
-7	March	_	_	_
-8	19	_	_	_
-9	,	_	_	_
-10	2007	_	_	_
+7	March	_	_	_	_
+8	19	_	_	_	_
+9	,	_	_	_	_
+10	2007	_	_	_	_
 
-11	The	_	_	_
-12	Airbus	_	_	_
-13	A380	_	_	_
-14	,	_	_	_
-15	the	_	_	_
-16	world	_	_	_
-17	's	_	_	_
-18	largest	_	_	_
-19	passenger	_	_	_
-20	plane	_	_	_
-21	,	_	_	_
-22	was	_	_	_
-23	set	B-E-23	B-CERTAIN-23	B-POS-23
-24	to	_	_	_
-25	land	B-E-24	B-UNDERSPECIFIED-24	B-POS-24
-26	in	_	_	_
-27	the	_	_	_
-28	United	_	_	_
-29	States	_	_	_
-30	of	_	_	_
-31	America	_	_	_
-32	on	_	_	_
-33	Monday	_	_	_
-34	after	_	_	_
-35	a	_	_	_
-36	test	B-E-25	B-CERTAIN-25	B-POS-25
-37	flight	I-E-25	I-CERTAIN-25	I-POS-25
-38	.	_	_	_
+11	The	_	_	_	_
+12	Airbus	_	_	_	_
+13	A380	_	_	_	_
+14	,	_	_	_	_
+15	the	_	_	_	_
+16	world	_	_	_	_
+17	's	_	_	_	_
+18	largest	_	_	_	_
+19	passenger	_	_	_	_
+20	plane	_	_	_	_
+21	,	_	_	_	_
+22	was	_	_	_	_
+23	set	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+24	to	_	_	_	_
+25	land	B-E-2	B-UNDERSPECIFIED-2	B-POS-2	B-NON_FUTURE-2
+26	in	_	_	_	_
+27	the	_	_	_	_
+28	United	_	_	_	_
+29	States	_	_	_	_
+30	of	_	_	_	_
+31	America	_	_	_	_
+32	on	_	_	_	_
+33	Monday	_	_	_	_
+34	after	_	_	_	_
+35	a	_	_	_	_
+36	test	_	_	_	_
+37	flight	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+38	.	_	_	_	_
 
-39	One	_	_	_
-40	of	_	_	_
-41	the	_	_	_
-42	A380s	_	_	_
-43	is	_	_	_
-44	flying	B-E-26	B-CERTAIN-26	B-POS-26
-45	from	_	_	_
-46	Frankfurt	_	_	_
-47	to	_	_	_
-48	Chicago	_	_	_
-49	via	_	_	_
-50	New	_	_	_
-51	York	_	_	_
-52	;	_	_	_
-53	the	_	_	_
-54	airplane	_	_	_
-55	will	_	_	_
-56	be	_	_	_
-57	carrying	B-E-27	B-CERTAIN-27	B-POS-27
-58	about	_	_	_
-59	500	_	_	_
-60	people	_	_	_
-61	.	_	_	_
+39	One	_	_	_	_
+40	of	_	_	_	_
+41	the	_	_	_	_
+42	A380s	_	_	_	_
+43	is	_	_	_	_
+44	flying	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+45	from	_	_	_	_
+46	Frankfurt	_	_	_	_
+47	to	_	_	_	_
+48	Chicago	_	_	_	_
+49	via	_	_	_	_
+50	New	_	_	_	_
+51	York	_	_	_	_
+52	;	_	_	_	_
+53	the	_	_	_	_
+54	airplane	_	_	_	_
+55	will	_	_	_	_
+56	be	_	_	_	_
+57	carrying	B-E-5	B-CERTAIN-5	B-POS-5	B-FUTURE-5
+58	about	_	_	_	_
+59	500	_	_	_	_
+60	people	_	_	_	_
+61	.	_	_	_	_
 
-62	It	_	_	_
-63	is	_	_	_
-64	being	_	_	_
-65	billed	B-E-28	B-CERTAIN-28	B-POS-28
-66	as	_	_	_
-67	the	_	_	_
-68	first	_	_	_
-69	time	_	_	_
-70	it	_	_	_
-71	has	_	_	_
-72	carried	B-E-29	B-CERTAIN-29	B-POS-29
-73	a	_	_	_
-74	near-normal	_	_	_
-75	number	_	_	_
-76	of	_	_	_
-77	passengers	_	_	_
-78	,	_	_	_
-79	though	_	_	_
-80	most	_	_	_
-81	will	_	_	_
-82	be	B-E-30	B-CERTAIN-30	B-POS-30
-83	staff	_	_	_
-84	of	_	_	_
-85	Airbus	_	_	_
-86	and	_	_	_
-87	German	_	_	_
-88	airline	_	_	_
-89	Lufthansa	_	_	_
-90	.	_	_	_
+62	It	_	_	_	_
+63	is	_	_	_	_
+64	being	_	_	_	_
+65	billed	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+66	as	_	_	_	_
+67	the	_	_	_	_
+68	first	_	_	_	_
+69	time	_	_	_	_
+70	it	_	_	_	_
+71	has	_	_	_	_
+72	carried	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+73	a	_	_	_	_
+74	near-normal	_	_	_	_
+75	number	_	_	_	_
+76	of	_	_	_	_
+77	passengers	_	_	_	_
+78	,	_	_	_	_
+79	though	_	_	_	_
+80	most	_	_	_	_
+81	will	_	_	_	_
+82	be	B-E-8	B-CERTAIN-8	B-POS-8	B-FUTURE-8
+83	staff	_	_	_	_
+84	of	_	_	_	_
+85	Airbus	_	_	_	_
+86	and	_	_	_	_
+87	German	_	_	_	_
+88	airline	_	_	_	_
+89	Lufthansa	_	_	_	_
+90	.	_	_	_	_
 
-91	A	_	_	_
-92	second	_	_	_
-93	A380	_	_	_
-94	is	_	_	_
-95	also	_	_	_
-96	travelling	B-E-31	B-CERTAIN-31	B-POS-31
-97	to	_	_	_
-98	the	_	_	_
-99	U.S.	_	_	_
-100	on	_	_	_
-101	Monday	_	_	_
-102	,	_	_	_
-103	but	_	_	_
-104	without	_	_	_
-105	passengers	_	_	_
-106	.	_	_	_
+91	A	_	_	_	_
+92	second	_	_	_	_
+93	A380	_	_	_	_
+94	is	_	_	_	_
+95	also	_	_	_	_
+96	travelling	B-E-9	B-CERTAIN-9	B-POS-9	B-FUTURE-9
+97	to	_	_	_	_
+98	the	_	_	_	_
+99	U.S.	_	_	_	_
+100	on	_	_	_	_
+101	Monday	_	_	_	_
+102	,	_	_	_	_
+103	but	_	_	_	_
+104	without	_	_	_	_
+105	passengers	_	_	_	_
+106	.	_	_	_	_
 
-107	This	_	_	_
-108	will	_	_	_
-109	be	_	_	_
-110	branded	_	_	_
-111	as	_	_	_
-112	a	_	_	_
-113	Qantas	_	_	_
-114	flight	B-E-66	_-66	_-66
-115	and	_	_	_
-116	fly	B-E-143	_-143	_-143
-117	from	_	_	_
-118	Frankfurt	_	_	_
-119	to	_	_	_
-120	Los	_	_	_
-121	Angeles	_	_	_
-122	LAX	_	_	_
-123	airport	_	_	_
-124	.	_	_	_
+107	This	_	_	_	_
+108	will	_	_	_	_
+109	be	_	_	_	_
+110	branded	_	_	_	_
+111	as	_	_	_	_
+112	a	_	_	_	_
+113	Qantas	_	_	_	_
+114	flight	_	_	_	_
+115	and	_	_	_	_
+116	fly	_	_	_	_
+117	from	_	_	_	_
+118	Frankfurt	_	_	_	_
+119	to	_	_	_	_
+120	Los	_	_	_	_
+121	Angeles	_	_	_	_
+122	LAX	_	_	_	_
+123	airport	_	_	_	_
+124	.	_	_	_	_
 
-125	The	_	_	_
-126	first	_	_	_
-127	leg	_	_	_
-128	of	_	_	_
-129	the	_	_	_
-130	flight	B-E-98	_-98	_-98
-131	going	_	_	_
-132	towards	_	_	_
-133	New	_	_	_
-134	York	_	_	_
-135	will	_	_	_
-136	be	_	_	_
-137	travelling	_	_	_
-138	under	_	_	_
-139	a	_	_	_
-140	Lufthansa	_	_	_
-141	flight	_	_	_
-142	number	_	_	_
-143	,	_	_	_
-144	and	_	_	_
-145	is	_	_	_
-146	due	_	_	_
-147	to	_	_	_
-148	arrive	B-E-110	_-110	_-110
-149	at	_	_	_
-150	New	_	_	_
-151	York	_	_	_
-152	's	_	_	_
-153	John	_	_	_
-154	F.	_	_	_
-155	Kennedy	_	_	_
-156	airport	_	_	_
-157	at	_	_	_
-158	12:30	_	_	_
-159	EST	_	_	_
-160	(	_	_	_
-161	16:30	_	_	_
-162	UTC	_	_	_
-163	)	_	_	_
-164	.	_	_	_
+125	The	_	_	_	_
+126	first	_	_	_	_
+127	leg	_	_	_	_
+128	of	_	_	_	_
+129	the	_	_	_	_
+130	flight	_	_	_	_
+131	going	_	_	_	_
+132	towards	_	_	_	_
+133	New	_	_	_	_
+134	York	_	_	_	_
+135	will	_	_	_	_
+136	be	_	_	_	_
+137	travelling	_	_	_	_
+138	under	_	_	_	_
+139	a	_	_	_	_
+140	Lufthansa	_	_	_	_
+141	flight	_	_	_	_
+142	number	_	_	_	_
+143	,	_	_	_	_
+144	and	_	_	_	_
+145	is	_	_	_	_
+146	due	_	_	_	_
+147	to	_	_	_	_
+148	arrive	_	_	_	_
+149	at	_	_	_	_
+150	New	_	_	_	_
+151	York	_	_	_	_
+152	's	_	_	_	_
+153	John	_	_	_	_
+154	F.	_	_	_	_
+155	Kennedy	_	_	_	_
+156	airport	_	_	_	_
+157	at	_	_	_	_
+158	12:30	_	_	_	_
+159	EST	_	_	_	_
+160	(	_	_	_	_
+161	16:30	_	_	_	_
+162	UTC	_	_	_	_
+163	)	_	_	_	_
+164	.	_	_	_	_
+
+165	The	_	_	_	_
+166	test	_	_	_	_
+167	flights	_	_	_	_
+168	are	_	_	_	_
+169	being	_	_	_	_
+170	used	_	_	_	_
+171	to	_	_	_	_
+172	monitor	_	_	_	_
+173	everything	_	_	_	_
+174	from	_	_	_	_
+175	how	_	_	_	_
+176	easily	_	_	_	_
+177	the	_	_	_	_
+178	plane	_	_	_	_
+179	docks	_	_	_	_
+180	at	_	_	_	_
+181	the	_	_	_	_
+182	terminal	_	_	_	_
+183	gate	_	_	_	_
+184	to	_	_	_	_
+185	the	_	_	_	_
+186	way	_	_	_	_
+187	the	_	_	_	_
+188	in-flight	_	_	_	_
+189	dining	_	_	_	_
+190	and	_	_	_	_
+191	entertainment	_	_	_	_
+192	services	_	_	_	_
+193	work	_	_	_	_
+194	.	_	_	_	_
+
+195	Deliveries	_	_	_	_
+196	to	_	_	_	_
+197	Singapore	_	_	_	_
+198	Airlines	_	_	_	_
+199	,	_	_	_	_
+200	its	_	_	_	_
+201	launch	_	_	_	_
+202	customer	_	_	_	_
+203	,	_	_	_	_
+204	are	_	_	_	_
+205	not	_	_	_	_
+206	due	_	_	_	_
+207	until	_	_	_	_
+208	October	_	_	_	_
+209	-	_	_	_	_
+210	two	_	_	_	_
+211	years	_	_	_	_
+212	late	_	_	_	_
+213	.	_	_	_	_
+
+214	Delays	_	_	_	_
+215	of	_	_	_	_
+216	the	_	_	_	_
+217	production	_	_	_	_
+218	of	_	_	_	_
+219	the	_	_	_	_
+220	A380	_	_	_	_
+221	have	_	_	_	_
+222	cost	_	_	_	_
+223	Airbus	_	_	_	_
+224	more	_	_	_	_
+225	than	_	_	_	_
+226	6	_	_	_	_
+227	billion	_	_	_	_
+228	dollars	_	_	_	_
+229	.	_	_	_	_
+
+230	Airbus	_	_	_	_
+231	has	_	_	_	_
+232	warned	_	_	_	_
+233	there	_	_	_	_
+234	could	_	_	_	_
+235	be	_	_	_	_
+236	additional	_	_	_	_
+237	charges	_	_	_	_
+238	to	_	_	_	_
+239	come	_	_	_	_
+240	.	_	_	_	_
+
+241	These	_	_	_	_
+242	monetary	_	_	_	_
+243	problems	_	_	_	_
+244	have	_	_	_	_
+245	led	_	_	_	_
+246	to	_	_	_	_
+247	a	_	_	_	_
+248	recently-announced	_	_	_	_
+249	restructuring	_	_	_	_
+250	program	_	_	_	_
+251	at	_	_	_	_
+252	Airbus	_	_	_	_
+253	,	_	_	_	_
+254	called	_	_	_	_
+255	Power8	_	_	_	_
+256	,	_	_	_	_
+257	in	_	_	_	_
+258	which	_	_	_	_
+259	10,000	_	_	_	_
+260	jobs	_	_	_	_
+261	go	_	_	_	_
+262	and	_	_	_	_
+263	several	_	_	_	_
+264	factories	_	_	_	_
+265	will	_	_	_	_
+266	be	_	_	_	_
+267	sold	_	_	_	_
+268	to	_	_	_	_
+269	Airbus	_	_	_	_
+270	partners	_	_	_	_
+271	.	_	_	_	_
+
+272	France	_	_	_	_
+273	will	_	_	_	_
+274	lose	_	_	_	_
+275	4,300	_	_	_	_
+276	jobs	_	_	_	_
+277	,	_	_	_	_
+278	followed	_	_	_	_
+279	by	_	_	_	_
+280	Germany	_	_	_	_
+281	having	_	_	_	_
+282	a	_	_	_	_
+283	loss	_	_	_	_
+284	of	_	_	_	_
+285	3,700	_	_	_	_
+286	jobs	_	_	_	_
+287	,	_	_	_	_
+288	while	_	_	_	_
+289	the	_	_	_	_
+290	United	_	_	_	_
+291	Kingdom	_	_	_	_
+292	and	_	_	_	_
+293	Spain	_	_	_	_
+294	will	_	_	_	_
+295	see	_	_	_	_
+296	1,600	_	_	_	_
+297	and	_	_	_	_
+298	400	_	_	_	_
+299	jobs	_	_	_	_
+300	cut	_	_	_	_
+301	respectively	_	_	_	_
+302	.	_	_	_	_
+
+303	The	_	_	_	_
+304	Belgian	_	_	_	_
+305	government	_	_	_	_
+306	has	_	_	_	_
+307	announced	_	_	_	_
+308	that	_	_	_	_
+309	it	_	_	_	_
+310	will	_	_	_	_
+311	give	_	_	_	_
+312	up	_	_	_	_
+313	to	_	_	_	_
+314	150	_	_	_	_
+315	million	_	_	_	_
+316	$	_	_	_	_
+317	(	_	_	_	_
+318	US$	_	_	_	_
+319	199	_	_	_	_
+320	million	_	_	_	_
+321	)	_	_	_	_
+322	in	_	_	_	_
+323	aid	_	_	_	_
+324	to	_	_	_	_
+325	help	_	_	_	_
+326	sub-contractors	_	_	_	_
+327	which	_	_	_	_
+328	supply	_	_	_	_
+329	Airbus	_	_	_	_
+330	and	_	_	_	_
+331	employ	_	_	_	_
+332	thousands	_	_	_	_
+333	of	_	_	_	_
+334	workers	_	_	_	_
+335	.	_	_	_	_

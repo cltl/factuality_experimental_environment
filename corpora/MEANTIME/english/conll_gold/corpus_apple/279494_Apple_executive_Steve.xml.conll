@@ -1,0 +1,1031 @@
+1	Apple	_	_	_	_
+2	executive	_	_	_	_
+3	Steve	_	_	_	_
+4	Jobs	_	_	_	_
+5	resigns	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+
+6	August	_	_	_	_
+
+7	25	_	_	_	_
+
+8	,	_	_	_	_
+
+9	2011	_	_	_	_
+
+10	Steve	_	_	_	_
+
+11	Jobs	_	_	_	_
+
+12	,	_	_	_	_
+
+13	founder	_	_	_	_
+
+14	of	_	_	_	_
+
+15	Apple	_	_	_	_
+
+16	,	_	_	_	_
+
+17	has	_	_	_	_
+
+18	chosen	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+
+19	to	_	_	_	_
+
+20	step	B-E-5	B-CERTAIN-5	B-POS-5	B-UNDERSPECIFIED-5
+
+21	down	I-E-5	I-CERTAIN-5	I-POS-5	I-UNDERSPECIFIED-5
+
+22	from	_	_	_	_
+
+23	his	_	_	_	_
+
+24	post	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+
+25	as	_	_	_	_
+
+26	CEO	_	_	_	_
+
+27	of	_	_	_	_
+
+28	the	_	_	_	_
+
+29	company	_	_	_	_
+
+30	.	_	_	_	_
+
+31	The	_	_	_	_
+
+32	former	_	_	_	_
+
+33	Chief	_	_	_	_
+
+34	Operating	_	_	_	_
+
+35	Officer	_	_	_	_
+
+36	,	_	_	_	_
+
+37	Tim	_	_	_	_
+
+38	Cook	_	_	_	_
+
+39	will	_	_	_	_
+
+40	be	_	_	_	_
+
+41	succeeding	B-E-8	B-CERTAIN-8	B-POS-8	B-FUTURE-8
+
+42	Jobs	_	_	_	_
+
+43	as	_	_	_	_
+
+44	CEO	_	_	_	_
+
+45	.	_	_	_	_
+
+46	Jobs	_	_	_	_
+
+47	resigned	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+
+48	in	_	_	_	_
+
+49	a	_	_	_	_
+
+50	letter	_	_	_	_
+
+51	to	_	_	_	_
+
+52	Apple	_	_	_	_
+
+53	's	_	_	_	_
+
+54	board	_	_	_	_
+
+55	of	_	_	_	_
+
+56	directors	_	_	_	_
+
+57	stating	B-E-10	B-CERTAIN-10	B-POS-10	B-NON_FUTURE-10
+
+58	,	_	_	_	_
+
+59	"	_	_	_	_
+
+60	I	_	_	_	_
+
+61	have	_	_	_	_
+
+62	always	_	_	_	_
+
+63	said	B-E-11	B-CERTAIN-11	B-POS-11	B-NON_FUTURE-11
+
+64	if	_	_	_	_
+
+65	there	_	_	_	_
+
+66	ever	_	_	_	_
+
+67	came	B-E-12	B-UNDERSPECIFIED-12	B-POS-12	B-FUTURE-12
+
+68	a	_	_	_	_
+
+69	day	_	_	_	_
+
+70	when	_	_	_	_
+
+71	I	_	_	_	_
+
+72	could	_	_	_	_
+
+73	no	_	_	_	_
+
+74	longer	_	_	_	_
+
+75	meet	B-E-13	B-UNDERSPECIFIED-13	B-NEG-13	B-FUTURE-13
+
+76	my	_	_	_	_
+
+77	duties	B-E-14	B-UNDERSPECIFIED-14	B-POS-14	B-NON_FUTURE-14
+
+78	and	_	_	_	_
+
+79	expectations	B-E-15	B-UNDERSPECIFIED-15	B-POS-15	B-NON_FUTURE-15
+
+80	as	_	_	_	_
+
+81	Apple	_	_	_	_
+
+82	’	_	_	_	_
+
+83	s	_	_	_	_
+
+84	C.E.O.,	_	_	_	_
+
+85	I	_	_	_	_
+
+86	would	_	_	_	_
+
+87	be	B-E-16	B-CERTAIN-16	B-POS-16	B-FUTURE-16
+
+88	the	_	_	_	_
+
+89	first	_	_	_	_
+
+90	to	_	_	_	_
+
+91	let	B-E-1	B-CERTAIN-1	B-POS-1	B-FUTURE-1
+
+92	you	_	_	_	_
+
+93	know	B-E-2	B-CERTAIN-2	B-POS-2	B-FUTURE-2
+
+94	.	_	_	_	_
+
+95	Unfortunately	_	_	_	_
+
+96	,	_	_	_	_
+
+97	that	_	_	_	_
+
+98	day	_	_	_	_
+
+99	has	_	_	_	_
+
+100	come	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+
+101	.	_	_	_	_
+
+102	"	_	_	_	_
+
+103	In	_	_	_	_
+
+104	that	_	_	_	_
+
+105	same	_	_	_	_
+
+106	letter	_	_	_	_
+
+107	,	_	_	_	_
+
+108	Jobs	_	_	_	_
+
+109	stated	_	_	_	_
+
+110	that	_	_	_	_
+
+111	his	_	_	_	_
+
+112	desire	_	_	_	_
+
+113	was	_	_	_	_
+
+114	to	_	_	_	_
+
+115	remain	_	_	_	_
+
+116	as	_	_	_	_
+
+117	chairman	_	_	_	_
+
+118	of	_	_	_	_
+
+119	the	_	_	_	_
+
+120	board	_	_	_	_
+
+121	.	_	_	_	_
+
+122	Steve	_	_	_	_
+
+123	Jobs	_	_	_	_
+
+124	has	_	_	_	_
+
+125	been	_	_	_	_
+
+126	fighting	_	_	_	_
+
+127	pancreatic	_	_	_	_
+
+128	cancer	_	_	_	_
+
+129	since	_	_	_	_
+
+130	2004	_	_	_	_
+
+131	and	_	_	_	_
+
+132	has	_	_	_	_
+
+133	been	_	_	_	_
+
+134	on	_	_	_	_
+
+135	medical	_	_	_	_
+
+136	leave	_	_	_	_
+
+137	since	_	_	_	_
+
+138	January	_	_	_	_
+
+139	of	_	_	_	_
+
+140	this	_	_	_	_
+
+141	year	_	_	_	_
+
+142	.	_	_	_	_
+
+143	This	_	_	_	_
+
+144	was	_	_	_	_
+
+145	Jobs	_	_	_	_
+
+146	'	_	_	_	_
+
+147	third	_	_	_	_
+
+148	period	_	_	_	_
+
+149	of	_	_	_	_
+
+150	medical	_	_	_	_
+
+151	leave	_	_	_	_
+
+152	.	_	_	_	_
+
+153	He	_	_	_	_
+
+154	briefly	_	_	_	_
+
+155	made	_	_	_	_
+
+156	an	_	_	_	_
+
+157	appearance	_	_	_	_
+
+158	in	_	_	_	_
+
+159	March	_	_	_	_
+
+160	and	_	_	_	_
+
+161	June	_	_	_	_
+
+162	to	_	_	_	_
+
+163	unveil	_	_	_	_
+
+164	the	_	_	_	_
+
+165	iPad	_	_	_	_
+
+166	2	_	_	_	_
+
+167	and	_	_	_	_
+
+168	the	_	_	_	_
+
+169	iCloud	_	_	_	_
+
+170	,	_	_	_	_
+
+171	an	_	_	_	_
+
+172	online	_	_	_	_
+
+173	cloud	_	_	_	_
+
+174	computing	_	_	_	_
+
+175	service	_	_	_	_
+
+176	.	_	_	_	_
+
+177	In	_	_	_	_
+
+178	part	_	_	_	_
+
+179	of	_	_	_	_
+
+180	his	_	_	_	_
+
+181	resignation	_	_	_	_
+
+182	,	_	_	_	_
+
+183	Jobs	_	_	_	_
+
+184	left	_	_	_	_
+
+185	this	_	_	_	_
+
+186	farewell	_	_	_	_
+
+187	,	_	_	_	_
+
+188	"	_	_	_	_
+
+189	I	_	_	_	_
+
+190	have	_	_	_	_
+
+191	made	_	_	_	_
+
+192	some	_	_	_	_
+
+193	of	_	_	_	_
+
+194	the	_	_	_	_
+
+195	best	_	_	_	_
+
+196	friends	_	_	_	_
+
+197	of	_	_	_	_
+
+198	my	_	_	_	_
+
+199	life	_	_	_	_
+
+200	at	_	_	_	_
+
+201	Apple	_	_	_	_
+
+202	,	_	_	_	_
+
+203	and	_	_	_	_
+
+204	I	_	_	_	_
+
+205	thank	_	_	_	_
+
+206	you	_	_	_	_
+
+207	all	_	_	_	_
+
+208	for	_	_	_	_
+
+209	the	_	_	_	_
+
+210	many	_	_	_	_
+
+211	years	_	_	_	_
+
+212	of	_	_	_	_
+
+213	being	_	_	_	_
+
+214	able	_	_	_	_
+
+215	to	_	_	_	_
+
+216	work	_	_	_	_
+
+217	alongside	_	_	_	_
+
+218	you	_	_	_	_
+
+219	.	_	_	_	_
+
+220	"	_	_	_	_
+
+221	Tim	_	_	_	_
+
+222	Cook	_	_	_	_
+
+223	was	_	_	_	_
+
+224	personally	_	_	_	_
+
+225	recommended	_	_	_	_
+
+226	by	_	_	_	_
+
+227	Jobs	_	_	_	_
+
+228	to	_	_	_	_
+
+229	take	_	_	_	_
+
+230	over	_	_	_	_
+
+231	as	_	_	_	_
+
+232	CEO	_	_	_	_
+
+233	and	_	_	_	_
+
+234	has	_	_	_	_
+
+235	been	_	_	_	_
+
+236	serving	_	_	_	_
+
+237	as	_	_	_	_
+
+238	interim	_	_	_	_
+
+239	CEO	_	_	_	_
+
+240	since	_	_	_	_
+
+241	the	_	_	_	_
+
+242	beginning	_	_	_	_
+
+243	of	_	_	_	_
+
+244	Jobs	_	_	_	_
+
+245	'	_	_	_	_
+
+246	medical	_	_	_	_
+
+247	leave	_	_	_	_
+
+248	.	_	_	_	_
+
+249	Before	_	_	_	_
+
+250	his	_	_	_	_
+
+251	post	_	_	_	_
+
+252	at	_	_	_	_
+
+253	Apple,	_	_	_	_
+
+254	Cook	_	_	_	_
+
+255	held	_	_	_	_
+
+256	positions	_	_	_	_
+
+257	at	_	_	_	_
+
+258	IBM	_	_	_	_
+
+259	and	_	_	_	_
+
+260	Compaq.	_	_	_	_
+
+261	He	_	_	_	_
+
+262	is	_	_	_	_
+
+263	known	_	_	_	_
+
+264	for	_	_	_	_
+
+265	staying	_	_	_	_
+
+266	out	_	_	_	_
+
+267	of	_	_	_	_
+
+268	the	_	_	_	_
+
+269	spotlight	_	_	_	_
+
+270	.	_	_	_	_
+
+271	Due	_	_	_	_
+
+272	to	_	_	_	_
+
+273	an	_	_	_	_
+
+274	operational	_	_	_	_
+
+275	overhaul	_	_	_	_
+
+276	by	_	_	_	_
+
+277	Cook	_	_	_	_
+
+278	,	_	_	_	_
+
+279	he	_	_	_	_
+
+280	is	_	_	_	_
+
+281	credited	_	_	_	_
+
+282	with	_	_	_	_
+
+283	the	_	_	_	_
+
+284	success	_	_	_	_
+
+285	of	_	_	_	_
+
+286	the	_	_	_	_
+
+287	iPad	_	_	_	_
+
+288	and	_	_	_	_
+
+289	MacBook	_	_	_	_
+
+290	Air	_	_	_	_
+
+291	.	_	_	_	_
+
+292	He	_	_	_	_
+
+293	also	_	_	_	_
+
+294	stood	_	_	_	_
+
+295	in	_	_	_	_
+
+296	Steve	_	_	_	_
+
+297	Jobs	_	_	_	_
+
+298	'	_	_	_	_
+
+299	place	_	_	_	_
+
+300	while	_	_	_	_
+
+301	the	_	_	_	_
+
+302	CEO	_	_	_	_
+
+303	underwent	_	_	_	_
+
+304	liver	_	_	_	_
+
+305	transplant	_	_	_	_
+
+306	surgery	_	_	_	_
+
+307	.	_	_	_	_
+
+308	He	_	_	_	_
+
+309	received	_	_	_	_
+
+310	$	_	_	_	_
+
+311	59	_	_	_	_
+
+312	million	_	_	_	_
+
+313	for	_	_	_	_
+
+314	his	_	_	_	_
+
+315	performance	_	_	_	_
+
+316	in	_	_	_	_
+
+317	the	_	_	_	_
+
+318	position	_	_	_	_
+
+319	.	_	_	_	_
+
+320	Analyst	_	_	_	_
+
+321	Charles	_	_	_	_
+
+322	Golvin	_	_	_	_
+
+323	predicts	_	_	_	_
+
+324	that	_	_	_	_
+
+325	the	_	_	_	_
+
+326	resignation	_	_	_	_
+
+327	will	_	_	_	_
+
+328	not	_	_	_	_
+
+329	begin	_	_	_	_
+
+330	to	_	_	_	_
+
+331	affect	_	_	_	_
+
+332	Apple	_	_	_	_
+
+333	performance	_	_	_	_
+
+334	for	_	_	_	_
+
+335	1.5	_	_	_	_
+
+336	to	_	_	_	_
+
+337	2	_	_	_	_
+
+338	years	_	_	_	_
+
+339	.	_	_	_	_
+
+340	Many	_	_	_	_
+
+341	of	_	_	_	_
+
+342	the	_	_	_	_
+
+343	new	_	_	_	_
+
+344	products	_	_	_	_
+
+345	are	_	_	_	_
+
+346	already	_	_	_	_
+
+347	under	_	_	_	_
+
+348	development	_	_	_	_
+
+349	and	_	_	_	_
+
+350	Jobs	_	_	_	_
+
+351	will	_	_	_	_
+
+352	continue	_	_	_	_
+
+353	to	_	_	_	_
+
+354	steer	_	_	_	_
+
+355	the	_	_	_	_
+
+356	company	_	_	_	_
+
+357	from	_	_	_	_
+
+358	his	_	_	_	_
+
+359	position	_	_	_	_
+
+360	as	_	_	_	_
+
+361	chairman	_	_	_	_
+
+362	of	_	_	_	_
+
+363	the	_	_	_	_
+
+364	board	_	_	_	_
+
+365	.	_	_	_	_
+
+366	Art	_	_	_	_
+
+367	Levinson	_	_	_	_
+
+368	,	_	_	_	_
+
+369	chairman	_	_	_	_
+
+370	of	_	_	_	_
+
+371	Genentech	_	_	_	_
+
+372	and	_	_	_	_
+
+373	a	_	_	_	_
+
+374	member	_	_	_	_
+
+375	of	_	_	_	_
+
+376	the	_	_	_	_
+
+377	board	_	_	_	_
+
+378	,	_	_	_	_
+
+379	adds	_	_	_	_
+
+380	,	_	_	_	_
+
+381	"	_	_	_	_
+
+382	Steve	_	_	_	_
+
+383	will	_	_	_	_
+
+384	continue	_	_	_	_
+
+385	to	_	_	_	_
+
+386	serve	_	_	_	_
+
+387	Apple	_	_	_	_
+
+388	with	_	_	_	_
+
+389	his	_	_	_	_
+
+390	unique	_	_	_	_
+
+391	insights	_	_	_	_
+
+392	,	_	_	_	_
+
+393	creativity	_	_	_	_
+
+394	and	_	_	_	_
+
+395	inspiration	_	_	_	_
+
+396	"	_	_	_	_
+
+397	.	_	_	_	_
+
+398	A	_	_	_	_
+
+399	contrary	_	_	_	_
+
+400	view	_	_	_	_
+
+401	is	_	_	_	_
+
+402	offered	_	_	_	_
+
+403	by	_	_	_	_
+
+404	Charles	_	_	_	_
+
+405	O	_	_	_	_
+
+406	'Reilly	_	_	_	_
+
+407	,	_	_	_	_
+
+408	a	_	_	_	_
+
+409	management	_	_	_	_
+
+410	expert	_	_	_	_
+
+411	at	_	_	_	_
+
+412	Stanford	_	_	_	_
+
+413	University	_	_	_	_
+
+414	,	_	_	_	_
+
+415	who	_	_	_	_
+
+416	stated	_	_	_	_
+
+417	,	_	_	_	_
+
+418	"	_	_	_	_
+
+419	Great	_	_	_	_
+
+420	companies	_	_	_	_
+
+421	rarely	_	_	_	_
+
+422	go	_	_	_	_
+
+423	from	_	_	_	_
+
+424	strength	_	_	_	_
+
+425	to	_	_	_	_
+
+426	strength	_	_	_	_
+
+427	"	_	_	_	_
+
+428	.	_	_	_	_
+
+429	Richard	_	_	_	_
+
+430	Doherty	_	_	_	_
+
+431	attributes	_	_	_	_
+
+432	Steve	_	_	_	_
+
+433	Jobs	_	_	_	_
+
+434	'	_	_	_	_
+
+435	success	_	_	_	_
+
+436	as	_	_	_	_
+
+437	the	_	_	_	_
+
+438	ability	_	_	_	_
+
+439	to	_	_	_	_
+
+440	hold	_	_	_	_
+
+441	off	_	_	_	_
+
+442	on	_	_	_	_
+
+443	a	_	_	_	_
+
+444	product	_	_	_	_
+
+445	until	_	_	_	_
+
+446	it	_	_	_	_
+
+447	is	_	_	_	_
+
+448	perfect	_	_	_	_
+
+449	.	_	_	_	_
+
+450	He	_	_	_	_
+
+451	states	_	_	_	_
+
+452	"	_	_	_	_
+
+453	A	_	_	_	_
+
+454	lot	_	_	_	_
+
+455	of	_	_	_	_
+
+456	products	_	_	_	_
+
+457	could	_	_	_	_
+
+458	have	_	_	_	_
+
+459	gotten	_	_	_	_
+
+460	to	_	_	_	_
+
+461	market	_	_	_	_
+
+462	earlier	_	_	_	_
+
+463	,	_	_	_	_
+
+464	but	_	_	_	_
+
+465	he	_	_	_	_
+
+466	wanted	_	_	_	_
+
+467	it	_	_	_	_
+
+468	better	_	_	_	_
+
+469	.	_	_	_	_
+
+470	"	_	_	_	_
+
+471	In	_	_	_	_
+
+472	light	_	_	_	_
+
+473	of	_	_	_	_
+
+474	the	_	_	_	_
+
+475	revelation	_	_	_	_
+
+476	,	_	_	_	_
+
+477	Apple	_	_	_	_
+
+478	shares	_	_	_	_
+
+479	(	_	_	_	_
+
+480	AAPL	_	_	_	_
+
+481	)	_	_	_	_
+
+482	slid	_	_	_	_
+
+483	$	_	_	_	_
+
+484	19.37	_	_	_	_
+
+485	in	_	_	_	_
+
+486	after	_	_	_	_
+
+487	hours	_	_	_	_
+
+488	trading—a	_	_	_	_
+
+489	-	_	_	_	_
+
+490	a	_	_	_	_
+
+491	drop	_	_	_	_
+
+492	of	_	_	_	_
+
+493	over	_	_	_	_
+
+494	5	_	_	_	_
+
+495	%	_	_	_	_
+
+496	.	_	_	_	_
+
+497	Since	_	_	_	_
+
+498	market	_	_	_	_
+
+499	open	_	_	_	_
+
+500	,	_	_	_	_
+
+501	Apple	_	_	_	_
+
+502	shares	_	_	_	_
+
+503	rose	_	_	_	_
+
+504	to	_	_	_	_
+
+505	$	_	_	_	_
+
+506	373.72	_	_	_	_
+
+507	,	_	_	_	_
+
+508	a	_	_	_	_
+
+509	drop	_	_	_	_
+
+510	of	_	_	_	_
+
+511	only	_	_	_	_
+
+512	$	_	_	_	_
+
+513	2.46	_	_	_	_
+
+514	since	_	_	_	_
+
+515	Wednesday	_	_	_	_
+
+516	's	_	_	_	_
+
+517	close	_	_	_	_
+
+518	.	_	_	_	_

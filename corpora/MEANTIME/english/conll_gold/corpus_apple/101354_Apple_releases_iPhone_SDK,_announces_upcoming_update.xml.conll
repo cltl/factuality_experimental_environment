@@ -1,0 +1,656 @@
+1	Apple	_	_	_	_
+2	releases	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+3	iPhone	_	_	_	_
+4	SDK	_	_	_	_
+5	,	_	_	_	_
+6	announces	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+7	upcoming	_	_	_	_
+8	update	B-E-8	B-CERTAIN-8	B-POS-8	B-FUTURE-8
+
+9	March	_	_	_	_
+
+10	06	_	_	_	_
+
+11	,	_	_	_	_
+
+12	2008	_	_	_	_
+
+13	During	_	_	_	_
+
+14	a	_	_	_	_
+
+15	media	B-E-12	B-CERTAIN-12	B-POS-12	B-NON_FUTURE-12
+
+16	event	I-E-12	I-CERTAIN-12	I-POS-12	I-NON_FUTURE-12
+
+17	held	B-E-5	B-CERTAIN-5	B-POS-5	B-NON_FUTURE-5
+
+18	at	_	_	_	_
+
+19	its	_	_	_	_
+
+20	Cupertino	_	_	_	_
+
+21	headquarters	_	_	_	_
+
+22	,	_	_	_	_
+
+23	Apple	_	_	_	_
+
+24	released	B-E-13	B-CERTAIN-13	B-POS-13	B-NON_FUTURE-13
+
+25	the	_	_	_	_
+
+26	long	_	_	_	_
+
+27	awaited	_	_	_	_
+
+28	iPhones	_	_	_	_
+
+29	Software	_	_	_	_
+
+30	Development	_	_	_	_
+
+31	Kit	_	_	_	_
+
+32	(	_	_	_	_
+
+33	SDK	_	_	_	_
+
+34	)	_	_	_	_
+
+35	and	_	_	_	_
+
+36	the	_	_	_	_
+
+37	associated	_	_	_	_
+
+38	iTunes	_	_	_	_
+
+39	``	_	_	_	_
+
+40	App	_	_	_	_
+
+41	Store	_	_	_	_
+
+42	''	_	_	_	_
+
+43	and	_	_	_	_
+
+44	iPhone	_	_	_	_
+
+45	Developer	_	_	_	_
+
+46	Program	_	_	_	_
+
+47	.	_	_	_	_
+
+48	The	_	_	_	_
+
+49	SDK	_	_	_	_
+
+50	will	_	_	_	_
+
+51	allow	B-E-14	B-CERTAIN-14	B-POS-14	B-FUTURE-14
+
+52	third	_	_	_	_
+
+53	party	_	_	_	_
+
+54	software	_	_	_	_
+
+55	developers	_	_	_	_
+
+56	to	_	_	_	_
+
+57	create	B-E-15	B-CERTAIN-15	B-POS-15	B-FUTURE-15
+
+58	applications	_	_	_	_
+
+59	for	_	_	_	_
+
+60	the	_	_	_	_
+
+61	iPhone	_	_	_	_
+
+62	and	_	_	_	_
+
+63	then	_	_	_	_
+
+64	distribute	B-E-16	B-CERTAIN-16	B-POS-16	B-FUTURE-16
+
+65	them	_	_	_	_
+
+66	on	_	_	_	_
+
+67	the	_	_	_	_
+
+68	iTunes	_	_	_	_
+
+69	Apps	_	_	_	_
+
+70	Stores	_	_	_	_
+
+71	.	_	_	_	_
+
+72	Any	_	_	_	_
+
+73	members	_	_	_	_
+
+74	of	_	_	_	_
+
+75	the	_	_	_	_
+
+76	iPhone	_	_	_	_
+
+77	Developer	_	_	_	_
+
+78	Program	_	_	_	_
+
+79	can	_	_	_	_
+
+80	add	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+
+81	applications	_	_	_	_
+
+82	to	_	_	_	_
+
+83	the	_	_	_	_
+
+84	store	_	_	_	_
+
+85	for	_	_	_	_
+
+86	free	_	_	_	_
+
+87	;	_	_	_	_
+
+88	the	_	_	_	_
+
+89	program	_	_	_	_
+
+90	costs	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+
+91	$	_	_	_	_
+
+92	99	_	_	_	_
+
+93	(	_	_	_	_
+
+94	USD	_	_	_	_
+
+95	)	_	_	_	_
+
+96	to	_	_	_	_
+
+97	join	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
+
+98	.	_	_	_	_
+
+99	Developers	_	_	_	_
+
+100	will	_	_	_	_
+
+101	be	B-E-10	B-CERTAIN-10	B-POS-10	B-FUTURE-10
+
+102	able	I-E-10	I-CERTAIN-10	I-POS-10	I-FUTURE-10
+
+103	to	_	_	_	_
+
+104	set	B-E-3	B-CERTAIN-3	B-POS-3	B-FUTURE-3
+
+105	the	_	_	_	_
+
+106	price	_	_	_	_
+
+107	of	_	_	_	_
+
+108	the	_	_	_	_
+
+109	applications	_	_	_	_
+
+110	or	_	_	_	_
+
+111	release	B-E-4	B-CERTAIN-4	B-POS-4	B-FUTURE-4
+
+112	them	_	_	_	_
+
+113	for	_	_	_	_
+
+114	free	_	_	_	_
+
+115	.	_	_	_	_
+
+116	All	_	_	_	_
+
+117	applications	_	_	_	_
+
+118	will	_	_	_	_
+
+119	have	_	_	_	_
+
+120	to	_	_	_	_
+
+121	be	_	_	_	_
+
+122	approved	_	_	_	_
+
+123	by	_	_	_	_
+
+124	Apple	_	_	_	_
+
+125	before	_	_	_	_
+
+126	being	_	_	_	_
+
+127	allowed	_	_	_	_
+
+128	on	_	_	_	_
+
+129	the	_	_	_	_
+
+130	store	_	_	_	_
+
+131	.	_	_	_	_
+
+132	Some	_	_	_	_
+
+133	of	_	_	_	_
+
+134	the	_	_	_	_
+
+135	disallowed	_	_	_	_
+
+136	categories	_	_	_	_
+
+137	are	_	_	_	_
+
+138	``	_	_	_	_
+
+139	porn	_	_	_	_
+
+140	''	_	_	_	_
+
+141	,	_	_	_	_
+
+142	excessive	_	_	_	_
+
+143	bandwidth	_	_	_	_
+
+144	users	_	_	_	_
+
+145	and	_	_	_	_
+
+146	anything	_	_	_	_
+
+147	malicious	_	_	_	_
+
+148	or	_	_	_	_
+
+149	illegal	_	_	_	_
+
+150	.	_	_	_	_
+
+151	VoIP	_	_	_	_
+
+152	applications	_	_	_	_
+
+153	would	_	_	_	_
+
+154	be	_	_	_	_
+
+155	allowed	_	_	_	_
+
+156	over	_	_	_	_
+
+157	Wi-Fi	_	_	_	_
+
+158	only	_	_	_	_
+
+159	.	_	_	_	_
+
+160	Enterprises	_	_	_	_
+
+161	can	_	_	_	_
+
+162	setup	_	_	_	_
+
+163	private	_	_	_	_
+
+164	pages	_	_	_	_
+
+165	on	_	_	_	_
+
+166	the	_	_	_	_
+
+167	store	_	_	_	_
+
+168	to	_	_	_	_
+
+169	distribute	_	_	_	_
+
+170	internal	_	_	_	_
+
+171	applications	_	_	_	_
+
+172	.	_	_	_	_
+
+173	At	_	_	_	_
+
+174	the	_	_	_	_
+
+175	event	_	_	_	_
+
+176	several	_	_	_	_
+
+177	third	_	_	_	_
+
+178	party	_	_	_	_
+
+179	developers	_	_	_	_
+
+180	that	_	_	_	_
+
+181	had	_	_	_	_
+
+182	been	_	_	_	_
+
+183	given	_	_	_	_
+
+184	early	_	_	_	_
+
+185	access	_	_	_	_
+
+186	to	_	_	_	_
+
+187	the	_	_	_	_
+
+188	SDK	_	_	_	_
+
+189	demonstrated	_	_	_	_
+
+190	their	_	_	_	_
+
+191	applications	_	_	_	_
+
+192	.	_	_	_	_
+
+193	Among	_	_	_	_
+
+194	the	_	_	_	_
+
+195	applications	_	_	_	_
+
+196	demonstrated	_	_	_	_
+
+197	were	_	_	_	_
+
+198	EA	_	_	_	_
+
+199	's	_	_	_	_
+
+200	Spore	_	_	_	_
+
+201	,	_	_	_	_
+
+202	AOL	_	_	_	_
+
+203	's	_	_	_	_
+
+204	AIM	_	_	_	_
+
+205	instant	_	_	_	_
+
+206	messenger	_	_	_	_
+
+207	and	_	_	_	_
+
+208	a	_	_	_	_
+
+209	client	_	_	_	_
+
+210	for	_	_	_	_
+
+211	epocrates	_	_	_	_
+
+212	,	_	_	_	_
+
+213	a	_	_	_	_
+
+214	drug	_	_	_	_
+
+215	reference	_	_	_	_
+
+216	service	_	_	_	_
+
+217	.	_	_	_	_
+
+218	The	_	_	_	_
+
+219	company	_	_	_	_
+
+220	also	_	_	_	_
+
+221	announced	_	_	_	_
+
+222	the	_	_	_	_
+
+223	iPhone	_	_	_	_
+
+224	2.0	_	_	_	_
+
+225	update	_	_	_	_
+
+226	that	_	_	_	_
+
+227	was	_	_	_	_
+
+228	released	_	_	_	_
+
+229	as	_	_	_	_
+
+230	a	_	_	_	_
+
+231	closed	_	_	_	_
+
+232	beta	_	_	_	_
+
+233	for	_	_	_	_
+
+234	developers	_	_	_	_
+
+235	and	_	_	_	_
+
+236	is	_	_	_	_
+
+237	scheduled	_	_	_	_
+
+238	for	_	_	_	_
+
+239	public	_	_	_	_
+
+240	release	_	_	_	_
+
+241	in	_	_	_	_
+
+242	June	_	_	_	_
+
+243	.	_	_	_	_
+
+244	In	_	_	_	_
+
+245	the	_	_	_	_
+
+246	new	_	_	_	_
+
+247	version	_	_	_	_
+
+248	Apple	_	_	_	_
+
+249	has	_	_	_	_
+
+250	been	_	_	_	_
+
+251	focusing	_	_	_	_
+
+252	on	_	_	_	_
+
+253	enterprise	_	_	_	_
+
+254	features	_	_	_	_
+
+255	in	_	_	_	_
+
+256	an	_	_	_	_
+
+257	attempt	_	_	_	_
+
+258	to	_	_	_	_
+
+259	compete	_	_	_	_
+
+260	with	_	_	_	_
+
+261	rivals	_	_	_	_
+
+262	like	_	_	_	_
+
+263	RIM	_	_	_	_
+
+264	's	_	_	_	_
+
+265	BlackBerry	_	_	_	_
+
+266	and	_	_	_	_
+
+267	Microsoft	_	_	_	_
+
+268	's	_	_	_	_
+
+269	Windows	_	_	_	_
+
+270	Mobile	_	_	_	_
+
+271	.	_	_	_	_
+
+272	The	_	_	_	_
+
+273	update	_	_	_	_
+
+274	adds	_	_	_	_
+
+275	support	_	_	_	_
+
+276	for	_	_	_	_
+
+277	ActiveSync	_	_	_	_
+
+278	,	_	_	_	_
+
+279	which	_	_	_	_
+
+280	Apple	_	_	_	_
+
+281	has	_	_	_	_
+
+282	licensed	_	_	_	_
+
+283	from	_	_	_	_
+
+284	rival	_	_	_	_
+
+285	Microsoft	_	_	_	_
+
+286	,	_	_	_	_
+
+287	WPA2	_	_	_	_
+
+288	and	_	_	_	_
+
+289	virtual	_	_	_	_
+
+290	private	_	_	_	_
+
+291	network	_	_	_	_
+
+292	support	_	_	_	_
+
+293	.	_	_	_	_
+
+294	The	_	_	_	_
+
+295	update	_	_	_	_
+
+296	will	_	_	_	_
+
+297	also	_	_	_	_
+
+298	be	_	_	_	_
+
+299	available	_	_	_	_
+
+300	to	_	_	_	_
+
+301	iPod	_	_	_	_
+
+302	Touch	_	_	_	_
+
+303	users	_	_	_	_
+
+304	for	_	_	_	_
+
+305	what	_	_	_	_
+
+306	Steve	_	_	_	_
+
+307	Jobs	_	_	_	_
+
+308	described	_	_	_	_
+
+309	as	_	_	_	_
+
+310	``	_	_	_	_
+
+311	a	_	_	_	_
+
+312	nominal	_	_	_	_
+
+313	charge	_	_	_	_
+
+314	''	_	_	_	_
+
+315	,	_	_	_	_
+
+316	as	_	_	_	_
+
+317	Apple	_	_	_	_
+
+318	have	_	_	_	_
+
+319	done	_	_	_	_
+
+320	in	_	_	_	_
+
+321	the	_	_	_	_
+
+322	past	_	_	_	_
+
+323	with	_	_	_	_
+
+324	the	_	_	_	_
+
+325	previous	_	_	_	_
+
+326	iPod	_	_	_	_
+
+327	Touch	_	_	_	_
+
+328	and	_	_	_	_
+
+329	MacBook	_	_	_	_
+
+330	Wi-Fi	_	_	_	_
+
+331	updates	_	_	_	_
+
+332	.	_	_	_	_

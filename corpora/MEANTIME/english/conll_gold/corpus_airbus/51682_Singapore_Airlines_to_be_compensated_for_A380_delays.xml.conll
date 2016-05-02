@@ -1,181 +1,230 @@
-1	Singapore	_	_	_
-2	Airlines	_	_	_
-3	to	_	_	_
-4	be	_	_	_
-5	compensated	B-E-25	B-CERTAIN-25	B-POS-25
-6	for	_	_	_
-7	A380	_	_	_
-8	delays	B-E-23	B-CERTAIN-23	B-POS-23
+1	Singapore	_	_	_	_
+2	Airlines	_	_	_	_
+3	to	_	_	_	_
+4	be	_	_	_	_
+5	compensated	B-E-4	B-CERTAIN-4	B-POS-4	B-FUTURE-4
+6	for	_	_	_	_
+7	A380	_	_	_	_
+8	delays	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
 
-9	October	_	_	_
-10	05	_	_	_
-11	,	_	_	_
-12	2006	_	_	_
+9	October	_	_	_	_
+10	05	_	_	_	_
+11	,	_	_	_	_
+12	2006	_	_	_	_
 
-13	Singapore	_	_	_
-14	Airlines	_	_	_
-15	says	B-E-30	B-CERTAIN-30	B-POS-30
-16	that	_	_	_
-17	it	_	_	_
-18	will	_	_	_
-19	be	_	_	_
-20	compensated	B-E-29	B-CERTAIN-29	B-POS-29
-21	by	_	_	_
-22	Airbus	_	_	_
-23	for	_	_	_
-24	the	_	_	_
-25	additional	_	_	_
-26	delay	B-E-27	B-CERTAIN-27	B-POS-27
-27	in	_	_	_
-28	delivery	B-E-28	B-CERTAIN-28	B-NEG-28
-29	of	_	_	_
-30	its	_	_	_
-31	new	_	_	_
-32	superjumbo	_	_	_
-33	A380	_	_	_
-34	's	_	_	_
-35	.	_	_	_
+13	Singapore	_	_	_	_
+14	Airlines	_	_	_	_
+15	says	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+16	that	_	_	_	_
+17	it	_	_	_	_
+18	will	_	_	_	_
+19	be	_	_	_	_
+20	compensated	B-E-8	B-CERTAIN-8	B-POS-8	B-FUTURE-8
+21	by	_	_	_	_
+22	Airbus	_	_	_	_
+23	for	_	_	_	_
+24	the	_	_	_	_
+25	additional	_	_	_	_
+26	delay	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+27	in	_	_	_	_
+28	delivery	B-E-7	B-CERTAIN-7	B-NEG-7	B-NON_FUTURE-7
+29	of	_	_	_	_
+30	its	_	_	_	_
+31	new	_	_	_	_
+32	superjumbo	_	_	_	_
+33	A380	_	_	_	_
+34	's	_	_	_	_
+35	.	_	_	_	_
 
-36	The	_	_	_
-37	double-deck	_	_	_
-38	commercial	_	_	_
-39	aircrafts	_	_	_
-40	'	_	_	_
-41	delivery	B-E-22	B-CERTAIN-22	B-NEG-22
-42	,	_	_	_
-43	originally	_	_	_
-44	due	_	_	_
-45	later	_	_	_
-46	this	_	_	_
-47	year	_	_	_
-48	,	_	_	_
-49	will	_	_	_
-50	be	_	_	_
-51	delayed	B-E-26	B-CERTAIN-26	B-POS-26
-52	until	_	_	_
-53	October	_	_	_
-54	2007	_	_	_
-55	.	_	_	_
+36	The	_	_	_	_
+37	double-deck	_	_	_	_
+38	commercial	_	_	_	_
+39	aircrafts	_	_	_	_
+40	'	_	_	_	_
+41	delivery	B-E-1	B-CERTAIN-1	B-NEG-1	B-NON_FUTURE-1
+42	,	_	_	_	_
+43	originally	_	_	_	_
+44	due	B-E-3	B-CERTAIN-3	B-POS-3	B-FUTURE-3
+45	later	_	_	_	_
+46	this	_	_	_	_
+47	year	_	_	_	_
+48	,	_	_	_	_
+49	will	_	_	_	_
+50	be	_	_	_	_
+51	delayed	B-E-5	B-CERTAIN-5	B-POS-5	B-FUTURE-5
+52	until	_	_	_	_
+53	October	_	_	_	_
+54	2007	_	_	_	_
+55	.	_	_	_	_
 
-56	The	_	_	_
-57	main	_	_	_
-58	fault	B-E-41	B-CERTAIN-41	B-POS-41
-59	has	_	_	_
-60	been	_	_	_
-61	found	B-E-33	B-CERTAIN-33	B-POS-33
-62	to	_	_	_
-63	be	_	_	_
-64	problems	B-E-38	B-CERTAIN-38	B-POS-38
-65	in	_	_	_
-66	the	_	_	_
-67	aircraft	_	_	_
-68	's	_	_	_
-69	500km	_	_	_
-70	of	_	_	_
-71	wiring	_	_	_
-72	.	_	_	_
+56	The	_	_	_	_
+57	main	_	_	_	_
+58	fault	B-E-20	B-CERTAIN-20	B-POS-20	B-NON_FUTURE-20
+59	has	_	_	_	_
+60	been	_	_	_	_
+61	found	B-E-12	B-CERTAIN-12	B-POS-12	B-NON_FUTURE-12
+62	to	_	_	_	_
+63	be	_	_	_	_
+64	problems	B-E-17	B-CERTAIN-17	B-POS-17	B-NON_FUTURE-17
+65	in	_	_	_	_
+66	the	_	_	_	_
+67	aircraft	_	_	_	_
+68	's	_	_	_	_
+69	500km	_	_	_	_
+70	of	_	_	_	_
+71	wiring	_	_	_	_
+72	.	_	_	_	_
 
-73	In	_	_	_
-74	a	_	_	_
-75	statement	B-E-31	B-CERTAIN-31	B-POS-31
-76	on	_	_	_
-77	the	_	_	_
-78	Airbus	_	_	_
-79	website	_	_	_
-80	,	_	_	_
-81	the	_	_	_
-82	company	_	_	_
-83	said	B-E-32	B-CERTAIN-32	B-POS-32
-84	that	_	_	_
-85	``	_	_	_
-86	the	_	_	_
-87	root	_	_	_
-88	cause	_	_	_
-89	of	_	_	_
-90	the	_	_	_
-91	problem	B-E-34	B-CERTAIN-34	B-POS-34
-92	is	_	_	_
-93	the	_	_	_
-94	fact	_	_	_
-95	that	_	_	_
-96	the	_	_	_
-97	3D	_	_	_
-98	Digital	_	_	_
-99	mock-up	_	_	_
-100	,	_	_	_
-101	which	_	_	_
-102	facilitates	B-E-35	B-CERTAIN-35	B-POS-35
-103	the	_	_	_
-104	design	_	_	_
-105	of	_	_	_
-106	the	_	_	_
-107	electrical	_	_	_
-108	harnesses	_	_	_
-109	installation	_	_	_
-110	,	_	_	_
-111	was	_	_	_
-112	implemented	B-E-37	B-CERTAIN-37	B-POS-37
-113	late	_	_	_
-114	and	_	_	_
-115	that	_	_	_
-116	the	_	_	_
-117	people	_	_	_
-118	working	B-E-74	B-CERTAIN-74	B-POS-74
-119	on	_	_	_
-120	it	_	_	_
-121	were	B-E-40	B-CERTAIN-40	B-POS-40
-122	in	B-E-39	B-CERTAIN-39	B-POS-39
-123	their	I-E-39	I-CERTAIN-39	I-POS-39
-124	learning	I-E-39	I-CERTAIN-39	I-POS-39
-125	curve	I-E-39	I-CERTAIN-39	I-POS-39
-126	''	_	_	_
-127	.	_	_	_
+73	In	_	_	_	_
+74	a	_	_	_	_
+75	statement	B-E-10	B-CERTAIN-10	B-POS-10	B-NON_FUTURE-10
+76	on	_	_	_	_
+77	the	_	_	_	_
+78	Airbus	_	_	_	_
+79	website	_	_	_	_
+80	,	_	_	_	_
+81	the	_	_	_	_
+82	company	_	_	_	_
+83	said	B-E-11	B-CERTAIN-11	B-POS-11	B-NON_FUTURE-11
+84	that	_	_	_	_
+85	``	_	_	_	_
+86	the	_	_	_	_
+87	root	_	_	_	_
+88	cause	_	_	_	_
+89	of	_	_	_	_
+90	the	_	_	_	_
+91	problem	B-E-13	B-CERTAIN-13	B-POS-13	B-NON_FUTURE-13
+92	is	_	_	_	_
+93	the	_	_	_	_
+94	fact	_	_	_	_
+95	that	_	_	_	_
+96	the	_	_	_	_
+97	3D	_	_	_	_
+98	Digital	_	_	_	_
+99	mock-up	_	_	_	_
+100	,	_	_	_	_
+101	which	_	_	_	_
+102	facilitates	B-E-14	B-CERTAIN-14	B-POS-14	B-NON_FUTURE-14
+103	the	_	_	_	_
+104	design	_	_	_	_
+105	of	_	_	_	_
+106	the	_	_	_	_
+107	electrical	_	_	_	_
+108	harnesses	_	_	_	_
+109	installation	B-E-15	B-CERTAIN-15	B-POS-15	B-NON_FUTURE-15
+110	,	_	_	_	_
+111	was	_	_	_	_
+112	implemented	B-E-16	B-CERTAIN-16	B-POS-16	B-NON_FUTURE-16
+113	late	_	_	_	_
+114	and	_	_	_	_
+115	that	_	_	_	_
+116	the	_	_	_	_
+117	people	_	_	_	_
+118	working	B-E-21	B-CERTAIN-21	B-POS-21	B-NON_FUTURE-21
+119	on	_	_	_	_
+120	it	_	_	_	_
+121	were	B-E-19	B-CERTAIN-19	B-POS-19	B-NON_FUTURE-19
+122	in	B-E-18	B-CERTAIN-18	B-POS-18	B-NON_FUTURE-18
+123	their	I-E-18	I-CERTAIN-18	I-POS-18	I-NON_FUTURE-18
+124	learning	I-E-18	I-CERTAIN-18	I-POS-18	I-NON_FUTURE-18
+125	curve	I-E-18	I-CERTAIN-18	I-POS-18	I-NON_FUTURE-18
+126	''	_	_	_	_
+127	.	_	_	_	_
 
-128	Airbus	_	_	_
-129	is	_	_	_
-130	currently	_	_	_
-131	two	_	_	_
-132	years	_	_	_
-133	behind	_	_	_
-134	schedule	_	_	_
-135	.	_	_	_
+128	Airbus	_	_	_	_
+129	is	_	_	_	_
+130	currently	_	_	_	_
+131	two	_	_	_	_
+132	years	_	_	_	_
+133	behind	_	_	_	_
+134	schedule	_	_	_	_
+135	.	_	_	_	_
 
-136	In	_	_	_
-137	a	_	_	_
-138	statement	_	_	_
-139	,	_	_	_
-140	SIA	_	_	_
-141	said	B-E-113	_-113	_-113
-142	that	_	_	_
-143	,	_	_	_
-144	``	_	_	_
-145	The	_	_	_
-146	delays	_	_	_
-147	are	_	_	_
-148	disappointing	_	_	_
-149	;	_	_	_
-150	all	_	_	_
-151	the	_	_	_
-152	more	_	_	_
-153	so	_	_	_
-154	because	_	_	_
-155	the	_	_	_
-156	flight	_	_	_
-157	test	_	_	_
-158	and	_	_	_
-159	certification	_	_	_
-160	programme	_	_	_
-161	is	_	_	_
-162	proceeding	_	_	_
-163	well	_	_	_
-164	,	_	_	_
-165	and	_	_	_
-166	the	_	_	_
-167	delays	_	_	_
-168	are	_	_	_
-169	down	_	_	_
-170	to	_	_	_
-171	production	_	_	_
-172	issues	_	_	_
-173	.	_	_	_
-174	''	_	_	_
+136	In	_	_	_	_
+137	a	_	_	_	_
+138	statement	_	_	_	_
+139	,	_	_	_	_
+140	SIA	_	_	_	_
+141	said	_	_	_	_
+142	that	_	_	_	_
+143	,	_	_	_	_
+144	``	_	_	_	_
+145	The	_	_	_	_
+146	delays	_	_	_	_
+147	are	_	_	_	_
+148	disappointing	_	_	_	_
+149	;	_	_	_	_
+150	all	_	_	_	_
+151	the	_	_	_	_
+152	more	_	_	_	_
+153	so	_	_	_	_
+154	because	_	_	_	_
+155	the	_	_	_	_
+156	flight	_	_	_	_
+157	test	_	_	_	_
+158	and	_	_	_	_
+159	certification	_	_	_	_
+160	programme	_	_	_	_
+161	is	_	_	_	_
+162	proceeding	_	_	_	_
+163	well	_	_	_	_
+164	,	_	_	_	_
+165	and	_	_	_	_
+166	the	_	_	_	_
+167	delays	_	_	_	_
+168	are	_	_	_	_
+169	down	_	_	_	_
+170	to	_	_	_	_
+171	production	_	_	_	_
+172	issues	_	_	_	_
+173	.	_	_	_	_
+174	''	_	_	_	_
+
+175	Analysts	_	_	_	_
+176	are	_	_	_	_
+177	predicting	_	_	_	_
+178	that	_	_	_	_
+179	the	_	_	_	_
+180	compensations	_	_	_	_
+181	could	_	_	_	_
+182	well	_	_	_	_
+183	run	_	_	_	_
+184	into	_	_	_	_
+185	a	_	_	_	_
+186	few	_	_	_	_
+187	hundred	_	_	_	_
+188	million	_	_	_	_
+189	US	_	_	_	_
+190	dollars	_	_	_	_
+191	.	_	_	_	_
+
+192	SIA	_	_	_	_
+193	has	_	_	_	_
+194	stated	_	_	_	_
+195	that	_	_	_	_
+196	the	_	_	_	_
+197	compensation	_	_	_	_
+198	details	_	_	_	_
+199	will	_	_	_	_
+200	be	_	_	_	_
+201	kept	_	_	_	_
+202	confidential	_	_	_	_
+203	Singapore	_	_	_	_
+204	Airlines	_	_	_	_
+205	is	_	_	_	_
+206	the	_	_	_	_
+207	first	_	_	_	_
+208	airline	_	_	_	_
+209	to	_	_	_	_
+210	fly	_	_	_	_
+211	the	_	_	_	_
+212	A380	_	_	_	_
+213	and	_	_	_	_
+214	will	_	_	_	_
+215	be	_	_	_	_
+216	receiving	_	_	_	_
+217	the	_	_	_	_
+218	first	_	_	_	_
+219	four	_	_	_	_
+220	aircraft	_	_	_	_
+221	.	_	_	_	_

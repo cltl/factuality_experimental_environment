@@ -1,160 +1,330 @@
-1	Boeing	_	_	_
-2	pushes	B-E-41	B-CERTAIN-41	B-POS-41
-3	back	_	_	_
-4	737	_	_	_
-5	replacement	B-E-16	B-CERTAIN-16	B-POS-16
-6	development	B-E-42	B-CERTAIN-42	B-POS-42
+1	Boeing	_	_	_	_
+2	pushes	B-E-23	B-CERTAIN-23	B-POS-23	B-NON_FUTURE-23
+3	back	_	_	_	_
+4	737	_	_	_	_
+5	replacement	B-E-25	B-CERTAIN-25	B-POS-25	B-FUTURE-25
+6	development	B-E-24	B-CERTAIN-24	B-POS-24	B-NON_FUTURE-24
 
-7	May	_	_	_
-8	24	_	_	_
-9	,	_	_	_
-10	2008	_	_	_
+7	May	_	_	_	_
+8	24	_	_	_	_
+9	,	_	_	_	_
+10	2008	_	_	_	_
 
-11	United	_	_	_
-12	States	_	_	_
-13	airframer	_	_	_
-14	Boeing	_	_	_
-15	has	_	_	_
-16	announced	B-E-18	B-CERTAIN-18	B-POS-18
-17	that	_	_	_
-18	development	B-E-19	B-CERTAIN-19	B-POS-19
-19	of	_	_	_
-20	a	_	_	_
-21	replacement	B-E-20	B-CERTAIN-20	B-POS-20
-22	for	_	_	_
-23	their	_	_	_
-24	737	_	_	_
-25	narrowbody	_	_	_
-26	airliner	_	_	_
-27	,	_	_	_
-28	begun	B-E-21	B-CERTAIN-21	B-POS-21
-29	two	_	_	_
-30	years	_	_	_
-31	ago	_	_	_
-32	,	_	_	_
-33	has	_	_	_
-34	been	_	_	_
-35	pushed	B-E-22	B-CERTAIN-22	B-POS-22
-36	back	_	_	_
-37	several	_	_	_
-38	years	_	_	_
-39	,	_	_	_
-40	Boeing	_	_	_
-41	saying	B-E-23	B-CERTAIN-23	B-POS-23
-42	that	_	_	_
-43	further	_	_	_
-44	advancement	B-E-34	B-CERTAIN-34	B-POS-34
-45	of	_	_	_
-46	technology	_	_	_
-47	is	B-E-17	B-CERTAIN-17	B-POS-17
-48	required	B-E-39	B-CERTAIN-39	B-POS-39
-49	.	_	_	_
+11	United	_	_	_	_
+12	States	_	_	_	_
+13	airframer	_	_	_	_
+14	Boeing	_	_	_	_
+15	has	_	_	_	_
+16	announced	B-E-27	B-CERTAIN-27	B-POS-27	B-NON_FUTURE-27
+17	that	_	_	_	_
+18	development	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+19	of	_	_	_	_
+20	a	_	_	_	_
+21	replacement	B-E-2	B-CERTAIN-2	B-POS-2	B-FUTURE-2
+22	for	_	_	_	_
+23	their	_	_	_	_
+24	737	_	_	_	_
+25	narrowbody	_	_	_	_
+26	airliner	_	_	_	_
+27	,	_	_	_	_
+28	begun	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+29	two	_	_	_	_
+30	years	_	_	_	_
+31	ago	_	_	_	_
+32	,	_	_	_	_
+33	has	_	_	_	_
+34	been	_	_	_	_
+35	pushed	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+36	back	_	_	_	_
+37	several	_	_	_	_
+38	years	_	_	_	_
+39	,	_	_	_	_
+40	Boeing	_	_	_	_
+41	saying	B-E-5	B-CERTAIN-5	B-POS-5	B-NON_FUTURE-5
+42	that	_	_	_	_
+43	further	_	_	_	_
+44	advancement	B-E-16	B-CERTAIN-16	B-POS-16	B-FUTURE-16
+45	of	_	_	_	_
+46	technology	_	_	_	_
+47	is	B-E-26	B-CERTAIN-26	B-POS-26	B-NON_FUTURE-26
+48	required	B-E-21	B-CERTAIN-21	B-POS-21	B-NON_FUTURE-21
+49	.	_	_	_	_
 
-50	Spokeswoman	_	_	_
-51	Sandy	_	_	_
-52	Angers	_	_	_
-53	said	B-E-24	B-CERTAIN-24	B-POS-24
-54	that	_	_	_
-55	that	_	_	_
-56	the	_	_	_
-57	team	_	_	_
-58	formed	_	_	_
-59	to	_	_	_
-60	look	_	_	_
-61	at	_	_	_
-62	the	_	_	_
-63	development	_	_	_
-64	had	_	_	_
-65	been	_	_	_
-66	merged	B-E-25	B-CERTAIN-25	B-POS-25
-67	into	_	_	_
-68	the	_	_	_
-69	parent	_	_	_
-70	product	_	_	_
-71	development	_	_	_
-72	team	_	_	_
-73	and	_	_	_
-74	would	_	_	_
-75	cease	B-E-35	B-CERTAIN-35	B-POS-35
-76	looking	B-E-36	B-CERTAIN-36	B-NEG-36
-77	at	_	_	_
-78	specific	_	_	_
-79	designs	_	_	_
-80	.	_	_	_
+50	Spokeswoman	_	_	_	_
+51	Sandy	_	_	_	_
+52	Angers	_	_	_	_
+53	said	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+54	that	_	_	_	_
+55	that	_	_	_	_
+56	the	_	_	_	_
+57	team	_	_	_	_
+58	formed	_	_	_	_
+59	to	_	_	_	_
+60	look	_	_	_	_
+61	at	_	_	_	_
+62	the	_	_	_	_
+63	development	_	_	_	_
+64	had	_	_	_	_
+65	been	_	_	_	_
+66	merged	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+67	into	_	_	_	_
+68	the	_	_	_	_
+69	parent	_	_	_	_
+70	product	_	_	_	_
+71	development	_	_	_	_
+72	team	_	_	_	_
+73	and	_	_	_	_
+74	would	_	_	_	_
+75	cease	B-E-17	B-CERTAIN-17	B-POS-17	B-FUTURE-17
+76	looking	B-E-18	B-CERTAIN-18	B-NEG-18	B-FUTURE-18
+77	at	_	_	_	_
+78	specific	_	_	_	_
+79	designs	_	_	_	_
+80	.	_	_	_	_
 
-81	Boeing	_	_	_
-82	say	B-E-26	B-CERTAIN-26	B-POS-26
-83	airlines	_	_	_
-84	demand	B-E-30	B-CERTAIN-30	B-POS-30
-85	performance	_	_	_
-86	improvements	B-E-28	B-CERTAIN-28	B-POS-28
-87	of	_	_	_
-88	15-20	_	_	_
-89	%	_	_	_
-90	are	_	_	_
-91	required	B-E-38	B-CERTAIN-38	B-POS-38
-92	if	_	_	_
-93	a	_	_	_
-94	new	_	_	_
-95	airliner	_	_	_
-96	is	B-E-40	B-CERTAIN-40	B-POS-40
-97	to	_	_	_
-98	be	_	_	_
-99	commercially	_	_	_
-100	viable	B-E-29	B-CERTAIN-29	B-POS-29
-101	.	_	_	_
+81	Boeing	_	_	_	_
+82	say	B-E-8	B-CERTAIN-8	B-POS-8	B-NON_FUTURE-8
+83	airlines	_	_	_	_
+84	demand	B-E-12	B-CERTAIN-12	B-POS-12	B-FUTURE-12
+85	performance	_	_	_	_
+86	improvements	B-E-10	B-CERTAIN-10	B-POS-10	B-FUTURE-10
+87	of	_	_	_	_
+88	15-20	_	_	_	_
+89	%	_	_	_	_
+90	are	_	_	_	_
+91	required	B-E-20	B-CERTAIN-20	B-POS-20	B-UNDERSPECIFIED-20
+92	if	_	_	_	_
+93	a	_	_	_	_
+94	new	_	_	_	_
+95	airliner	_	_	_	_
+96	is	B-E-22	B-CERTAIN-22	B-POS-22	B-NON_FUTURE-22
+97	to	_	_	_	_
+98	be	_	_	_	_
+99	commercially	_	_	_	_
+100	viable	B-E-11	B-CERTAIN-11	B-POS-11	B-FUTURE-11
+101	.	_	_	_	_
 
-102	``	_	_	_
-103	We	_	_	_
-104	've	_	_	_
-105	reduced	B-E-31	B-CERTAIN-31	B-POS-31
-106	our	_	_	_
-107	airplane-design	_	_	_
-108	effort	B-E-37	B-CERTAIN-37	B-POS-37
-109	and	_	_	_
-110	are	_	_	_
-111	focusing	B-E-32	B-CERTAIN-32	B-POS-32
-112	more	_	_	_
-113	on	_	_	_
-114	the	_	_	_
-115	technology	_	_	_
-116	breakthroughs	B-E-33	B-CERTAIN-33	B-POS-33
-117	,	_	_	_
-118	''	_	_	_
-119	said	B-E-27	B-CERTAIN-27	B-POS-27
-120	Angers	_	_	_
-121	.	_	_	_
+102	``	_	_	_	_
+103	We	_	_	_	_
+104	've	_	_	_	_
+105	reduced	B-E-13	B-CERTAIN-13	B-POS-13	B-NON_FUTURE-13
+106	our	_	_	_	_
+107	airplane-design	_	_	_	_
+108	effort	B-E-19	B-CERTAIN-19	B-POS-19	B-NON_FUTURE-19
+109	and	_	_	_	_
+110	are	_	_	_	_
+111	focusing	B-E-14	B-CERTAIN-14	B-POS-14	B-NON_FUTURE-14
+112	more	_	_	_	_
+113	on	_	_	_	_
+114	the	_	_	_	_
+115	technology	_	_	_	_
+116	breakthroughs	B-E-15	B-CERTAIN-15	B-POS-15	B-FUTURE-15
+117	,	_	_	_	_
+118	''	_	_	_	_
+119	said	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+120	Angers	_	_	_	_
+121	.	_	_	_	_
 
-122	``	_	_	_
-123	We	_	_	_
-124	need	_	_	_
-125	technology	_	_	_
-126	breakthroughs	_	_	_
-127	in	_	_	_
-128	engines	_	_	_
-129	,	_	_	_
-130	aerodynamics	_	_	_
-131	,	_	_	_
-132	materials	_	_	_
-133	and	_	_	_
-134	other	_	_	_
-135	systems	_	_	_
-136	.	_	_	_
+122	``	_	_	_	_
+123	We	_	_	_	_
+124	need	_	_	_	_
+125	technology	_	_	_	_
+126	breakthroughs	_	_	_	_
+127	in	_	_	_	_
+128	engines	_	_	_	_
+129	,	_	_	_	_
+130	aerodynamics	_	_	_	_
+131	,	_	_	_	_
+132	materials	_	_	_	_
+133	and	_	_	_	_
+134	other	_	_	_	_
+135	systems	_	_	_	_
+136	.	_	_	_	_
 
-137	You	_	_	_
-138	ca	_	_	_
-139	n't	_	_	_
-140	simply	_	_	_
-141	shrink	_	_	_
-142	the	_	_	_
-143	787	_	_	_
-144	and	_	_	_
-145	expect	_	_	_
-146	the	_	_	_
-147	same	_	_	_
-148	benefits	_	_	_
-149	for	_	_	_
-150	the	_	_	_
-151	narrow-body	_	_	_
-152	market	_	_	_
-153	.	_	_	_
+137	You	_	_	_	_
+138	ca	_	_	_	_
+139	n't	_	_	_	_
+140	simply	_	_	_	_
+141	shrink	_	_	_	_
+142	the	_	_	_	_
+143	787	_	_	_	_
+144	and	_	_	_	_
+145	expect	_	_	_	_
+146	the	_	_	_	_
+147	same	_	_	_	_
+148	benefits	_	_	_	_
+149	for	_	_	_	_
+150	the	_	_	_	_
+151	narrow-body	_	_	_	_
+152	market	_	_	_	_
+153	.	_	_	_	_
+
+154	We	_	_	_	_
+155	've	_	_	_	_
+156	got	_	_	_	_
+157	difficult	_	_	_	_
+158	challenges	_	_	_	_
+159	.	_	_	_	_
+160	''	_	_	_	_
+
+161	One	_	_	_	_
+162	important	_	_	_	_
+163	difference	_	_	_	_
+164	is	_	_	_	_
+165	that	_	_	_	_
+166	the	_	_	_	_
+167	plastic	_	_	_	_
+168	composite	_	_	_	_
+169	used	_	_	_	_
+170	for	_	_	_	_
+171	the	_	_	_	_
+172	fuselage	_	_	_	_
+173	of	_	_	_	_
+174	the	_	_	_	_
+175	787	_	_	_	_
+176	would	_	_	_	_
+177	not	_	_	_	_
+178	offer	_	_	_	_
+179	as	_	_	_	_
+180	significant	_	_	_	_
+181	a	_	_	_	_
+182	weight	_	_	_	_
+183	saving	_	_	_	_
+184	on	_	_	_	_
+185	a	_	_	_	_
+186	smaller	_	_	_	_
+187	aircraft	_	_	_	_
+188	.	_	_	_	_
+
+189	The	_	_	_	_
+190	delivery	_	_	_	_
+191	date	_	_	_	_
+192	for	_	_	_	_
+193	the	_	_	_	_
+194	plane	_	_	_	_
+195	is	_	_	_	_
+196	now	_	_	_	_
+197	anticipated	_	_	_	_
+198	to	_	_	_	_
+199	be	_	_	_	_
+200	around	_	_	_	_
+201	2020	_	_	_	_
+202	,	_	_	_	_
+203	and	_	_	_	_
+204	not	_	_	_	_
+205	2015	_	_	_	_
+206	as	_	_	_	_
+207	previously	_	_	_	_
+208	hoped	_	_	_	_
+209	.	_	_	_	_
+
+210	This	_	_	_	_
+211	coincides	_	_	_	_
+212	with	_	_	_	_
+213	the	_	_	_	_
+214	expected	_	_	_	_
+215	date	_	_	_	_
+216	for	_	_	_	_
+217	Airbus	_	_	_	_
+218	to	_	_	_	_
+219	deliver	_	_	_	_
+220	their	_	_	_	_
+221	A320	_	_	_	_
+222	replacement	_	_	_	_
+223	.	_	_	_	_
+
+224	Industry	_	_	_	_
+225	analysts	_	_	_	_
+226	predict	_	_	_	_
+227	development	_	_	_	_
+228	of	_	_	_	_
+229	one	_	_	_	_
+230	to	_	_	_	_
+231	trigger	_	_	_	_
+232	development	_	_	_	_
+233	of	_	_	_	_
+234	the	_	_	_	_
+235	other	_	_	_	_
+236	.	_	_	_	_
+
+237	Boeing	_	_	_	_
+238	had	_	_	_	_
+239	hoped	_	_	_	_
+240	to	_	_	_	_
+241	have	_	_	_	_
+242	their	_	_	_	_
+243	's	_	_	_	_
+244	ready	_	_	_	_
+245	for	_	_	_	_
+246	2012	_	_	_	_
+247	.	_	_	_	_
+
+248	Boeing	_	_	_	_
+249	Commercial	_	_	_	_
+250	Airplanes	_	_	_	_
+251	CEO	_	_	_	_
+252	Scott	_	_	_	_
+253	Carson	_	_	_	_
+254	said	_	_	_	_
+255	``	_	_	_	_
+256	We	_	_	_	_
+257	're	_	_	_	_
+258	continuing	_	_	_	_
+259	our	_	_	_	_
+260	research	_	_	_	_
+261	effort	_	_	_	_
+262	until	_	_	_	_
+263	we	_	_	_	_
+264	find	_	_	_	_
+265	the	_	_	_	_
+266	right	_	_	_	_
+267	solution	_	_	_	_
+268	.	_	_	_	_
+
+269	It	_	_	_	_
+270	has	_	_	_	_
+271	to	_	_	_	_
+272	be	_	_	_	_
+273	a	_	_	_	_
+274	25-year	_	_	_	_
+275	product	_	_	_	_
+276	.	_	_	_	_
+277	''	_	_	_	_
+
+278	Since	_	_	_	_
+279	its	_	_	_	_
+280	1967	_	_	_	_
+281	debut	_	_	_	_
+282	5,700	_	_	_	_
+283	737s	_	_	_	_
+284	have	_	_	_	_
+285	been	_	_	_	_
+286	deliverd	_	_	_	_
+287	to	_	_	_	_
+288	date	_	_	_	_
+289	,	_	_	_	_
+290	with	_	_	_	_
+291	orders	_	_	_	_
+292	for	_	_	_	_
+293	2,200	_	_	_	_
+294	more	_	_	_	_
+295	,	_	_	_	_
+296	keeping	_	_	_	_
+297	the	_	_	_	_
+298	jet	_	_	_	_
+299	in	_	_	_	_
+300	production	_	_	_	_
+301	until	_	_	_	_
+302	at	_	_	_	_
+303	least	_	_	_	_
+304	2014	_	_	_	_
+305	.	_	_	_	_
+
+306	It	_	_	_	_
+307	is	_	_	_	_
+308	Boeing	_	_	_	_
+309	's	_	_	_	_
+310	most	_	_	_	_
+311	popular	_	_	_	_
+312	airliner	_	_	_	_
+313	.	_	_	_	_

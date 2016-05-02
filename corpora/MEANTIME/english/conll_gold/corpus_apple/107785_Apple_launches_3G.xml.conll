@@ -1,0 +1,292 @@
+1	Apple	_	_	_	_
+2	launches	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+3	3G	_	_	_	_
+4	iPhone	_	_	_	_
+
+5	June	_	_	_	_
+
+6	9	_	_	_	_
+
+7	,	_	_	_	_
+
+8	2008	_	_	_	_
+
+9	Apple	_	_	_	_
+
+10	Computer	_	_	_	_
+
+11	today	_	_	_	_
+
+12	launched	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+
+13	a	_	_	_	_
+
+14	3G	_	_	_	_
+
+15	version	_	_	_	_
+
+16	of	_	_	_	_
+
+17	its	_	_	_	_
+
+18	iPhone	_	_	_	_
+
+19	device	_	_	_	_
+
+20	.	_	_	_	_
+
+21	Steve	_	_	_	_
+
+22	Jobs	_	_	_	_
+
+23	,	_	_	_	_
+
+24	the	_	_	_	_
+
+25	Apple	_	_	_	_
+
+26	Chief	_	_	_	_
+
+27	Executive	_	_	_	_
+
+28	Officer	_	_	_	_
+
+29	,	_	_	_	_
+
+30	announced	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+
+31	the	_	_	_	_
+
+32	development	B-E-13	B-CERTAIN-13	B-POS-13	B-FUTURE-13
+
+33	at	_	_	_	_
+
+34	a	_	_	_	_
+
+35	developers	_	_	_	_
+
+36	'	_	_	_	_
+
+37	conference	B-E-5	B-CERTAIN-5	B-POS-5	B-NON_FUTURE-5
+
+38	,	_	_	_	_
+
+39	where	_	_	_	_
+
+40	he	_	_	_	_
+
+41	promoted	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+
+42	the	_	_	_	_
+
+43	iPhone	_	_	_	_
+
+44	by	_	_	_	_
+
+45	saying	B-E-12	B-CERTAIN-12	B-POS-12	B-NON_FUTURE-12
+
+46	that	_	_	_	_
+
+47	,	_	_	_	_
+
+48	"	_	_	_	_
+
+49	just	_	_	_	_
+
+50	one	_	_	_	_
+
+51	year	_	_	_	_
+
+52	after	_	_	_	_
+
+53	launching	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+
+54	the	_	_	_	_
+
+55	iPhone	_	_	_	_
+
+56	,	_	_	_	_
+
+57	we	_	_	_	_
+
+58	'	_	_	_	_
+
+59	re	_	_	_	_
+
+60	launching	B-E-8	B-CERTAIN-8	B-POS-8	B-NON_FUTURE-8
+
+61	the	_	_	_	_
+
+62	new	_	_	_	_
+
+63	iPhone	_	_	_	_
+
+64	3G	_	_	_	_
+
+65	that	_	_	_	_
+
+66	is	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
+
+67	twice	_	_	_	_
+
+68	as	_	_	_	_
+
+69	fast	_	_	_	_
+
+70	at	_	_	_	_
+
+71	half	_	_	_	_
+
+72	the	_	_	_	_
+
+73	price	_	_	_	_
+
+74	.	_	_	_	_
+
+75	"	_	_	_	_
+
+76	Apple	_	_	_	_
+
+77	has	_	_	_	_
+
+78	claimed	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+
+79	that	_	_	_	_
+
+80	the	_	_	_	_
+
+81	3G	_	_	_	_
+
+82	iPhone	_	_	_	_
+
+83	will	_	_	_	_
+
+84	provide	B-E-10	B-CERTAIN-10	B-POS-10	B-FUTURE-10
+
+85	internet	_	_	_	_
+
+86	access	_	_	_	_
+
+87	at	_	_	_	_
+
+88	double	_	_	_	_
+
+89	the	_	_	_	_
+
+90	speed	_	_	_	_
+
+91	of	_	_	_	_
+
+92	the	_	_	_	_
+
+93	internet	_	_	_	_
+
+94	access	_	_	_	_
+
+95	provided	B-E-14	B-CERTAIN-14	B-POS-14	B-NON_FUTURE-14
+
+96	by	_	_	_	_
+
+97	the	_	_	_	_
+
+98	previous	_	_	_	_
+
+99	versions	_	_	_	_
+
+100	.	_	_	_	_
+
+101	The	_	_	_	_
+
+102	price	_	_	_	_
+
+103	for	_	_	_	_
+
+104	the	_	_	_	_
+
+105	iPhone	_	_	_	_
+
+106	has	_	_	_	_
+
+107	also	_	_	_	_
+
+108	been	_	_	_	_
+
+109	reduced	B-E-11	B-CERTAIN-11	B-POS-11	B-NON_FUTURE-11
+
+110	to	_	_	_	_
+
+111	$	_	_	_	_
+
+112	199	_	_	_	_
+
+113	in	_	_	_	_
+
+114	the	_	_	_	_
+
+115	US	_	_	_	_
+
+116	,	_	_	_	_
+
+117	with	_	_	_	_
+
+118	prices	_	_	_	_
+
+119	in	_	_	_	_
+
+120	other	_	_	_	_
+
+121	countries	_	_	_	_
+
+122	equal	_	_	_	_
+
+123	or	_	_	_	_
+
+124	below	_	_	_	_
+
+125	that	_	_	_	_
+
+126	of	_	_	_	_
+
+127	within	_	_	_	_
+
+128	the	_	_	_	_
+
+129	US	_	_	_	_
+
+130	.	_	_	_	_
+
+131	For	_	_	_	_
+
+132	several	_	_	_	_
+
+133	months	_	_	_	_
+
+134	there	_	_	_	_
+
+135	has	_	_	_	_
+
+136	been	_	_	_	_
+
+137	speculation	_	_	_	_
+
+138	among	_	_	_	_
+
+139	Apple	_	_	_	_
+
+140	fans	_	_	_	_
+
+141	about	_	_	_	_
+
+142	the	_	_	_	_
+
+143	launch	_	_	_	_
+
+144	of	_	_	_	_
+
+145	a	_	_	_	_
+
+146	3G	_	_	_	_
+
+147	iPhone	_	_	_	_
+
+148	.	_	_	_	_

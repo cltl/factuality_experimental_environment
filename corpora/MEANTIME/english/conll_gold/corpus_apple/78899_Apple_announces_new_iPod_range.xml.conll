@@ -1,0 +1,597 @@
+1	Apple	_	_	_	_
+2	announces	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+3	new	_	_	_	_
+4	iPod	_	_	_	_
+5	range	_	_	_	_
+
+6	September	_	_	_	_
+
+7	05	_	_	_	_
+
+8	,	_	_	_	_
+
+9	2007	_	_	_	_
+
+10	Apple	_	_	_	_
+
+11	have	_	_	_	_
+
+12	released	B-E-11	B-CERTAIN-11	B-POS-11	B-NON_FUTURE-11
+
+13	several	_	_	_	_
+
+14	re-designs	_	_	_	_
+
+15	of	_	_	_	_
+
+16	their	_	_	_	_
+
+17	popular	_	_	_	_
+
+18	iPod	_	_	_	_
+
+19	range	_	_	_	_
+
+20	.	_	_	_	_
+
+21	In	_	_	_	_
+
+22	addition	_	_	_	_
+
+23	to	_	_	_	_
+
+24	the	_	_	_	_
+
+25	iPod	_	_	_	_
+
+26	Classic	_	_	_	_
+
+27	,	_	_	_	_
+
+28	Nano	_	_	_	_
+
+29	and	_	_	_	_
+
+30	Shuffle	_	_	_	_
+
+31	,	_	_	_	_
+
+32	they	_	_	_	_
+
+33	have	_	_	_	_
+
+34	announced	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+
+35	the	_	_	_	_
+
+36	brand	_	_	_	_
+
+37	new	_	_	_	_
+
+38	iPod	_	_	_	_
+
+39	touch	_	_	_	_
+
+40	,	_	_	_	_
+
+41	a	_	_	_	_
+
+42	media	_	_	_	_
+
+43	player	_	_	_	_
+
+44	which	_	_	_	_
+
+45	mimics	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
+
+46	the	_	_	_	_
+
+47	iPhone	_	_	_	_
+
+48	's	_	_	_	_
+
+49	touch-screen	_	_	_	_
+
+50	capabilities	_	_	_	_
+
+51	.	_	_	_	_
+
+52	The	_	_	_	_
+
+53	new	_	_	_	_
+
+54	iPod	_	_	_	_
+
+55	Classic	_	_	_	_
+
+56	design	_	_	_	_
+
+57	features	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+
+58	a	_	_	_	_
+
+59	larger	_	_	_	_
+
+60	memory	_	_	_	_
+
+61	space	_	_	_	_
+
+62	of	_	_	_	_
+
+63	up	_	_	_	_
+
+64	to	_	_	_	_
+
+65	160GB	_	_	_	_
+
+66	or	_	_	_	_
+
+67	40,000	_	_	_	_
+
+68	songs	_	_	_	_
+
+69	,	_	_	_	_
+
+70	and	_	_	_	_
+
+71	has	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+
+72	a	_	_	_	_
+
+73	new	_	_	_	_
+
+74	all-metal	_	_	_	_
+
+75	design	_	_	_	_
+
+76	.	_	_	_	_
+
+77	The	_	_	_	_
+
+78	iPod	_	_	_	_
+
+79	nano	_	_	_	_
+
+80	is	B-E-5	B-CERTAIN-5	B-POS-5	B-NON_FUTURE-5
+
+81	now	_	_	_	_
+
+82	smaller	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+
+83	and	_	_	_	_
+
+84	squarer	B-E-10	B-CERTAIN-10	B-POS-10	B-NON_FUTURE-10
+
+85	,	_	_	_	_
+
+86	adding	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+
+87	video	_	_	_	_
+
+88	playback	_	_	_	_
+
+89	to	_	_	_	_
+
+90	its	_	_	_	_
+
+91	features	_	_	_	_
+
+92	for	_	_	_	_
+
+93	the	_	_	_	_
+
+94	first	_	_	_	_
+
+95	time	_	_	_	_
+
+96	.	_	_	_	_
+
+97	The	_	_	_	_
+
+98	4GB	_	_	_	_
+
+99	model	_	_	_	_
+
+100	is	_	_	_	_
+
+101	cheaper	_	_	_	_
+
+102	than	_	_	_	_
+
+103	its	_	_	_	_
+
+104	predecessor	_	_	_	_
+
+105	at	_	_	_	_
+
+106	$	_	_	_	_
+
+107	149	_	_	_	_
+
+108	/	_	_	_	_
+
+109	£	_	_	_	_
+
+110	99	_	_	_	_
+
+111	,	_	_	_	_
+
+112	but	_	_	_	_
+
+113	the	_	_	_	_
+
+114	8GB	_	_	_	_
+
+115	is	_	_	_	_
+
+116	available	_	_	_	_
+
+117	in	_	_	_	_
+
+118	five	_	_	_	_
+
+119	colours	_	_	_	_
+
+120	at	_	_	_	_
+
+121	$	_	_	_	_
+
+122	199	_	_	_	_
+
+123	/	_	_	_	_
+
+124	£	_	_	_	_
+
+125	129	_	_	_	_
+
+126	.	_	_	_	_
+
+127	The	_	_	_	_
+
+128	iPod	_	_	_	_
+
+129	Shuffle	_	_	_	_
+
+130	is	_	_	_	_
+
+131	identical	_	_	_	_
+
+132	in	_	_	_	_
+
+133	design	_	_	_	_
+
+134	to	_	_	_	_
+
+135	the	_	_	_	_
+
+136	previous	_	_	_	_
+
+137	model	_	_	_	_
+
+138	,	_	_	_	_
+
+139	but	_	_	_	_
+
+140	is	_	_	_	_
+
+141	now	_	_	_	_
+
+142	available	_	_	_	_
+
+143	in	_	_	_	_
+
+144	a	_	_	_	_
+
+145	new	_	_	_	_
+
+146	range	_	_	_	_
+
+147	of	_	_	_	_
+
+148	five	_	_	_	_
+
+149	colours	_	_	_	_
+
+150	,	_	_	_	_
+
+151	with	_	_	_	_
+
+152	the	_	_	_	_
+
+153	same	_	_	_	_
+
+154	price	_	_	_	_
+
+155	of	_	_	_	_
+
+156	$	_	_	_	_
+
+157	79	_	_	_	_
+
+158	/	_	_	_	_
+
+159	£	_	_	_	_
+
+160	49	_	_	_	_
+
+161	.	_	_	_	_
+
+162	The	_	_	_	_
+
+163	iPod	_	_	_	_
+
+164	touch	_	_	_	_
+
+165	also	_	_	_	_
+
+166	features	_	_	_	_
+
+167	in-built	_	_	_	_
+
+168	wi-fi	_	_	_	_
+
+169	technology	_	_	_	_
+
+170	,	_	_	_	_
+
+171	enabling	_	_	_	_
+
+172	users	_	_	_	_
+
+173	to	_	_	_	_
+
+174	access	_	_	_	_
+
+175	the	_	_	_	_
+
+176	internet	_	_	_	_
+
+177	and	_	_	_	_
+
+178	download	_	_	_	_
+
+179	music	_	_	_	_
+
+180	from	_	_	_	_
+
+181	Apple	_	_	_	_
+
+182	's	_	_	_	_
+
+183	market-leading	_	_	_	_
+
+184	on	_	_	_	_
+
+185	line	_	_	_	_
+
+186	iTunes	_	_	_	_
+
+187	music	_	_	_	_
+
+188	store	_	_	_	_
+
+189	to	_	_	_	_
+
+190	their	_	_	_	_
+
+191	handset	_	_	_	_
+
+192	.	_	_	_	_
+
+193	It	_	_	_	_
+
+194	was	_	_	_	_
+
+195	announced	_	_	_	_
+
+196	that	_	_	_	_
+
+197	Starbucks	_	_	_	_
+
+198	would	_	_	_	_
+
+199	offer	_	_	_	_
+
+200	free	_	_	_	_
+
+201	wi-fi	_	_	_	_
+
+202	access	_	_	_	_
+
+203	to	_	_	_	_
+
+204	all	_	_	_	_
+
+205	users	_	_	_	_
+
+206	of	_	_	_	_
+
+207	the	_	_	_	_
+
+208	iPod	_	_	_	_
+
+209	touch	_	_	_	_
+
+210	in	_	_	_	_
+
+211	its	_	_	_	_
+
+212	cafes	_	_	_	_
+
+213	.	_	_	_	_
+
+214	The	_	_	_	_
+
+215	screen	_	_	_	_
+
+216	layout	_	_	_	_
+
+217	,	_	_	_	_
+
+218	similar	_	_	_	_
+
+219	to	_	_	_	_
+
+220	that	_	_	_	_
+
+221	of	_	_	_	_
+
+222	the	_	_	_	_
+
+223	iPhone	_	_	_	_
+
+224	,	_	_	_	_
+
+225	offers	_	_	_	_
+
+226	access	_	_	_	_
+
+227	to	_	_	_	_
+
+228	music	_	_	_	_
+
+229	,	_	_	_	_
+
+230	video	_	_	_	_
+
+231	,	_	_	_	_
+
+232	photos	_	_	_	_
+
+233	and	_	_	_	_
+
+234	the	_	_	_	_
+
+235	iTunes	_	_	_	_
+
+236	store	_	_	_	_
+
+237	.	_	_	_	_
+
+238	There	_	_	_	_
+
+239	are	_	_	_	_
+
+240	currently	_	_	_	_
+
+241	two	_	_	_	_
+
+242	models	_	_	_	_
+
+243	,	_	_	_	_
+
+244	at	_	_	_	_
+
+245	8GB	_	_	_	_
+
+246	and	_	_	_	_
+
+247	16GB	_	_	_	_
+
+248	of	_	_	_	_
+
+249	memory	_	_	_	_
+
+250	capacity	_	_	_	_
+
+251	.	_	_	_	_
+
+252	Apple	_	_	_	_
+
+253	CEO	_	_	_	_
+
+254	Steve	_	_	_	_
+
+255	Jobs	_	_	_	_
+
+256	also	_	_	_	_
+
+257	announced	_	_	_	_
+
+258	that	_	_	_	_
+
+259	the	_	_	_	_
+
+260	price	_	_	_	_
+
+261	of	_	_	_	_
+
+262	Apple	_	_	_	_
+
+263	's	_	_	_	_
+
+264	iPhone	_	_	_	_
+
+265	,	_	_	_	_
+
+266	currently	_	_	_	_
+
+267	only	_	_	_	_
+
+268	on	_	_	_	_
+
+269	sale	_	_	_	_
+
+270	in	_	_	_	_
+
+271	the	_	_	_	_
+
+272	US	_	_	_	_
+
+273	,	_	_	_	_
+
+274	will	_	_	_	_
+
+275	be	_	_	_	_
+
+276	cut	_	_	_	_
+
+277	by	_	_	_	_
+
+278	$	_	_	_	_
+
+279	200	_	_	_	_
+
+280	to	_	_	_	_
+
+281	$	_	_	_	_
+
+282	399	_	_	_	_
+
+283	.	_	_	_	_
+
+284	He	_	_	_	_
+
+285	described	_	_	_	_
+
+286	the	_	_	_	_
+
+287	new	_	_	_	_
+
+288	iPod	_	_	_	_
+
+289	range	_	_	_	_
+
+290	as	_	_	_	_
+
+291	`	_	_	_	_
+
+292	one	_	_	_	_
+
+293	of	_	_	_	_
+
+294	the	_	_	_	_
+
+295	seven	_	_	_	_
+
+296	wonders	_	_	_	_
+
+297	of	_	_	_	_
+
+298	the	_	_	_	_
+
+299	world	_	_	_	_
+
+300	'	_	_	_	_
+
+301	.	_	_	_	_

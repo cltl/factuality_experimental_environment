@@ -1,0 +1,1229 @@
+1	Apple	_	_	_	_
+2	to	_	_	_	_
+3	give	B-E-3	B-CERTAIN-3	B-POS-3	B-FUTURE-3
+4	free	_	_	_	_
+5	cases	_	_	_	_
+6	,	_	_	_	_
+7	refunds	B-E-5	B-CERTAIN-5	B-POS-5	B-FUTURE-5
+8	to	_	_	_	_
+9	iPhone	_	_	_	_
+10	4	_	_	_	_
+11	owners	_	_	_	_
+
+12	July	_	_	_	_
+
+13	17	_	_	_	_
+
+14	,	_	_	_	_
+
+15	2010	_	_	_	_
+
+16	Apple	_	_	_	_
+
+17	Inc.	_	_	_	_
+
+18	announced	B-E-15	B-CERTAIN-15	B-POS-15	B-NON_FUTURE-15
+
+19	Friday	_	_	_	_
+
+20	that	_	_	_	_
+
+21	it	_	_	_	_
+
+22	will	_	_	_	_
+
+23	give	B-E-16	B-CERTAIN-16	B-POS-16	B-FUTURE-16
+
+24	owners	_	_	_	_
+
+25	of	_	_	_	_
+
+26	its	_	_	_	_
+
+27	new	_	_	_	_
+
+28	iPhone	_	_	_	_
+
+29	4	_	_	_	_
+
+30	a	_	_	_	_
+
+31	free	_	_	_	_
+
+32	case	_	_	_	_
+
+33	in	_	_	_	_
+
+34	response	_	_	_	_
+
+35	to	_	_	_	_
+
+36	mounting	B-E-17	B-CERTAIN-17	B-POS-17	B-NON_FUTURE-17
+
+37	concerns	B-E-18	B-CERTAIN-18	B-POS-18	B-NON_FUTURE-18
+
+38	over	_	_	_	_
+
+39	the	_	_	_	_
+
+40	device	_	_	_	_
+
+41	's	_	_	_	_
+
+42	antenna	_	_	_	_
+
+43	placement	B-E-19	B-CERTAIN-19	B-POS-19	B-NON_FUTURE-19
+
+44	.	_	_	_	_
+
+45	The	_	_	_	_
+
+46	iPhone	_	_	_	_
+
+47	4	_	_	_	_
+
+48	antenna	_	_	_	_
+
+49	is	B-E-11	B-CERTAIN-11	B-POS-11	B-NON_FUTURE-11
+
+50	actually	_	_	_	_
+
+51	a	_	_	_	_
+
+52	metal	_	_	_	_
+
+53	strip	_	_	_	_
+
+54	that	_	_	_	_
+
+55	wraps	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+
+56	around	_	_	_	_
+
+57	the	_	_	_	_
+
+58	side	_	_	_	_
+
+59	of	_	_	_	_
+
+60	the	_	_	_	_
+
+61	device	_	_	_	_
+
+62	,	_	_	_	_
+
+63	which	_	_	_	_
+
+64	has	_	_	_	_
+
+65	caused	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+
+66	dropped	B-E-8	B-CERTAIN-8	B-POS-8	B-NON_FUTURE-8
+
+67	calls	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+
+68	when	_	_	_	_
+
+69	held	B-E-10	B-UNDERSPECIFIED-10	B-POS-10	B-NON_FUTURE-10
+
+70	in	_	_	_	_
+
+71	a	_	_	_	_
+
+72	certain	_	_	_	_
+
+73	way	_	_	_	_
+
+74	.	_	_	_	_
+
+75	The	_	_	_	_
+
+76	announcement	B-E-12	B-CERTAIN-12	B-POS-12	B-NON_FUTURE-12
+
+77	came	B-E-13	B-CERTAIN-13	B-POS-13	B-NON_FUTURE-13
+
+78	in	_	_	_	_
+
+79	a	_	_	_	_
+
+80	rare	_	_	_	_
+
+81	press	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+
+82	conference	I-E-4	I-CERTAIN-4	I-POS-4	I-NON_FUTURE-4
+
+83	held	B-E-14	B-CERTAIN-14	B-POS-14	B-NON_FUTURE-14
+
+84	by	_	_	_	_
+
+85	Apple	_	_	_	_
+
+86	on	_	_	_	_
+
+87	Friday	_	_	_	_
+
+88	morning	_	_	_	_
+
+89	.	_	_	_	_
+
+90	During	_	_	_	_
+
+91	the	_	_	_	_
+
+92	event	B-E-20	B-CERTAIN-20	B-POS-20	B-NON_FUTURE-20
+
+93	,	_	_	_	_
+
+94	company	_	_	_	_
+
+95	CEO	_	_	_	_
+
+96	Steve	_	_	_	_
+
+97	Jobs	_	_	_	_
+
+98	attempted	B-E-21	B-CERTAIN-21	B-POS-21	B-NON_FUTURE-21
+
+99	to	_	_	_	_
+
+100	address	B-E-22	B-POSSIBLE-22	B-POS-22	B-FUTURE-22
+
+101	reports	B-E-23	B-CERTAIN-23	B-POS-23	B-NON_FUTURE-23
+
+102	by	_	_	_	_
+
+103	both	_	_	_	_
+
+104	consumers	_	_	_	_
+
+105	and	_	_	_	_
+
+106	the	_	_	_	_
+
+107	media	_	_	_	_
+
+108	of	_	_	_	_
+
+109	signal	_	_	_	_
+
+110	reception	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+
+111	issues	_	_	_	_
+
+112	relating	_	_	_	_
+
+113	to	_	_	_	_
+
+114	the	_	_	_	_
+
+115	positioning	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
+
+116	of	_	_	_	_
+
+117	the	_	_	_	_
+
+118	phone	_	_	_	_
+
+119	's	_	_	_	_
+
+120	antenna	_	_	_	_
+
+121	.	_	_	_	_
+
+122	Rather	_	_	_	_
+
+123	than	_	_	_	_
+
+124	recall	_	_	_	_
+
+125	the	_	_	_	_
+
+126	devices	_	_	_	_
+
+127	or	_	_	_	_
+
+128	offer	_	_	_	_
+
+129	a	_	_	_	_
+
+130	hardware	_	_	_	_
+
+131	fix	_	_	_	_
+
+132	,	_	_	_	_
+
+133	Jobs	_	_	_	_
+
+134	said	_	_	_	_
+
+135	yesterday	_	_	_	_
+
+136	that	_	_	_	_
+
+137	Apple	_	_	_	_
+
+138	will	_	_	_	_
+
+139	offer	_	_	_	_
+
+140	a	_	_	_	_
+
+141	free	_	_	_	_
+
+142	case	_	_	_	_
+
+143	to	_	_	_	_
+
+144	anyone	_	_	_	_
+
+145	who	_	_	_	_
+
+146	has	_	_	_	_
+
+147	purchased	_	_	_	_
+
+148	an	_	_	_	_
+
+149	iPhone	_	_	_	_
+
+150	4.	_	_	_	_
+
+151	The	_	_	_	_
+
+152	rubber	_	_	_	_
+
+153	cases	_	_	_	_
+
+154	,	_	_	_	_
+
+155	or	_	_	_	_
+
+156	"	_	_	_	_
+
+157	bumpers	_	_	_	_
+
+158	"	_	_	_	_
+
+159	,	_	_	_	_
+
+160	wrap	_	_	_	_
+
+161	around	_	_	_	_
+
+162	the	_	_	_	_
+
+163	side	_	_	_	_
+
+164	of	_	_	_	_
+
+165	an	_	_	_	_
+
+166	iPhone	_	_	_	_
+
+167	and	_	_	_	_
+
+168	have	_	_	_	_
+
+169	been	_	_	_	_
+
+170	found	_	_	_	_
+
+171	to	_	_	_	_
+
+172	alleviate	_	_	_	_
+
+173	the	_	_	_	_
+
+174	reception	_	_	_	_
+
+175	issues	_	_	_	_
+
+176	.	_	_	_	_
+
+177	Apple	_	_	_	_
+
+178	's	_	_	_	_
+
+179	bumpers	_	_	_	_
+
+180	were	_	_	_	_
+
+181	priced	_	_	_	_
+
+182	at	_	_	_	_
+
+183	US	_	_	_	_
+
+184	$	_	_	_	_
+
+185	29	_	_	_	_
+
+186	before	_	_	_	_
+
+187	the	_	_	_	_
+
+188	press	_	_	_	_
+
+189	conference	_	_	_	_
+
+190	,	_	_	_	_
+
+191	but	_	_	_	_
+
+192	will	_	_	_	_
+
+193	be	_	_	_	_
+
+194	free	_	_	_	_
+
+195	to	_	_	_	_
+
+196	anyone	_	_	_	_
+
+197	with	_	_	_	_
+
+198	an	_	_	_	_
+
+199	iPhone	_	_	_	_
+
+200	4	_	_	_	_
+
+201	until	_	_	_	_
+
+202	September	_	_	_	_
+
+203	30	_	_	_	_
+
+204	.	_	_	_	_
+
+205	Jobs	_	_	_	_
+
+206	also	_	_	_	_
+
+207	said	_	_	_	_
+
+208	that	_	_	_	_
+
+209	those	_	_	_	_
+
+210	who	_	_	_	_
+
+211	had	_	_	_	_
+
+212	already	_	_	_	_
+
+213	purchased	_	_	_	_
+
+214	a	_	_	_	_
+
+215	bumper	_	_	_	_
+
+216	will	_	_	_	_
+
+217	receive	_	_	_	_
+
+218	a	_	_	_	_
+
+219	full	_	_	_	_
+
+220	refund	_	_	_	_
+
+221	for	_	_	_	_
+
+222	the	_	_	_	_
+
+223	accessory	_	_	_	_
+
+224	.	_	_	_	_
+
+225	For	_	_	_	_
+
+226	consumers	_	_	_	_
+
+227	still	_	_	_	_
+
+228	dissatisfied	_	_	_	_
+
+229	with	_	_	_	_
+
+230	iPhone	_	_	_	_
+
+231	4	_	_	_	_
+
+232	,	_	_	_	_
+
+233	Jobs	_	_	_	_
+
+234	said	_	_	_	_
+
+235	that	_	_	_	_
+
+236	the	_	_	_	_
+
+237	phones	_	_	_	_
+
+238	can	_	_	_	_
+
+239	be	_	_	_	_
+
+240	returned	_	_	_	_
+
+241	for	_	_	_	_
+
+242	a	_	_	_	_
+
+243	refund	_	_	_	_
+
+244	as	_	_	_	_
+
+245	well	_	_	_	_
+
+246	.	_	_	_	_
+
+247	Jobs	_	_	_	_
+
+248	acknowledged	_	_	_	_
+
+249	that	_	_	_	_
+
+250	"	_	_	_	_
+
+251	a	_	_	_	_
+
+252	very	_	_	_	_
+
+253	small	_	_	_	_
+
+254	percentage	_	_	_	_
+
+255	of	_	_	_	_
+
+256	users	_	_	_	_
+
+257	"	_	_	_	_
+
+258	were	_	_	_	_
+
+259	experiencing	_	_	_	_
+
+260	antenna	_	_	_	_
+
+261	issues	_	_	_	_
+
+262	,	_	_	_	_
+
+263	but	_	_	_	_
+
+264	dismissed	_	_	_	_
+
+265	the	_	_	_	_
+
+266	existence	_	_	_	_
+
+267	of	_	_	_	_
+
+268	an	_	_	_	_
+
+269	"	_	_	_	_
+
+270	Antennagate	_	_	_	_
+
+271	,	_	_	_	_
+
+272	"	_	_	_	_
+
+273	saying	_	_	_	_
+
+274	that	_	_	_	_
+
+275	similar	_	_	_	_
+
+276	problems	_	_	_	_
+
+277	plague	_	_	_	_
+
+278	all	_	_	_	_
+
+279	cellular	_	_	_	_
+
+280	phones	_	_	_	_
+
+281	and	_	_	_	_
+
+282	that	_	_	_	_
+
+283	the	_	_	_	_
+
+284	iPhone	_	_	_	_
+
+285	issue	_	_	_	_
+
+286	"	_	_	_	_
+
+287	has	_	_	_	_
+
+288	been	_	_	_	_
+
+289	blown	_	_	_	_
+
+290	so	_	_	_	_
+
+291	out	_	_	_	_
+
+292	of	_	_	_	_
+
+293	proportion	_	_	_	_
+
+294	that	_	_	_	_
+
+295	it	_	_	_	_
+
+296	is	_	_	_	_
+
+297	incredible	_	_	_	_
+
+298	.	_	_	_	_
+
+299	"	_	_	_	_
+
+300	He	_	_	_	_
+
+301	showed	_	_	_	_
+
+302	videos	_	_	_	_
+
+303	demonstrating	_	_	_	_
+
+304	a	_	_	_	_
+
+305	drop	_	_	_	_
+
+306	in	_	_	_	_
+
+307	signal	_	_	_	_
+
+308	strength	_	_	_	_
+
+309	when	_	_	_	_
+
+310	held	_	_	_	_
+
+311	in	_	_	_	_
+
+312	a	_	_	_	_
+
+313	certain	_	_	_	_
+
+314	way	_	_	_	_
+
+315	for	_	_	_	_
+
+316	other	_	_	_	_
+
+317	smartphones	_	_	_	_
+
+318	to	_	_	_	_
+
+319	help	_	_	_	_
+
+320	make	_	_	_	_
+
+321	his	_	_	_	_
+
+322	point	_	_	_	_
+
+323	.	_	_	_	_
+
+324	According	_	_	_	_
+
+325	to	_	_	_	_
+
+326	company	_	_	_	_
+
+327	statistics	_	_	_	_
+
+328	,	_	_	_	_
+
+329	about	_	_	_	_
+
+330	one	_	_	_	_
+
+331	out	_	_	_	_
+
+332	of	_	_	_	_
+
+333	every	_	_	_	_
+
+334	200	_	_	_	_
+
+335	iPhone	_	_	_	_
+
+336	4	_	_	_	_
+
+337	customers	_	_	_	_
+
+338	have	_	_	_	_
+
+339	called	_	_	_	_
+
+340	AppleCare	_	_	_	_
+
+341	to	_	_	_	_
+
+342	complain	_	_	_	_
+
+343	about	_	_	_	_
+
+344	the	_	_	_	_
+
+345	antenna	_	_	_	_
+
+346	.	_	_	_	_
+
+347	The	_	_	_	_
+
+348	iPhone	_	_	_	_
+
+349	4	_	_	_	_
+
+350	return	_	_	_	_
+
+351	rate	_	_	_	_
+
+352	is	_	_	_	_
+
+353	about	_	_	_	_
+
+354	one-third	_	_	_	_
+
+355	of	_	_	_	_
+
+356	the	_	_	_	_
+
+357	iPhone	_	_	_	_
+
+358	3GS	_	_	_	_
+
+359	return	_	_	_	_
+
+360	rate	_	_	_	_
+
+361	.	_	_	_	_
+
+362	However	_	_	_	_
+
+363	,	_	_	_	_
+
+364	Jobs	_	_	_	_
+
+365	admitted	_	_	_	_
+
+366	that	_	_	_	_
+
+367	the	_	_	_	_
+
+368	percentage	_	_	_	_
+
+369	of	_	_	_	_
+
+370	calls	_	_	_	_
+
+371	dropped	_	_	_	_
+
+372	on	_	_	_	_
+
+373	the	_	_	_	_
+
+374	iPhone	_	_	_	_
+
+375	4	_	_	_	_
+
+376	was	_	_	_	_
+
+377	slightly	_	_	_	_
+
+378	greater	_	_	_	_
+
+379	than	_	_	_	_
+
+380	the	_	_	_	_
+
+381	percentage	_	_	_	_
+
+382	of	_	_	_	_
+
+383	calls	_	_	_	_
+
+384	dropped	_	_	_	_
+
+385	on	_	_	_	_
+
+386	the	_	_	_	_
+
+387	3GS	_	_	_	_
+
+388	.	_	_	_	_
+
+389	Jobs	_	_	_	_
+
+390	attributed	_	_	_	_
+
+391	the	_	_	_	_
+
+392	small	_	_	_	_
+
+393	increase	_	_	_	_
+
+394	to	_	_	_	_
+
+395	fewer	_	_	_	_
+
+396	iPhone	_	_	_	_
+
+397	4	_	_	_	_
+
+398	users	_	_	_	_
+
+399	putting	_	_	_	_
+
+400	cases	_	_	_	_
+
+401	on	_	_	_	_
+
+402	their	_	_	_	_
+
+403	devices	_	_	_	_
+
+404	.	_	_	_	_
+
+405	In	_	_	_	_
+
+406	response	_	_	_	_
+
+407	to	_	_	_	_
+
+408	critics	_	_	_	_
+
+409	saying	_	_	_	_
+
+410	that	_	_	_	_
+
+411	Apple	_	_	_	_
+
+412	had	_	_	_	_
+
+413	not	_	_	_	_
+
+414	addressed	_	_	_	_
+
+415	the	_	_	_	_
+
+416	reception	_	_	_	_
+
+417	problem	_	_	_	_
+
+418	quickly	_	_	_	_
+
+419	enough	_	_	_	_
+
+420	,	_	_	_	_
+
+421	Jobs	_	_	_	_
+
+422	said	_	_	_	_
+
+423	that	_	_	_	_
+
+424	iPhone	_	_	_	_
+
+425	4	_	_	_	_
+
+426	had	_	_	_	_
+
+427	only	_	_	_	_
+
+428	been	_	_	_	_
+
+429	out	_	_	_	_
+
+430	for	_	_	_	_
+
+431	22	_	_	_	_
+
+432	days	_	_	_	_
+
+433	and	_	_	_	_
+
+434	that	_	_	_	_
+
+435	the	_	_	_	_
+
+436	company	_	_	_	_
+
+437	could	_	_	_	_
+
+438	not	_	_	_	_
+
+439	have	_	_	_	_
+
+440	resolved	_	_	_	_
+
+441	the	_	_	_	_
+
+442	issue	_	_	_	_
+
+443	any	_	_	_	_
+
+444	faster	_	_	_	_
+
+445	.	_	_	_	_
+
+446	The	_	_	_	_
+
+447	press	_	_	_	_
+
+448	event	_	_	_	_
+
+449	came	_	_	_	_
+
+450	just	_	_	_	_
+
+451	days	_	_	_	_
+
+452	after	_	_	_	_
+
+453	Consumer	_	_	_	_
+
+454	Reports	_	_	_	_
+
+455	declined	_	_	_	_
+
+456	to	_	_	_	_
+
+457	give	_	_	_	_
+
+458	Apple	_	_	_	_
+
+459	's	_	_	_	_
+
+460	newest	_	_	_	_
+
+461	phone	_	_	_	_
+
+462	a	_	_	_	_
+
+463	"	_	_	_	_
+
+464	recommended	_	_	_	_
+
+465	"	_	_	_	_
+
+466	rating	_	_	_	_
+
+467	due	_	_	_	_
+
+468	to	_	_	_	_
+
+469	the	_	_	_	_
+
+470	antenna	_	_	_	_
+
+471	's	_	_	_	_
+
+472	placement	_	_	_	_
+
+473	.	_	_	_	_
+
+474	The	_	_	_	_
+
+475	group	_	_	_	_
+
+476	said	_	_	_	_
+
+477	that	_	_	_	_
+
+478	Apple	_	_	_	_
+
+479	's	_	_	_	_
+
+480	move	_	_	_	_
+
+481	to	_	_	_	_
+
+482	give	_	_	_	_
+
+483	away	_	_	_	_
+
+484	free	_	_	_	_
+
+485	cases	_	_	_	_
+
+486	is	_	_	_	_
+
+487	a	_	_	_	_
+
+488	good	_	_	_	_
+
+489	first	_	_	_	_
+
+490	step	_	_	_	_
+
+491	,	_	_	_	_
+
+492	but	_	_	_	_
+
+493	not	_	_	_	_
+
+494	permanent	_	_	_	_
+
+495	enough	_	_	_	_
+
+496	to	_	_	_	_
+
+497	earn	_	_	_	_
+
+498	a	_	_	_	_
+
+499	higher	_	_	_	_
+
+500	rating	_	_	_	_
+
+501	.	_	_	_	_
+
+502	Earlier	_	_	_	_
+
+503	,	_	_	_	_
+
+504	on	_	_	_	_
+
+505	June	_	_	_	_
+
+506	24	_	_	_	_
+
+507	,	_	_	_	_
+
+508	Apple	_	_	_	_
+
+509	told	_	_	_	_
+
+510	customers	_	_	_	_
+
+511	to	_	_	_	_
+
+512	either	_	_	_	_
+
+513	hold	_	_	_	_
+
+514	the	_	_	_	_
+
+515	phone	_	_	_	_
+
+516	without	_	_	_	_
+
+517	covering	_	_	_	_
+
+518	the	_	_	_	_
+
+519	antenna	_	_	_	_
+
+520	,	_	_	_	_
+
+521	or	_	_	_	_
+
+522	to	_	_	_	_
+
+523	use	_	_	_	_
+
+524	a	_	_	_	_
+
+525	case	_	_	_	_
+
+526	.	_	_	_	_
+
+527	The	_	_	_	_
+
+528	so-called	_	_	_	_
+
+529	"	_	_	_	_
+
+530	death	_	_	_	_
+
+531	grip	_	_	_	_
+
+532	"	_	_	_	_
+
+533	,	_	_	_	_
+
+534	however	_	_	_	_
+
+535	,	_	_	_	_
+
+536	has	_	_	_	_
+
+537	not	_	_	_	_
+
+538	been	_	_	_	_
+
+539	as	_	_	_	_
+
+540	big	_	_	_	_
+
+541	an	_	_	_	_
+
+542	issue	_	_	_	_
+
+543	for	_	_	_	_
+
+544	other	_	_	_	_
+
+545	phones	_	_	_	_
+
+546	as	_	_	_	_
+
+547	it	_	_	_	_
+
+548	has	_	_	_	_
+
+549	for	_	_	_	_
+
+550	iPhone	_	_	_	_
+
+551	4	_	_	_	_
+
+552	,	_	_	_	_
+
+553	said	_	_	_	_
+
+554	Mike	_	_	_	_
+
+555	Gikas	_	_	_	_
+
+556	of	_	_	_	_
+
+557	Consumer	_	_	_	_
+
+558	Reports	_	_	_	_
+
+559	.	_	_	_	_
+
+560	On	_	_	_	_
+
+561	July	_	_	_	_
+
+562	2	_	_	_	_
+
+563	,	_	_	_	_
+
+564	Apple	_	_	_	_
+
+565	associated	_	_	_	_
+
+566	the	_	_	_	_
+
+567	issue	_	_	_	_
+
+568	with	_	_	_	_
+
+569	a	_	_	_	_
+
+570	long-undiscovered	_	_	_	_
+
+571	software	_	_	_	_
+
+572	bug	_	_	_	_
+
+573	relating	_	_	_	_
+
+574	to	_	_	_	_
+
+575	the	_	_	_	_
+
+576	formula	_	_	_	_
+
+577	for	_	_	_	_
+
+578	calculating	_	_	_	_
+
+579	signal	_	_	_	_
+
+580	strength	_	_	_	_
+
+581	.	_	_	_	_
+
+582	An	_	_	_	_
+
+583	iOS	_	_	_	_
+
+584	update	_	_	_	_
+
+585	released	_	_	_	_
+
+586	Thursday	_	_	_	_
+
+587	came	_	_	_	_
+
+588	with	_	_	_	_
+
+589	an	_	_	_	_
+
+590	updated	_	_	_	_
+
+591	,	_	_	_	_
+
+592	more	_	_	_	_
+
+593	accurate	_	_	_	_
+
+594	method	_	_	_	_
+
+595	of	_	_	_	_
+
+596	calculating	_	_	_	_
+
+597	the	_	_	_	_
+
+598	number	_	_	_	_
+
+599	of	_	_	_	_
+
+600	cellular	_	_	_	_
+
+601	signal	_	_	_	_
+
+602	bars	_	_	_	_
+
+603	to	_	_	_	_
+
+604	display	_	_	_	_
+
+605	,	_	_	_	_
+
+606	but	_	_	_	_
+
+607	did	_	_	_	_
+
+608	not	_	_	_	_
+
+609	actually	_	_	_	_
+
+610	prevent	_	_	_	_
+
+611	the	_	_	_	_
+
+612	signal	_	_	_	_
+
+613	loss	_	_	_	_
+
+614	that	_	_	_	_
+
+615	comes	_	_	_	_
+
+616	with	_	_	_	_
+
+617	covering	_	_	_	_
+
+618	the	_	_	_	_
+
+619	antenna	_	_	_	_
+
+620	.	_	_	_	_

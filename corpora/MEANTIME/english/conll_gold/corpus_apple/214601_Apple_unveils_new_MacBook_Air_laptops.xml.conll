@@ -1,0 +1,1145 @@
+1	Apple	_	_	_	_
+2	unveils	B-E-14	B-CERTAIN-14	B-POS-14	B-NON_FUTURE-14
+3	new	_	_	_	_
+4	MacBook	_	_	_	_
+5	Air	_	_	_	_
+6	laptops	_	_	_	_
+7	,	_	_	_	_
+8	iLife	_	_	_	_
+9	'11	_	_	_	_
+10	software	_	_	_	_
+11	suite	_	_	_	_
+
+12	October	_	_	_	_
+
+13	23	_	_	_	_
+
+14	,	_	_	_	_
+
+15	2010	_	_	_	_
+
+16	In	_	_	_	_
+
+17	a	_	_	_	_
+
+18	Wednesday	_	_	_	_
+
+19	media	B-E-15	B-CERTAIN-15	B-POS-15	B-NON_FUTURE-15
+
+20	event	I-E-15	I-CERTAIN-15	I-POS-15	I-NON_FUTURE-15
+
+21	,	_	_	_	_
+
+22	Apple	_	_	_	_
+
+23	Inc.	_	_	_	_
+
+24	released	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
+
+25	a	_	_	_	_
+
+26	new	_	_	_	_
+
+27	lineup	_	_	_	_
+
+28	of	_	_	_	_
+
+29	MacBook	_	_	_	_
+
+30	Air	_	_	_	_
+
+31	laptops	_	_	_	_
+
+32	and	_	_	_	_
+
+33	the	_	_	_	_
+
+34	2011	_	_	_	_
+
+35	version	_	_	_	_
+
+36	of	_	_	_	_
+
+37	the	_	_	_	_
+
+38	company	_	_	_	_
+
+39	's	_	_	_	_
+
+40	iLife	_	_	_	_
+
+41	software	_	_	_	_
+
+42	suite	_	_	_	_
+
+43	.	_	_	_	_
+
+44	The	_	_	_	_
+
+45	``	_	_	_	_
+
+46	Back	_	_	_	_
+
+47	to	_	_	_	_
+
+48	the	_	_	_	_
+
+49	Mac	_	_	_	_
+
+50	''	_	_	_	_
+
+51	event	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+
+52	also	_	_	_	_
+
+53	included	B-E-5	B-CERTAIN-5	B-POS-5	B-NON_FUTURE-5
+
+54	a	_	_	_	_
+
+55	preview	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+
+56	of	_	_	_	_
+
+57	Apple	_	_	_	_
+
+58	's	_	_	_	_
+
+59	forthcoming	_	_	_	_
+
+60	Mac	_	_	_	_
+
+61	OS	_	_	_	_
+
+62	X	_	_	_	_
+
+63	Lion	_	_	_	_
+
+64	operating	_	_	_	_
+
+65	system	_	_	_	_
+
+66	,	_	_	_	_
+
+67	to	_	_	_	_
+
+68	be	_	_	_	_
+
+69	released	B-E-6	B-CERTAIN-6	B-POS-6	B-FUTURE-6
+
+70	in	_	_	_	_
+
+71	mid-2011	_	_	_	_
+
+72	.	_	_	_	_
+
+73	Apple	_	_	_	_
+
+74	CEO	_	_	_	_
+
+75	Steve	_	_	_	_
+
+76	Jobs	_	_	_	_
+
+77	unveiled	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+
+78	the	_	_	_	_
+
+79	new	_	_	_	_
+
+80	products	_	_	_	_
+
+81	at	_	_	_	_
+
+82	the	_	_	_	_
+
+83	Cupertino	_	_	_	_
+
+84	,	_	_	_	_
+
+85	California	_	_	_	_
+
+86	event	B-E-8	B-CERTAIN-8	B-POS-8	B-NON_FUTURE-8
+
+87	,	_	_	_	_
+
+88	saying	B-E-13	B-CERTAIN-13	B-POS-13	B-NON_FUTURE-13
+
+89	the	_	_	_	_
+
+90	company	_	_	_	_
+
+91	has	_	_	_	_
+
+92	``	_	_	_	_
+
+93	been	_	_	_	_
+
+94	inspired	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+
+95	by	_	_	_	_
+
+96	the	_	_	_	_
+
+97	work	B-E-10	B-CERTAIN-10	B-POS-10	B-NON_FUTURE-10
+
+98	[	_	_	_	_
+
+99	it	_	_	_	_
+
+100	has	_	_	_	_
+
+101	]	_	_	_	_
+
+102	done	B-E-16	B-CERTAIN-16	B-POS-16	B-NON_FUTURE-16
+
+103	on	_	_	_	_
+
+104	the	_	_	_	_
+
+105	iPad	_	_	_	_
+
+106	,	_	_	_	_
+
+107	and	_	_	_	_
+
+108	[	_	_	_	_
+
+109	it	_	_	_	_
+
+110	wants	B-E-17	B-CERTAIN-17	B-POS-17	B-NON_FUTURE-17
+
+111	]	_	_	_	_
+
+112	to	_	_	_	_
+
+113	bring	B-E-11	B-UNDERSPECIFIED-11	B-POS-11	B-FUTURE-11
+
+114	it	B-E-18	B-UNDERSPECIFIED-18	B-POS-18	B-FUTURE-18
+
+115	back	I-E-11	I-UNDERSPECIFIED-11	I-POS-11	I-FUTURE-11
+
+116	to	_	_	_	_
+
+117	the	_	_	_	_
+
+118	Mac	_	_	_	_
+
+119	.	_	_	_	_
+
+120	''	_	_	_	_
+
+121	Apple	_	_	_	_
+
+122	has	B-E-19	B-CERTAIN-19	B-POS-19	B-NON_FUTURE-19
+
+123	plans	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+
+124	to	_	_	_	_
+
+125	import	B-E-12	B-PROBABLE-12	B-POS-12	B-FUTURE-12
+
+126	more	_	_	_	_
+
+127	features	_	_	_	_
+
+128	of	_	_	_	_
+
+129	its	_	_	_	_
+
+130	iOS	_	_	_	_
+
+131	mobile	_	_	_	_
+
+132	operating	_	_	_	_
+
+133	system	_	_	_	_
+
+134	to	_	_	_	_
+
+135	the	_	_	_	_
+
+136	Mac	_	_	_	_
+
+137	OS	_	_	_	_
+
+138	X	_	_	_	_
+
+139	operating	_	_	_	_
+
+140	system	_	_	_	_
+
+141	.	_	_	_	_
+
+142	Jobs	_	_	_	_
+
+143	announced	_	_	_	_
+
+144	today	_	_	_	_
+
+145	that	_	_	_	_
+
+146	the	_	_	_	_
+
+147	``	_	_	_	_
+
+148	Lion	_	_	_	_
+
+149	''	_	_	_	_
+
+150	release	_	_	_	_
+
+151	to	_	_	_	_
+
+152	OS	_	_	_	_
+
+153	X	_	_	_	_
+
+154	,	_	_	_	_
+
+155	which	_	_	_	_
+
+156	is	_	_	_	_
+
+157	scheduled	_	_	_	_
+
+158	for	_	_	_	_
+
+159	release	_	_	_	_
+
+160	next	_	_	_	_
+
+161	summer	_	_	_	_
+
+162	,	_	_	_	_
+
+163	will	_	_	_	_
+
+164	include	_	_	_	_
+
+165	more	_	_	_	_
+
+166	support	_	_	_	_
+
+167	for	_	_	_	_
+
+168	multitouch	_	_	_	_
+
+169	and	_	_	_	_
+
+170	a	_	_	_	_
+
+171	desktop	_	_	_	_
+
+172	version	_	_	_	_
+
+173	of	_	_	_	_
+
+174	the	_	_	_	_
+
+175	company	_	_	_	_
+
+176	's	_	_	_	_
+
+177	App	_	_	_	_
+
+178	Store	_	_	_	_
+
+179	.	_	_	_	_
+
+180	He	_	_	_	_
+
+181	said	_	_	_	_
+
+182	that	_	_	_	_
+
+183	the	_	_	_	_
+
+184	App	_	_	_	_
+
+185	Store	_	_	_	_
+
+186	will	_	_	_	_
+
+187	be	_	_	_	_
+
+188	available	_	_	_	_
+
+189	for	_	_	_	_
+
+190	Apple	_	_	_	_
+
+191	's	_	_	_	_
+
+192	current	_	_	_	_
+
+193	OS	_	_	_	_
+
+194	``	_	_	_	_
+
+195	Snow	_	_	_	_
+
+196	Leopard	_	_	_	_
+
+197	''	_	_	_	_
+
+198	within	_	_	_	_
+
+199	90	_	_	_	_
+
+200	days	_	_	_	_
+
+201	,	_	_	_	_
+
+202	and	_	_	_	_
+
+203	that	_	_	_	_
+
+204	applications	_	_	_	_
+
+205	can	_	_	_	_
+
+206	be	_	_	_	_
+
+207	submitted	_	_	_	_
+
+208	starting	_	_	_	_
+
+209	next	_	_	_	_
+
+210	month	_	_	_	_
+
+211	.	_	_	_	_
+
+212	Jobs	_	_	_	_
+
+213	also	_	_	_	_
+
+214	announced	_	_	_	_
+
+215	that	_	_	_	_
+
+216	a	_	_	_	_
+
+217	beta	_	_	_	_
+
+218	version	_	_	_	_
+
+219	of	_	_	_	_
+
+220	FaceTime	_	_	_	_
+
+221	,	_	_	_	_
+
+222	Apple	_	_	_	_
+
+223	's	_	_	_	_
+
+224	IOS	_	_	_	_
+
+225	video	_	_	_	_
+
+226	calling	_	_	_	_
+
+227	application	_	_	_	_
+
+228	,	_	_	_	_
+
+229	would	_	_	_	_
+
+230	be	_	_	_	_
+
+231	available	_	_	_	_
+
+232	for	_	_	_	_
+
+233	OS	_	_	_	_
+
+234	X	_	_	_	_
+
+235	users	_	_	_	_
+
+236	immediately	_	_	_	_
+
+237	.	_	_	_	_
+
+238	Several	_	_	_	_
+
+239	new	_	_	_	_
+
+240	applications	_	_	_	_
+
+241	will	_	_	_	_
+
+242	be	_	_	_	_
+
+243	added	_	_	_	_
+
+244	in	_	_	_	_
+
+245	OS	_	_	_	_
+
+246	X	_	_	_	_
+
+247	Lion	_	_	_	_
+
+248	,	_	_	_	_
+
+249	dubbed	_	_	_	_
+
+250	``	_	_	_	_
+
+251	Mission	_	_	_	_
+
+252	Control	_	_	_	_
+
+253	''	_	_	_	_
+
+254	and	_	_	_	_
+
+255	``	_	_	_	_
+
+256	Launchpad	_	_	_	_
+
+257	.	_	_	_	_
+
+258	''	_	_	_	_
+
+259	In	_	_	_	_
+
+260	his	_	_	_	_
+
+261	keynote	_	_	_	_
+
+262	address	_	_	_	_
+
+263	Wednesday	_	_	_	_
+
+264	,	_	_	_	_
+
+265	Jobs	_	_	_	_
+
+266	announced	_	_	_	_
+
+267	the	_	_	_	_
+
+268	release	_	_	_	_
+
+269	of	_	_	_	_
+
+270	Apple	_	_	_	_
+
+271	's	_	_	_	_
+
+272	iLife	_	_	_	_
+
+273	'11	_	_	_	_
+
+274	software	_	_	_	_
+
+275	suite	_	_	_	_
+
+276	,	_	_	_	_
+
+277	which	_	_	_	_
+
+278	includes	_	_	_	_
+
+279	the	_	_	_	_
+
+280	iPhoto	_	_	_	_
+
+281	,	_	_	_	_
+
+282	iMovie	_	_	_	_
+
+283	,	_	_	_	_
+
+284	and	_	_	_	_
+
+285	GarageBand	_	_	_	_
+
+286	programs	_	_	_	_
+
+287	.	_	_	_	_
+
+288	iPhoto	_	_	_	_
+
+289	has	_	_	_	_
+
+290	new	_	_	_	_
+
+291	slide	_	_	_	_
+
+292	show	_	_	_	_
+
+293	templates	_	_	_	_
+
+294	,	_	_	_	_
+
+295	while	_	_	_	_
+
+296	iMovie	_	_	_	_
+
+297	has	_	_	_	_
+
+298	added	_	_	_	_
+
+299	audio	_	_	_	_
+
+300	editing	_	_	_	_
+
+301	capabilities	_	_	_	_
+
+302	.	_	_	_	_
+
+303	GarageBand	_	_	_	_
+
+304	now	_	_	_	_
+
+305	includes	_	_	_	_
+
+306	several	_	_	_	_
+
+307	new	_	_	_	_
+
+308	piano	_	_	_	_
+
+309	-	_	_	_	_
+
+310	and	_	_	_	_
+
+311	guitar-playing	_	_	_	_
+
+312	lessons	_	_	_	_
+
+313	.	_	_	_	_
+
+314	iLife	_	_	_	_
+
+315	'11	_	_	_	_
+
+316	was	_	_	_	_
+
+317	released	_	_	_	_
+
+318	on	_	_	_	_
+
+319	Wednesday	_	_	_	_
+
+320	as	_	_	_	_
+
+321	a	_	_	_	_
+
+322	US$	_	_	_	_
+
+323	49	_	_	_	_
+
+324	upgrade	_	_	_	_
+
+325	,	_	_	_	_
+
+326	and	_	_	_	_
+
+327	is	_	_	_	_
+
+328	also	_	_	_	_
+
+329	available	_	_	_	_
+
+330	free	_	_	_	_
+
+331	with	_	_	_	_
+
+332	new	_	_	_	_
+
+333	Mac	_	_	_	_
+
+334	purchases	_	_	_	_
+
+335	.	_	_	_	_
+
+336	In	_	_	_	_
+
+337	another	_	_	_	_
+
+338	move	_	_	_	_
+
+339	to	_	_	_	_
+
+340	bring	_	_	_	_
+
+341	iOS	_	_	_	_
+
+342	functionality	_	_	_	_
+
+343	to	_	_	_	_
+
+344	Macintosh	_	_	_	_
+
+345	computers	_	_	_	_
+
+346	,	_	_	_	_
+
+347	Jobs	_	_	_	_
+
+348	announced	_	_	_	_
+
+349	an	_	_	_	_
+
+350	updated	_	_	_	_
+
+351	MacBook	_	_	_	_
+
+352	Air	_	_	_	_
+
+353	series	_	_	_	_
+
+354	of	_	_	_	_
+
+355	laptops	_	_	_	_
+
+356	,	_	_	_	_
+
+357	on	_	_	_	_
+
+358	sale	_	_	_	_
+
+359	now	_	_	_	_
+
+360	.	_	_	_	_
+
+361	The	_	_	_	_
+
+362	new	_	_	_	_
+
+363	MacBook	_	_	_	_
+
+364	Air	_	_	_	_
+
+365	uses	_	_	_	_
+
+366	flash	_	_	_	_
+
+367	memory	_	_	_	_
+
+368	rather	_	_	_	_
+
+369	than	_	_	_	_
+
+370	a	_	_	_	_
+
+371	traditional	_	_	_	_
+
+372	hard	_	_	_	_
+
+373	drive	_	_	_	_
+
+374	,	_	_	_	_
+
+375	and	_	_	_	_
+
+376	has	_	_	_	_
+
+377	no	_	_	_	_
+
+378	CD/DVD	_	_	_	_
+
+379	drive	_	_	_	_
+
+380	,	_	_	_	_
+
+381	an	_	_	_	_
+
+382	approach	_	_	_	_
+
+383	seen	_	_	_	_
+
+384	on	_	_	_	_
+
+385	the	_	_	_	_
+
+386	iPad	_	_	_	_
+
+387	tablet	_	_	_	_
+
+388	computer	_	_	_	_
+
+389	.	_	_	_	_
+
+390	In	_	_	_	_
+
+391	addition	_	_	_	_
+
+392	,	_	_	_	_
+
+393	the	_	_	_	_
+
+394	laptop	_	_	_	_
+
+395	's	_	_	_	_
+
+396	battery	_	_	_	_
+
+397	life	_	_	_	_
+
+398	has	_	_	_	_
+
+399	been	_	_	_	_
+
+400	extended	_	_	_	_
+
+401	,	_	_	_	_
+
+402	even	_	_	_	_
+
+403	though	_	_	_	_
+
+404	it	_	_	_	_
+
+405	is	_	_	_	_
+
+406	only	_	_	_	_
+
+407	0.68	_	_	_	_
+
+408	in	_	_	_	_
+
+409	(	_	_	_	_
+
+410	1.73	_	_	_	_
+
+411	cm	_	_	_	_
+
+412	)	_	_	_	_
+
+413	thick	_	_	_	_
+
+414	and	_	_	_	_
+
+415	weighs	_	_	_	_
+
+416	less	_	_	_	_
+
+417	than	_	_	_	_
+
+418	3	_	_	_	_
+
+419	lbs	_	_	_	_
+
+420	(	_	_	_	_
+
+421	1.36	_	_	_	_
+
+422	kg	_	_	_	_
+
+423	)	_	_	_	_
+
+424	.	_	_	_	_
+
+425	``	_	_	_	_
+
+426	We	_	_	_	_
+
+427	think	_	_	_	_
+
+428	it	_	_	_	_
+
+429	's	_	_	_	_
+
+430	the	_	_	_	_
+
+431	future	_	_	_	_
+
+432	of	_	_	_	_
+
+433	notebooks	_	_	_	_
+
+434	,	_	_	_	_
+
+435	''	_	_	_	_
+
+436	said	_	_	_	_
+
+437	Jobs	_	_	_	_
+
+438	.	_	_	_	_
+
+439	There	_	_	_	_
+
+440	are	_	_	_	_
+
+441	now	_	_	_	_
+
+442	two	_	_	_	_
+
+443	models	_	_	_	_
+
+444	of	_	_	_	_
+
+445	the	_	_	_	_
+
+446	MacBook	_	_	_	_
+
+447	Air	_	_	_	_
+
+448	:	_	_	_	_
+
+449	an	_	_	_	_
+
+450	11.6-inch	_	_	_	_
+
+451	(	_	_	_	_
+
+452	29.46-cm	_	_	_	_
+
+453	)	_	_	_	_
+
+454	version	_	_	_	_
+
+455	and	_	_	_	_
+
+456	a	_	_	_	_
+
+457	13.3-inch	_	_	_	_
+
+458	(	_	_	_	_
+
+459	33.78-cm	_	_	_	_
+
+460	)	_	_	_	_
+
+461	model	_	_	_	_
+
+462	.	_	_	_	_
+
+463	Analyst	_	_	_	_
+
+464	Shawn	_	_	_	_
+
+465	Wu	_	_	_	_
+
+466	says	_	_	_	_
+
+467	the	_	_	_	_
+
+468	company	_	_	_	_
+
+469	``	_	_	_	_
+
+470	priced	_	_	_	_
+
+471	it	_	_	_	_
+
+472	really	_	_	_	_
+
+473	aggressively	_	_	_	_
+
+474	,	_	_	_	_
+
+475	''	_	_	_	_
+
+476	referring	_	_	_	_
+
+477	to	_	_	_	_
+
+478	the	_	_	_	_
+
+479	computer	_	_	_	_
+
+480	's	_	_	_	_
+
+481	base	_	_	_	_
+
+482	price	_	_	_	_
+
+483	of	_	_	_	_
+
+484	US$	_	_	_	_
+
+485	999	_	_	_	_
+
+486	.	_	_	_	_
+
+487	Jobs	_	_	_	_
+
+488	said	_	_	_	_
+
+489	that	_	_	_	_
+
+490	his	_	_	_	_
+
+491	company	_	_	_	_
+
+492	sold	_	_	_	_
+
+493	13.7	_	_	_	_
+
+494	million	_	_	_	_
+
+495	Macs	_	_	_	_
+
+496	last	_	_	_	_
+
+497	year	_	_	_	_
+
+498	,	_	_	_	_
+
+499	totaling	_	_	_	_
+
+500	US$	_	_	_	_
+
+501	22	_	_	_	_
+
+502	billion	_	_	_	_
+
+503	.	_	_	_	_
+
+504	In	_	_	_	_
+
+505	the	_	_	_	_
+
+506	last	_	_	_	_
+
+507	financial	_	_	_	_
+
+508	quarter	_	_	_	_
+
+509	,	_	_	_	_
+
+510	Mac	_	_	_	_
+
+511	sales	_	_	_	_
+
+512	increased	_	_	_	_
+
+513	22	_	_	_	_
+
+514	percent	_	_	_	_
+
+515	,	_	_	_	_
+
+516	comprising	_	_	_	_
+
+517	24	_	_	_	_
+
+518	percent	_	_	_	_
+
+519	of	_	_	_	_
+
+520	total	_	_	_	_
+
+521	revenue	_	_	_	_
+
+522	for	_	_	_	_
+
+523	Apple	_	_	_	_
+
+524	.	_	_	_	_
+
+525	However	_	_	_	_
+
+526	,	_	_	_	_
+
+527	the	_	_	_	_
+
+528	original	_	_	_	_
+
+529	MacBook	_	_	_	_
+
+530	Air	_	_	_	_
+
+531	did	_	_	_	_
+
+532	not	_	_	_	_
+
+533	fare	_	_	_	_
+
+534	so	_	_	_	_
+
+535	well	_	_	_	_
+
+536	.	_	_	_	_
+
+537	Sales	_	_	_	_
+
+538	and	_	_	_	_
+
+539	hype	_	_	_	_
+
+540	over	_	_	_	_
+
+541	the	_	_	_	_
+
+542	first	_	_	_	_
+
+543	Air	_	_	_	_
+
+544	decreased	_	_	_	_
+
+545	soon	_	_	_	_
+
+546	after	_	_	_	_
+
+547	its	_	_	_	_
+
+548	introduction	_	_	_	_
+
+549	,	_	_	_	_
+
+550	and	_	_	_	_
+
+551	the	_	_	_	_
+
+552	line	_	_	_	_
+
+553	was	_	_	_	_
+
+554	overshadowed	_	_	_	_
+
+555	by	_	_	_	_
+
+556	the	_	_	_	_
+
+557	release	_	_	_	_
+
+558	of	_	_	_	_
+
+559	Apple	_	_	_	_
+
+560	's	_	_	_	_
+
+561	13-inch	_	_	_	_
+
+562	(	_	_	_	_
+
+563	33.02-cm	_	_	_	_
+
+564	)	_	_	_	_
+
+565	MacBook	_	_	_	_
+
+566	Pro	_	_	_	_
+
+567	.	_	_	_	_
+
+568	The	_	_	_	_
+
+569	MacBook	_	_	_	_
+
+570	Air	_	_	_	_
+
+571	had	_	_	_	_
+
+572	not	_	_	_	_
+
+573	been	_	_	_	_
+
+574	significantly	_	_	_	_
+
+575	updated	_	_	_	_
+
+576	since	_	_	_	_
+
+577	2008	_	_	_	_
+
+578	.	_	_	_	_

@@ -1,0 +1,415 @@
+1	Apple	_	_	_	_
+2	Inc.,	_	_	_	_
+3	Apple	_	_	_	_
+4	Corps	_	_	_	_
+5	resolve	B-E-5	B-CERTAIN-5	B-POS-5	B-NON_FUTURE-5
+6	trademark	_	_	_	_
+7	dispute	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+
+8	February	_	_	_	_
+
+9	6	_	_	_	_
+
+10	,	_	_	_	_
+
+11	2007	_	_	_	_
+
+12	Apple	_	_	_	_
+
+13	Inc.	_	_	_	_
+
+14	announced	B-E-8	B-CERTAIN-8	B-POS-8	B-NON_FUTURE-8
+
+15	Monday	_	_	_	_
+
+16	it	_	_	_	_
+
+17	has	_	_	_	_
+
+18	settled	B-E-10	B-CERTAIN-10	B-POS-10	B-NON_FUTURE-10
+
+19	its	_	_	_	_
+
+20	decades-long	_	_	_	_
+
+21	trademark	_	_	_	_
+
+22	dispute	B-E-11	B-CERTAIN-11	B-POS-11	B-NON_FUTURE-11
+
+23	with	_	_	_	_
+
+24	the	_	_	_	_
+
+25	Beatles	_	_	_	_
+
+26	'	_	_	_	_
+
+27	record	_	_	_	_
+
+28	company	_	_	_	_
+
+29	,	_	_	_	_
+
+30	Apple	_	_	_	_
+
+31	Corps	_	_	_	_
+
+32	.	_	_	_	_
+
+33	Under	_	_	_	_
+
+34	this	_	_	_	_
+
+35	new	_	_	_	_
+
+36	agreement	B-E-17	B-CERTAIN-17	B-POS-17	B-NON_FUTURE-17
+
+37	,	_	_	_	_
+
+38	Apple	_	_	_	_
+
+39	Inc.	_	_	_	_
+
+40	will	_	_	_	_
+
+41	own	B-E-7	B-CERTAIN-7	B-POS-7	B-FUTURE-7
+
+42	all	_	_	_	_
+
+43	Apple	_	_	_	_
+
+44	trademarks	_	_	_	_
+
+45	and	_	_	_	_
+
+46	will	_	_	_	_
+
+47	license	B-E-19	B-CERTAIN-19	B-POS-19	B-FUTURE-19
+
+48	some	_	_	_	_
+
+49	to	_	_	_	_
+
+50	Apple	_	_	_	_
+
+51	Corps	_	_	_	_
+
+52	,	_	_	_	_
+
+53	and	_	_	_	_
+
+54	will	_	_	_	_
+
+55	continue	B-E-20	B-CERTAIN-20	B-POS-20	B-FUTURE-20
+
+56	to	_	_	_	_
+
+57	use	B-E-21	B-CERTAIN-21	B-POS-21	B-FUTURE-21
+
+58	its	_	_	_	_
+
+59	name	_	_	_	_
+
+60	and	_	_	_	_
+
+61	logo	_	_	_	_
+
+62	on	_	_	_	_
+
+63	its	_	_	_	_
+
+64	iTunes	_	_	_	_
+
+65	music	_	_	_	_
+
+66	service	_	_	_	_
+
+67	.	_	_	_	_
+
+68	This	_	_	_	_
+
+69	new	_	_	_	_
+
+70	settlement	B-E-22	B-CERTAIN-22	B-POS-22	B-NON_FUTURE-22
+
+71	replaces	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+
+72	the	_	_	_	_
+
+73	1991	_	_	_	_
+
+74	agreement	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
+
+75	between	_	_	_	_
+
+76	the	_	_	_	_
+
+77	two	_	_	_	_
+
+78	companies	_	_	_	_
+
+79	,	_	_	_	_
+
+80	which	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+
+81	defined	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+
+82	the	_	_	_	_
+
+83	context	_	_	_	_
+
+84	in	_	_	_	_
+
+85	which	_	_	_	_
+
+86	the	_	_	_	_
+
+87	two	_	_	_	_
+
+88	companies	_	_	_	_
+
+89	could	_	_	_	_
+
+90	use	B-E-4	B-POSSIBLE-4	B-POS-4	B-NON_FUTURE-4
+
+91	the	_	_	_	_
+
+92	Apple	_	_	_	_
+
+93	trademark	_	_	_	_
+
+94	.	_	_	_	_
+
+95	"	_	_	_	_
+
+96	We	_	_	_	_
+
+97	love	B-E-12	B-CERTAIN-12	B-POS-12	B-NON_FUTURE-12
+
+98	the	_	_	_	_
+
+99	Beatles	_	_	_	_
+
+100	,	_	_	_	_
+
+101	and	_	_	_	_
+
+102	it	_	_	_	_
+
+103	has	_	_	_	_
+
+104	been	B-E-13	B-CERTAIN-13	B-POS-13	B-NON_FUTURE-13
+
+105	painful	_	_	_	_
+
+106	being	B-E-14	B-CERTAIN-14	B-POS-14	B-NON_FUTURE-14
+
+107	at	_	_	_	_
+
+108	odds	_	_	_	_
+
+109	with	_	_	_	_
+
+110	them	_	_	_	_
+
+111	over	_	_	_	_
+
+112	these	_	_	_	_
+
+113	trademarks	_	_	_	_
+
+114	,	_	_	_	_
+
+115	"	_	_	_	_
+
+116	said	B-E-15	B-CERTAIN-15	B-POS-15	B-NON_FUTURE-15
+
+117	Apple	_	_	_	_
+
+118	Inc.	_	_	_	_
+
+119	CEO	_	_	_	_
+
+120	Steve	_	_	_	_
+
+121	Jobs	_	_	_	_
+
+122	.	_	_	_	_
+
+123	"	_	_	_	_
+
+124	It	_	_	_	_
+
+125	feels	_	_	_	_
+
+126	great	_	_	_	_
+
+127	to	_	_	_	_
+
+128	resolve	_	_	_	_
+
+129	this	_	_	_	_
+
+130	in	_	_	_	_
+
+131	a	_	_	_	_
+
+132	positive	_	_	_	_
+
+133	manner	_	_	_	_
+
+134	,	_	_	_	_
+
+135	and	_	_	_	_
+
+136	in	_	_	_	_
+
+137	a	_	_	_	_
+
+138	way	_	_	_	_
+
+139	that	_	_	_	_
+
+140	should	_	_	_	_
+
+141	remove	_	_	_	_
+
+142	the	_	_	_	_
+
+143	potential	_	_	_	_
+
+144	of	_	_	_	_
+
+145	further	_	_	_	_
+
+146	disagreements	_	_	_	_
+
+147	in	_	_	_	_
+
+148	the	_	_	_	_
+
+149	future	_	_	_	_
+
+150	.	_	_	_	_
+
+151	"	_	_	_	_
+
+152	"	_	_	_	_
+
+153	The	_	_	_	_
+
+154	years	_	_	_	_
+
+155	ahead	_	_	_	_
+
+156	are	_	_	_	_
+
+157	going	_	_	_	_
+
+158	to	_	_	_	_
+
+159	be	_	_	_	_
+
+160	very	_	_	_	_
+
+161	exciting	_	_	_	_
+
+162	times	_	_	_	_
+
+163	for	_	_	_	_
+
+164	us	_	_	_	_
+
+165	,	_	_	_	_
+
+166	"	_	_	_	_
+
+167	said	_	_	_	_
+
+168	Neil	_	_	_	_
+
+169	Aspinall	_	_	_	_
+
+170	,	_	_	_	_
+
+171	manager	_	_	_	_
+
+172	of	_	_	_	_
+
+173	Apple	_	_	_	_
+
+174	Corps	_	_	_	_
+
+175	.	_	_	_	_
+
+176	"	_	_	_	_
+
+177	We	_	_	_	_
+
+178	wish	_	_	_	_
+
+179	Apple	_	_	_	_
+
+180	Inc.	_	_	_	_
+
+181	every	_	_	_	_
+
+182	success	_	_	_	_
+
+183	and	_	_	_	_
+
+184	look	_	_	_	_
+
+185	forward	_	_	_	_
+
+186	to	_	_	_	_
+
+187	many	_	_	_	_
+
+188	years	_	_	_	_
+
+189	of	_	_	_	_
+
+190	peaceful	_	_	_	_
+
+191	co-operation	_	_	_	_
+
+192	with	_	_	_	_
+
+193	them	_	_	_	_
+
+194	.	_	_	_	_
+
+195	"	_	_	_	_
+
+196	It	_	_	_	_
+
+197	was	_	_	_	_
+
+198	not	_	_	_	_
+
+199	disclosed	_	_	_	_
+
+200	whether	_	_	_	_
+
+201	the	_	_	_	_
+
+202	Beatles	_	_	_	_
+
+203	'	_	_	_	_
+
+204	music	_	_	_	_
+
+205	catalog	_	_	_	_
+
+206	was	_	_	_	_
+
+207	part	_	_	_	_
+
+208	of	_	_	_	_
+
+209	the	_	_	_	_
+
+210	deal	_	_	_	_
+
+211	.	_	_	_	_

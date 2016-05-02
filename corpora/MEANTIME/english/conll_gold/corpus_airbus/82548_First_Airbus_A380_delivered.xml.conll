@@ -1,127 +1,166 @@
-1	First	_	_	_
-2	Airbus	_	_	_
-3	A380	_	_	_
-4	delivered	B-E-27	B-CERTAIN-27	B-POS-27
+1	First	_	_	_	_
+2	Airbus	_	_	_	_
+3	A380	_	_	_	_
+4	delivered	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
 
-5	October	_	_	_
-6	15	_	_	_
-7	,	_	_	_
-8	2007	_	_	_
+5	October	_	_	_	_
+6	15	_	_	_	_
+7	,	_	_	_	_
+8	2007	_	_	_	_
 
-9	The	_	_	_
-10	first	_	_	_
-11	A380	_	_	_
-12	superjumbo	_	_	_
-13	,	_	_	_
-14	made	B-E-17	B-CERTAIN-17	B-POS-17
-15	by	_	_	_
-16	Airbus	_	_	_
-17	,	_	_	_
-18	was	_	_	_
-19	delivered	B-E-18	B-CERTAIN-18	B-POS-18
-20	today	_	_	_
-21	to	_	_	_
-22	Singapore	_	_	_
-23	Airlines	_	_	_
-24	(	_	_	_
-25	SIA	_	_	_
-26	)	_	_	_
-27	18	_	_	_
-28	months	_	_	_
-29	behind	_	_	_
-30	schedule	_	_	_
-31	.	_	_	_
+9	The	_	_	_	_
+10	first	_	_	_	_
+11	A380	_	_	_	_
+12	superjumbo	_	_	_	_
+13	,	_	_	_	_
+14	made	B-E-10	B-CERTAIN-10	B-POS-10	B-NON_FUTURE-10
+15	by	_	_	_	_
+16	Airbus	_	_	_	_
+17	,	_	_	_	_
+18	was	_	_	_	_
+19	delivered	B-E-11	B-CERTAIN-11	B-POS-11	B-NON_FUTURE-11
+20	today	_	_	_	_
+21	to	_	_	_	_
+22	Singapore	_	_	_	_
+23	Airlines	_	_	_	_
+24	(	_	_	_	_
+25	SIA	_	_	_	_
+26	)	_	_	_	_
+27	18	_	_	_	_
+28	months	_	_	_	_
+29	behind	_	_	_	_
+30	schedule	_	_	_	_
+31	.	_	_	_	_
 
-32	After	_	_	_
-33	the	_	_	_
-34	plane	_	_	_
-35	was	_	_	_
-36	delivered	B-E-19	B-CERTAIN-19	B-POS-19
-37	in	_	_	_
-38	Singapore	_	_	_
-39	,	_	_	_
-40	it	_	_	_
-41	was	_	_	_
-42	flown	B-E-20	B-CERTAIN-20	B-POS-20
-43	to	_	_	_
-44	Toulouse	_	_	_
-45	,	_	_	_
-46	France	_	_	_
-47	for	_	_	_
-48	the	_	_	_
-49	ceremony	B-E-21	B-CERTAIN-21	B-POS-21
-50	of	_	_	_
-51	about	_	_	_
-52	500	_	_	_
-53	guests	_	_	_
-54	.	_	_	_
+32	After	_	_	_	_
+33	the	_	_	_	_
+34	plane	_	_	_	_
+35	was	_	_	_	_
+36	delivered	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+37	in	_	_	_	_
+38	Singapore	_	_	_	_
+39	,	_	_	_	_
+40	it	_	_	_	_
+41	was	_	_	_	_
+42	flown	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
+43	to	_	_	_	_
+44	Toulouse	_	_	_	_
+45	,	_	_	_	_
+46	France	_	_	_	_
+47	for	_	_	_	_
+48	the	_	_	_	_
+49	ceremony	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+50	of	_	_	_	_
+51	about	_	_	_	_
+52	500	_	_	_	_
+53	guests	_	_	_	_
+54	.	_	_	_	_
 
-55	The	_	_	_
-56	plane	_	_	_
-57	is	_	_	_
-58	built	B-E-22	B-CERTAIN-22	B-POS-22
-59	with	_	_	_
-60	four	_	_	_
-61	Rolls-Royce	_	_	_
-62	Trent	_	_	_
-63	900	_	_	_
-64	engines	_	_	_
-65	.	_	_	_
+55	The	_	_	_	_
+56	plane	_	_	_	_
+57	is	_	_	_	_
+58	built	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+59	with	_	_	_	_
+60	four	_	_	_	_
+61	Rolls-Royce	_	_	_	_
+62	Trent	_	_	_	_
+63	900	_	_	_	_
+64	engines	_	_	_	_
+65	.	_	_	_	_
 
-66	The	_	_	_
-67	first	_	_	_
-68	flight	B-E-23	B-CERTAIN-23	B-POS-23
-69	will	_	_	_
-70	take	B-E-24	B-CERTAIN-24	B-POS-24
-71	off	I-E-24	I-CERTAIN-24	I-POS-24
-72	for	_	_	_
-73	a	_	_	_
-74	``	_	_	_
-75	special	_	_	_
-76	charity-flight	B-E-25	B-CERTAIN-25	B-POS-25
-77	''	_	_	_
-78	from	_	_	_
-79	Singapore	_	_	_
-80	and	_	_	_
-81	land	B-E-26	B-CERTAIN-26	B-POS-26
-82	in	_	_	_
-83	Sydney	_	_	_
-84	on	_	_	_
-85	October	_	_	_
-86	25	_	_	_
-87	.	_	_	_
+66	The	_	_	_	_
+67	first	_	_	_	_
+68	flight	B-E-5	B-CERTAIN-5	B-POS-5	B-FUTURE-5
+69	will	_	_	_	_
+70	take	B-E-6	B-CERTAIN-6	B-POS-6	B-FUTURE-6
+71	off	I-E-6	I-CERTAIN-6	I-POS-6	I-FUTURE-6
+72	for	_	_	_	_
+73	a	_	_	_	_
+74	``	_	_	_	_
+75	special	_	_	_	_
+76	charity-flight	B-E-7	B-CERTAIN-7	B-POS-7	B-FUTURE-7
+77	''	_	_	_	_
+78	from	_	_	_	_
+79	Singapore	_	_	_	_
+80	and	_	_	_	_
+81	land	B-E-8	B-CERTAIN-8	B-POS-8	B-FUTURE-8
+82	in	_	_	_	_
+83	Sydney	_	_	_	_
+84	on	_	_	_	_
+85	October	_	_	_	_
+86	25	_	_	_	_
+87	.	_	_	_	_
 
-88	Special	_	_	_
-89	services	_	_	_
-90	will	_	_	_
-91	continue	_	_	_
-92	from	_	_	_
-93	October	_	_	_
-94	28	_	_	_
-95	.	_	_	_
+88	Special	_	_	_	_
+89	services	_	_	_	_
+90	will	_	_	_	_
+91	continue	_	_	_	_
+92	from	_	_	_	_
+93	October	_	_	_	_
+94	28	_	_	_	_
+95	.	_	_	_	_
 
-96	``	_	_	_
-97	This	_	_	_
-98	is	_	_	_
-99	a	_	_	_
-100	major	_	_	_
-101	milestone	_	_	_
-102	for	_	_	_
-103	the	_	_	_
-104	A380	_	_	_
-105	programme	_	_	_
-106	,	_	_	_
-107	and	_	_	_
-108	I	_	_	_
-109	would	_	_	_
-110	like	_	_	_
-111	to	_	_	_
-112	express	_	_	_
-113	my	_	_	_
-114	deepest	_	_	_
-115	appreciation	_	_	_
-116	to	_	_	_
-117	all	_	_	_
-118	parties	_	_	_
-119	concerned	_	_	_
-120	.	_	_	_
+96	``	_	_	_	_
+97	This	_	_	_	_
+98	is	_	_	_	_
+99	a	_	_	_	_
+100	major	_	_	_	_
+101	milestone	_	_	_	_
+102	for	_	_	_	_
+103	the	_	_	_	_
+104	A380	_	_	_	_
+105	programme	_	_	_	_
+106	,	_	_	_	_
+107	and	_	_	_	_
+108	I	_	_	_	_
+109	would	_	_	_	_
+110	like	_	_	_	_
+111	to	_	_	_	_
+112	express	_	_	_	_
+113	my	_	_	_	_
+114	deepest	_	_	_	_
+115	appreciation	_	_	_	_
+116	to	_	_	_	_
+117	all	_	_	_	_
+118	parties	_	_	_	_
+119	concerned	_	_	_	_
+120	.	_	_	_	_
+
+121	I	_	_	_	_
+122	want	_	_	_	_
+123	to	_	_	_	_
+124	thank	_	_	_	_
+125	our	_	_	_	_
+126	teams	_	_	_	_
+127	and	_	_	_	_
+128	all	_	_	_	_
+129	those	_	_	_	_
+130	who	_	_	_	_
+131	worked	_	_	_	_
+132	hard	_	_	_	_
+133	,	_	_	_	_
+134	days	_	_	_	_
+135	,	_	_	_	_
+136	nights	_	_	_	_
+137	,	_	_	_	_
+138	and	_	_	_	_
+139	week-ends	_	_	_	_
+140	,	_	_	_	_
+141	for	_	_	_	_
+142	their	_	_	_	_
+143	dedication	_	_	_	_
+144	and	_	_	_	_
+145	commitment	_	_	_	_
+146	,	_	_	_	_
+147	''	_	_	_	_
+148	said	_	_	_	_
+149	Airbus	_	_	_	_
+150	President	_	_	_	_
+151	and	_	_	_	_
+152	Chief	_	_	_	_
+153	Executive	_	_	_	_
+154	Officer	_	_	_	_
+155	,	_	_	_	_
+156	Tom	_	_	_	_
+157	Enders	_	_	_	_
+158	.	_	_	_	_

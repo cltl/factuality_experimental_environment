@@ -1,0 +1,352 @@
+1	Apple	_	_	_	_
+2	launches	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+3	new	_	_	_	_
+4	,	_	_	_	_
+5	faster	_	_	_	_
+6	iPhone	_	_	_	_
+
+7	June	_	_	_	_
+
+8	9	_	_	_	_
+
+9	,	_	_	_	_
+
+10	2009	_	_	_	_
+
+11	Apple	_	_	_	_
+
+12	Computer	_	_	_	_
+
+13	today	_	_	_	_
+
+14	announced	B-E-12	B-CERTAIN-12	B-POS-12	B-NON_FUTURE-12
+
+15	its	_	_	_	_
+
+16	latest	_	_	_	_
+
+17	iteration	_	_	_	_
+
+18	of	_	_	_	_
+
+19	their	_	_	_	_
+
+20	popular	_	_	_	_
+
+21	iPhone	_	_	_	_
+
+22	,	_	_	_	_
+
+23	the	_	_	_	_
+
+24	iPhone	_	_	_	_
+
+25	3GS.	_	_	_	_
+
+26	The	_	_	_	_
+
+27	new	_	_	_	_
+
+28	hardware	_	_	_	_
+
+29	,	_	_	_	_
+
+30	revealed	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+
+31	at	_	_	_	_
+
+32	the	_	_	_	_
+
+33	company	_	_	_	_
+
+34	's	_	_	_	_
+
+35	annual	_	_	_	_
+
+36	Worldwide	_	_	_	_
+
+37	Developers	_	_	_	_
+
+38	Conference	B-E-13	B-CERTAIN-13	B-POS-13	B-NON_FUTURE-13
+
+39	drew	B-E-14	B-CERTAIN-14	B-POS-14	B-NON_FUTURE-14
+
+40	attention	B-E-16	B-CERTAIN-16	B-POS-16	B-NON_FUTURE-16
+
+41	from	_	_	_	_
+
+42	the	_	_	_	_
+
+43	media	_	_	_	_
+
+44	and	_	_	_	_
+
+45	iPhone	_	_	_	_
+
+46	owners	_	_	_	_
+
+47	alike	_	_	_	_
+
+48	.	_	_	_	_
+
+49	Features	_	_	_	_
+
+50	new	_	_	_	_
+
+51	to	_	_	_	_
+
+52	the	_	_	_	_
+
+53	iPhone	_	_	_	_
+
+54	include	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+
+55	an	_	_	_	_
+
+56	upgraded	_	_	_	_
+
+57	camera	_	_	_	_
+
+58	,	_	_	_	_
+
+59	which	_	_	_	_
+
+60	also	_	_	_	_
+
+61	allows	B-E-8	B-CERTAIN-8	B-POS-8	B-NON_FUTURE-8
+
+62	users	_	_	_	_
+
+63	to	_	_	_	_
+
+64	record	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+
+65	video	_	_	_	_
+
+66	and	_	_	_	_
+
+67	sound	_	_	_	_
+
+68	,	_	_	_	_
+
+69	as	_	_	_	_
+
+70	well	_	_	_	_
+
+71	as	_	_	_	_
+
+72	"	_	_	_	_
+
+73	voice	_	_	_	_
+
+74	control	_	_	_	_
+
+75	"	_	_	_	_
+
+76	,	_	_	_	_
+
+77	which	_	_	_	_
+
+78	will	_	_	_	_
+
+79	allow	B-E-10	B-CERTAIN-10	B-POS-10	B-FUTURE-10
+
+80	users	_	_	_	_
+
+81	to	_	_	_	_
+
+82	control	B-E-11	B-CERTAIN-11	B-POS-11	B-FUTURE-11
+
+83	most	_	_	_	_
+
+84	features	_	_	_	_
+
+85	of	_	_	_	_
+
+86	the	_	_	_	_
+
+87	iPhone	_	_	_	_
+
+88	with	_	_	_	_
+
+89	their	_	_	_	_
+
+90	voice	_	_	_	_
+
+91	.	_	_	_	_
+
+92	The	_	_	_	_
+
+93	new	_	_	_	_
+
+94	phone	_	_	_	_
+
+95	will	_	_	_	_
+
+96	also	_	_	_	_
+
+97	come	B-E-15	B-CERTAIN-15	B-POS-15	B-FUTURE-15
+
+98	pre-loaded	B-E-1	B-CERTAIN-1	B-POS-1	B-FUTURE-1
+
+99	with	_	_	_	_
+
+100	the	_	_	_	_
+
+101	new	_	_	_	_
+
+102	iPhone	_	_	_	_
+
+103	3.0	_	_	_	_
+
+104	software	_	_	_	_
+
+105	,	_	_	_	_
+
+106	which	_	_	_	_
+
+107	will	_	_	_	_
+
+108	be	B-E-2	B-CERTAIN-2	B-POS-2	B-FUTURE-2
+
+109	available	B-E-5	B-CERTAIN-5	B-POS-5	B-FUTURE-5
+
+110	on	_	_	_	_
+
+111	June	_	_	_	_
+
+112	17	_	_	_	_
+
+113	,	_	_	_	_
+
+114	two	_	_	_	_
+
+115	days	_	_	_	_
+
+116	before	_	_	_	_
+
+117	the	_	_	_	_
+
+118	phone	_	_	_	_
+
+119	launches	B-E-3	B-CERTAIN-3	B-POS-3	B-FUTURE-3
+
+120	.	_	_	_	_
+
+121	In	_	_	_	_
+
+122	addition	_	_	_	_
+
+123	to	_	_	_	_
+
+124	the	_	_	_	_
+
+125	new	_	_	_	_
+
+126	iPhone	_	_	_	_
+
+127	hardware	_	_	_	_
+
+128	,	_	_	_	_
+
+129	Apple	_	_	_	_
+
+130	also	_	_	_	_
+
+131	demonstrated	_	_	_	_
+
+132	some	_	_	_	_
+
+133	of	_	_	_	_
+
+134	the	_	_	_	_
+
+135	features	_	_	_	_
+
+136	of	_	_	_	_
+
+137	its	_	_	_	_
+
+138	new	_	_	_	_
+
+139	desktop	_	_	_	_
+
+140	operating	_	_	_	_
+
+141	system	_	_	_	_
+
+142	,	_	_	_	_
+
+143	Snow	_	_	_	_
+
+144	Leopard	_	_	_	_
+
+145	,	_	_	_	_
+
+146	and	_	_	_	_
+
+147	highlighted	_	_	_	_
+
+148	the	_	_	_	_
+
+149	new	_	_	_	_
+
+150	Safari	_	_	_	_
+
+151	4.0	_	_	_	_
+
+152	web	_	_	_	_
+
+153	browser	_	_	_	_
+
+154	.	_	_	_	_
+
+155	The	_	_	_	_
+
+156	iPhone	_	_	_	_
+
+157	3GS	_	_	_	_
+
+158	will	_	_	_	_
+
+159	be	_	_	_	_
+
+160	available	_	_	_	_
+
+161	in	_	_	_	_
+
+162	a	_	_	_	_
+
+163	16	_	_	_	_
+
+164	GB	_	_	_	_
+
+165	and	_	_	_	_
+
+166	32	_	_	_	_
+
+167	GB	_	_	_	_
+
+168	models	_	_	_	_
+
+169	,	_	_	_	_
+
+170	retailing	_	_	_	_
+
+171	for	_	_	_	_
+
+172	US	_	_	_	_
+
+173	$	_	_	_	_
+
+174	199	_	_	_	_
+
+175	and	_	_	_	_
+
+176	$	_	_	_	_
+
+177	299	_	_	_	_
+
+178	respectively	_	_	_	_
+
+179	.	_	_	_	_

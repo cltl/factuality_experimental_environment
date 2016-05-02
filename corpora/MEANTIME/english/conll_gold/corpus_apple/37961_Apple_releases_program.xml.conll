@@ -1,0 +1,423 @@
+1	Apple	_	_	_	_
+2	releases	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+3	program	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+4	to	_	_	_	_
+5	limit	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
+6	iPod	_	_	_	_
+7	volume	_	_	_	_
+
+8	April	_	_	_	_
+
+9	5	_	_	_	_
+
+10	,	_	_	_	_
+
+11	2006	_	_	_	_
+
+12	Apple	_	_	_	_
+
+13	has	_	_	_	_
+
+14	released	B-E-12	B-CERTAIN-12	B-POS-12	B-NON_FUTURE-12
+
+15	an	_	_	_	_
+
+16	application	_	_	_	_
+
+17	that	_	_	_	_
+
+18	limits	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+
+19	the	_	_	_	_
+
+20	volume	_	_	_	_
+
+21	produced	_	_	_	_
+
+22	from	_	_	_	_
+
+23	its	_	_	_	_
+
+24	iPod	_	_	_	_
+
+25	portable	_	_	_	_
+
+26	music	_	_	_	_
+
+27	players	_	_	_	_
+
+28	.	_	_	_	_
+
+29	The	_	_	_	_
+
+30	software	_	_	_	_
+
+31	update	_	_	_	_
+
+32	,	_	_	_	_
+
+33	iPod	_	_	_	_
+
+34	Software	_	_	_	_
+
+35	1.1.1	_	_	_	_
+
+36	,	_	_	_	_
+
+37	works	B-E-5	B-CERTAIN-5	B-POS-5	B-NON_FUTURE-5
+
+38	with	_	_	_	_
+
+39	the	_	_	_	_
+
+40	iPod	_	_	_	_
+
+41	Nano	_	_	_	_
+
+42	and	_	_	_	_
+
+43	the	_	_	_	_
+
+44	Video	_	_	_	_
+
+45	version	_	_	_	_
+
+46	.	_	_	_	_
+
+47	Apple	_	_	_	_
+
+48	released	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+
+49	the	_	_	_	_
+
+50	program	_	_	_	_
+
+51	in	_	_	_	_
+
+52	response	_	_	_	_
+
+53	to	_	_	_	_
+
+54	complaints	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+
+55	that	_	_	_	_
+
+56	it	_	_	_	_
+
+57	had	_	_	_	_
+
+58	not	_	_	_	_
+
+59	taken	B-E-8	B-CERTAIN-8	B-NEG-8	B-NON_FUTURE-8
+
+60	necessary	_	_	_	_
+
+61	measures	_	_	_	_
+
+62	to	_	_	_	_
+
+63	prevent	_	_	_	_
+
+64	hearing	_	_	_	_
+
+65	loss	_	_	_	_
+
+66	in	_	_	_	_
+
+67	iPod	_	_	_	_
+
+68	users	_	_	_	_
+
+69	.	_	_	_	_
+
+70	In	_	_	_	_
+
+71	California	_	_	_	_
+
+72	,	_	_	_	_
+
+73	a	_	_	_	_
+
+74	class-action	_	_	_	_
+
+75	lawsuit	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+
+76	was	_	_	_	_
+
+77	filed	B-E-10	B-CERTAIN-10	B-POS-10	B-NON_FUTURE-10
+
+78	against	_	_	_	_
+
+79	Apple	_	_	_	_
+
+80	in	_	_	_	_
+
+81	January	_	_	_	_
+
+82	over	_	_	_	_
+
+83	claims	B-E-11	B-CERTAIN-11	B-POS-11	B-NON_FUTURE-11
+
+84	of	_	_	_	_
+
+85	hearing	_	_	_	_
+
+86	loss	_	_	_	_
+
+87	from	_	_	_	_
+
+88	iPod	_	_	_	_
+
+89	use	_	_	_	_
+
+90	.	_	_	_	_
+
+91	Apple	_	_	_	_
+
+92	's	_	_	_	_
+
+93	worldwide	_	_	_	_
+
+94	vice-president	_	_	_	_
+
+95	of	_	_	_	_
+
+96	marketing	_	_	_	_
+
+97	for	_	_	_	_
+
+98	the	_	_	_	_
+
+99	iPod	_	_	_	_
+
+100	,	_	_	_	_
+
+101	Greg	_	_	_	_
+
+102	Joswiak	_	_	_	_
+
+103	,	_	_	_	_
+
+104	indicated	_	_	_	_
+
+105	that	_	_	_	_
+
+106	this	_	_	_	_
+
+107	patch	_	_	_	_
+
+108	is	_	_	_	_
+
+109	available	_	_	_	_
+
+110	for	_	_	_	_
+
+111	people	_	_	_	_
+
+112	who	_	_	_	_
+
+113	want	_	_	_	_
+
+114	"	_	_	_	_
+
+115	an	_	_	_	_
+
+116	easy-to-use	_	_	_	_
+
+117	option	_	_	_	_
+
+118	to	_	_	_	_
+
+119	set	_	_	_	_
+
+120	their	_	_	_	_
+
+121	own	_	_	_	_
+
+122	personal	_	_	_	_
+
+123	volume	_	_	_	_
+
+124	limit	_	_	_	_
+
+125	.	_	_	_	_
+
+126	"	_	_	_	_
+
+127	It	_	_	_	_
+
+128	is	_	_	_	_
+
+129	available	_	_	_	_
+
+130	for	_	_	_	_
+
+131	free	_	_	_	_
+
+132	download	_	_	_	_
+
+133	.	_	_	_	_
+
+134	The	_	_	_	_
+
+135	software	_	_	_	_
+
+136	also	_	_	_	_
+
+137	has	_	_	_	_
+
+138	the	_	_	_	_
+
+139	option	_	_	_	_
+
+140	of	_	_	_	_
+
+141	being	_	_	_	_
+
+142	used	_	_	_	_
+
+143	with	_	_	_	_
+
+144	parental	_	_	_	_
+
+145	controls	_	_	_	_
+
+146	to	_	_	_	_
+
+147	prevent	_	_	_	_
+
+148	children	_	_	_	_
+
+149	from	_	_	_	_
+
+150	modifying	_	_	_	_
+
+151	the	_	_	_	_
+
+152	volume	_	_	_	_
+
+153	.	_	_	_	_
+
+154	iPods	_	_	_	_
+
+155	sold	_	_	_	_
+
+156	in	_	_	_	_
+
+157	France	_	_	_	_
+
+158	already	_	_	_	_
+
+159	have	_	_	_	_
+
+160	the	_	_	_	_
+
+161	volume	_	_	_	_
+
+162	limited	_	_	_	_
+
+163	,	_	_	_	_
+
+164	as	_	_	_	_
+
+165	the	_	_	_	_
+
+166	law	_	_	_	_
+
+167	forbids	_	_	_	_
+
+168	a	_	_	_	_
+
+169	sound	_	_	_	_
+
+170	louder	_	_	_	_
+
+171	than	_	_	_	_
+
+172	100	_	_	_	_
+
+173	decibels	_	_	_	_
+
+174	(	_	_	_	_
+
+175	dB	_	_	_	_
+
+176	)	_	_	_	_
+
+177	.	_	_	_	_
+
+178	The	_	_	_	_
+
+179	American	_	_	_	_
+
+180	Speech	_	_	_	_
+
+181	Language	_	_	_	_
+
+182	Hearing	_	_	_	_
+
+183	Association	_	_	_	_
+
+184	published	_	_	_	_
+
+185	a	_	_	_	_
+
+186	study	_	_	_	_
+
+187	where	_	_	_	_
+
+188	it	_	_	_	_
+
+189	appears	_	_	_	_
+
+190	that	_	_	_	_
+
+191	iPod	_	_	_	_
+
+192	's	_	_	_	_
+
+193	(	_	_	_	_
+
+194	and	_	_	_	_
+
+195	mp3	_	_	_	_
+
+196	players	_	_	_	_
+
+197	's	_	_	_	_
+
+198	)	_	_	_	_
+
+199	power	_	_	_	_
+
+200	is	_	_	_	_
+
+201	120	_	_	_	_
+
+202	dB	_	_	_	_
+
+203	,	_	_	_	_
+
+204	comparable	_	_	_	_
+
+205	to	_	_	_	_
+
+206	a	_	_	_	_
+
+207	live	_	_	_	_
+
+208	concert	_	_	_	_
+
+209	.	_	_	_	_
+
+210	A	_	_	_	_
+
+211	gunshot	_	_	_	_
+
+212	is	_	_	_	_
+
+213	140	_	_	_	_
+
+214	dB	_	_	_	_
+
+215	.	_	_	_	_

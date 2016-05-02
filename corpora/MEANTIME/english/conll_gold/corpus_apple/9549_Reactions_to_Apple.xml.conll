@@ -1,0 +1,1109 @@
+1	Reactions	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+2	to	_	_	_	_
+3	Apple	_	_	_	_
+4	's	_	_	_	_
+5	OS	_	_	_	_
+6	X	_	_	_	_
+7	Tiger	_	_	_	_
+
+8	May	_	_	_	_
+
+9	7	_	_	_	_
+
+10	,	_	_	_	_
+
+11	2005	_	_	_	_
+
+12	In	_	_	_	_
+
+13	chatrooms	_	_	_	_
+
+14	and	_	_	_	_
+
+15	on	_	_	_	_
+
+16	bulletin	_	_	_	_
+
+17	boards	_	_	_	_
+
+18	,	_	_	_	_
+
+19	Macintosh	_	_	_	_
+
+20	users	_	_	_	_
+
+21	and	_	_	_	_
+
+22	the	_	_	_	_
+
+23	Macintosh	_	_	_	_
+
+24	-	_	_	_	_
+
+25	curious	_	_	_	_
+
+26	are	_	_	_	_
+
+27	buzzing	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+
+28	about	_	_	_	_
+
+29	Tiger	_	_	_	_
+
+30	,	_	_	_	_
+
+31	the	_	_	_	_
+
+32	newest	_	_	_	_
+
+33	version	_	_	_	_
+
+34	of	_	_	_	_
+
+35	Apple	_	_	_	_
+
+36	Computer	_	_	_	_
+
+37	's	_	_	_	_
+
+38	Mac	_	_	_	_
+
+39	OS	_	_	_	_
+
+40	X	_	_	_	_
+
+41	,	_	_	_	_
+
+42	version	_	_	_	_
+
+43	10.4	_	_	_	_
+
+44	.	_	_	_	_
+
+45	The	_	_	_	_
+
+46	open-source	_	_	_	_
+
+47	kernel	_	_	_	_
+
+48	,	_	_	_	_
+
+49	or	_	_	_	_
+
+50	base	_	_	_	_
+
+51	of	_	_	_	_
+
+52	the	_	_	_	_
+
+53	system	_	_	_	_
+
+54	,	_	_	_	_
+
+55	"	_	_	_	_
+
+56	Darwin	_	_	_	_
+
+57	"	_	_	_	_
+
+58	,	_	_	_	_
+
+59	plus	_	_	_	_
+
+60	all	_	_	_	_
+
+61	the	_	_	_	_
+
+62	features	_	_	_	_
+
+63	of	_	_	_	_
+
+64	Apple	_	_	_	_
+
+65	's	_	_	_	_
+
+66	proprietary	_	_	_	_
+
+67	Quartz	_	_	_	_
+
+68	user	_	_	_	_
+
+69	interface	_	_	_	_
+
+70	features	_	_	_	_
+
+71	,	_	_	_	_
+
+72	software	_	_	_	_
+
+73	,	_	_	_	_
+
+74	and	_	_	_	_
+
+75	system	_	_	_	_
+
+76	utilities	_	_	_	_
+
+77	have	_	_	_	_
+
+78	passed	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+
+79	through	_	_	_	_
+
+80	their	_	_	_	_
+
+81	next	_	_	_	_
+
+82	phase	_	_	_	_
+
+83	of	_	_	_	_
+
+84	upgrading	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
+
+85	and	_	_	_	_
+
+86	scrutiny	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+
+87	,	_	_	_	_
+
+88	and	_	_	_	_
+
+89	have	_	_	_	_
+
+90	been	_	_	_	_
+
+91	shipping	B-E-14	B-CERTAIN-14	B-POS-14	B-NON_FUTURE-14
+
+92	for	_	_	_	_
+
+93	more	_	_	_	_
+
+94	than	_	_	_	_
+
+95	a	_	_	_	_
+
+96	week	_	_	_	_
+
+97	now	_	_	_	_
+
+98	.	_	_	_	_
+
+99	Apple	_	_	_	_
+
+100	reports	B-E-8	B-CERTAIN-8	B-POS-8	B-NON_FUTURE-8
+
+101	that	_	_	_	_
+
+102	Tiger	_	_	_	_
+
+103	,	_	_	_	_
+
+104	the	_	_	_	_
+
+105	code	_	_	_	_
+
+106	name	_	_	_	_
+
+107	for	_	_	_	_
+
+108	this	_	_	_	_
+
+109	release	_	_	_	_
+
+110	,	_	_	_	_
+
+111	includes	B-E-10	B-CERTAIN-10	B-POS-10	B-NON_FUTURE-10
+
+112	over	_	_	_	_
+
+113	200	_	_	_	_
+
+114	new	_	_	_	_
+
+115	features	_	_	_	_
+
+116	and	_	_	_	_
+
+117	new	_	_	_	_
+
+118	versions	_	_	_	_
+
+119	of	_	_	_	_
+
+120	application	_	_	_	_
+
+121	software	_	_	_	_
+
+122	such	_	_	_	_
+
+123	as	_	_	_	_
+
+124	e-mail	_	_	_	_
+
+125	client	_	_	_	_
+
+126	Mail	_	_	_	_
+
+127	,	_	_	_	_
+
+128	web	_	_	_	_
+
+129	browser	_	_	_	_
+
+130	Safari	_	_	_	_
+
+131	,	_	_	_	_
+
+132	and	_	_	_	_
+
+133	multi-person	_	_	_	_
+
+134	audio	_	_	_	_
+
+135	/	_	_	_	_
+
+136	video	_	_	_	_
+
+137	/	_	_	_	_
+
+138	text	_	_	_	_
+
+139	messaging	_	_	_	_
+
+140	client	_	_	_	_
+
+141	iChat	_	_	_	_
+
+142	.	_	_	_	_
+
+143	Entirely	_	_	_	_
+
+144	new	_	_	_	_
+
+145	features	_	_	_	_
+
+146	have	_	_	_	_
+
+147	also	_	_	_	_
+
+148	been	_	_	_	_
+
+149	rolled	B-E-11	B-CERTAIN-11	B-POS-11	B-NON_FUTURE-11
+
+150	out	I-E-11	I-CERTAIN-11	I-POS-11	I-NON_FUTURE-11
+
+151	in	_	_	_	_
+
+152	this	_	_	_	_
+
+153	release	_	_	_	_
+
+154	:	_	_	_	_
+
+155	Spotlight	_	_	_	_
+
+156	integrates	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+
+157	search	_	_	_	_
+
+158	in	_	_	_	_
+
+159	the	_	_	_	_
+
+160	core	_	_	_	_
+
+161	of	_	_	_	_
+
+162	the	_	_	_	_
+
+163	OS	_	_	_	_
+
+164	,	_	_	_	_
+
+165	and	_	_	_	_
+
+166	utilizes	B-E-13	B-CERTAIN-13	B-POS-13	B-NON_FUTURE-13
+
+167	meta-data	_	_	_	_
+
+168	in	_	_	_	_
+
+169	its	_	_	_	_
+
+170	algorithm	_	_	_	_
+
+171	.	_	_	_	_
+
+172	Dashboard	_	_	_	_
+
+173	provides	_	_	_	_
+
+174	a	_	_	_	_
+
+175	sandbox	_	_	_	_
+
+176	for	_	_	_	_
+
+177	widgets	_	_	_	_
+
+178	,	_	_	_	_
+
+179	handy	_	_	_	_
+
+180	mini-applicatios	_	_	_	_
+
+181	like	_	_	_	_
+
+182	a	_	_	_	_
+
+183	calculator	_	_	_	_
+
+184	,	_	_	_	_
+
+185	sticky	_	_	_	_
+
+186	notes	_	_	_	_
+
+187	,	_	_	_	_
+
+188	and	_	_	_	_
+
+189	a	_	_	_	_
+
+190	dictionary	_	_	_	_
+
+191	,	_	_	_	_
+
+192	made	_	_	_	_
+
+193	available	_	_	_	_
+
+194	at	_	_	_	_
+
+195	the	_	_	_	_
+
+196	stroke	_	_	_	_
+
+197	of	_	_	_	_
+
+198	a	_	_	_	_
+
+199	key	_	_	_	_
+
+200	.	_	_	_	_
+
+201	Automator	_	_	_	_
+
+202	,	_	_	_	_
+
+203	a	_	_	_	_
+
+204	graphical	_	_	_	_
+
+205	scripting	_	_	_	_
+
+206	interface	_	_	_	_
+
+207	that	_	_	_	_
+
+208	enables	_	_	_	_
+
+209	non-programmers	_	_	_	_
+
+210	to	_	_	_	_
+
+211	automate	_	_	_	_
+
+212	repetitive	_	_	_	_
+
+213	tasks	_	_	_	_
+
+214	.	_	_	_	_
+
+215	One	_	_	_	_
+
+216	user	_	_	_	_
+
+217	of	_	_	_	_
+
+218	the	_	_	_	_
+
+219	new	_	_	_	_
+
+220	operating	_	_	_	_
+
+221	system	_	_	_	_
+
+222	made	_	_	_	_
+
+223	this	_	_	_	_
+
+224	comment	_	_	_	_
+
+225	:	_	_	_	_
+
+226	Industry	_	_	_	_
+
+227	analysts	_	_	_	_
+
+228	have	_	_	_	_
+
+229	pointed	_	_	_	_
+
+230	to	_	_	_	_
+
+231	both	_	_	_	_
+
+232	the	_	_	_	_
+
+233	advances	_	_	_	_
+
+234	and	_	_	_	_
+
+235	the	_	_	_	_
+
+236	failures	_	_	_	_
+
+237	of	_	_	_	_
+
+238	the	_	_	_	_
+
+239	new	_	_	_	_
+
+240	version	_	_	_	_
+
+241	already	_	_	_	_
+
+242	.	_	_	_	_
+
+243	Many	_	_	_	_
+
+244	of	_	_	_	_
+
+245	the	_	_	_	_
+
+246	bigger	_	_	_	_
+
+247	technology	_	_	_	_
+
+248	advances	_	_	_	_
+
+249	have	_	_	_	_
+
+250	gained	_	_	_	_
+
+251	high	_	_	_	_
+
+252	praise	_	_	_	_
+
+253	,	_	_	_	_
+
+254	but	_	_	_	_
+
+255	,	_	_	_	_
+
+256	they	_	_	_	_
+
+257	point	_	_	_	_
+
+258	out	_	_	_	_
+
+259	,	_	_	_	_
+
+260	Microsoft	_	_	_	_
+
+261	Longhorn	_	_	_	_
+
+262	is	_	_	_	_
+
+263	also	_	_	_	_
+
+264	expected	_	_	_	_
+
+265	to	_	_	_	_
+
+266	have	_	_	_	_
+
+267	many	_	_	_	_
+
+268	of	_	_	_	_
+
+269	these	_	_	_	_
+
+270	advantages	_	_	_	_
+
+271	when	_	_	_	_
+
+272	it	_	_	_	_
+
+273	is	_	_	_	_
+
+274	released	_	_	_	_
+
+275	,	_	_	_	_
+
+276	expected	_	_	_	_
+
+277	in	_	_	_	_
+
+278	late	_	_	_	_
+
+279	2006	_	_	_	_
+
+280	.	_	_	_	_
+
+281	And	_	_	_	_
+
+282	inter-operability	_	_	_	_
+
+283	,	_	_	_	_
+
+284	long	_	_	_	_
+
+285	a	_	_	_	_
+
+286	strength	_	_	_	_
+
+287	of	_	_	_	_
+
+288	Macintosh	_	_	_	_
+
+289	to	_	_	_	_
+
+290	work	_	_	_	_
+
+291	with	_	_	_	_
+
+292	other	_	_	_	_
+
+293	operating	_	_	_	_
+
+294	systems	_	_	_	_
+
+295	and	_	_	_	_
+
+296	networks	_	_	_	_
+
+297	,	_	_	_	_
+
+298	has	_	_	_	_
+
+299	had	_	_	_	_
+
+300	a	_	_	_	_
+
+301	few	_	_	_	_
+
+302	bugs—such	_	_	_	_
+
+303	as	_	_	_	_
+
+304	reports	_	_	_	_
+
+305	of	_	_	_	_
+
+306	issues	_	_	_	_
+
+307	with	_	_	_	_
+
+308	Server	_	_	_	_
+
+309	Message	_	_	_	_
+
+310	Block	_	_	_	_
+
+311	(	_	_	_	_
+
+312	SMB	_	_	_	_
+
+313	)	_	_	_	_
+
+314	and	_	_	_	_
+
+315	Active	_	_	_	_
+
+316	Directory	_	_	_	_
+
+317	.	_	_	_	_
+
+318	Another	_	_	_	_
+
+319	issue	_	_	_	_
+
+320	for	_	_	_	_
+
+321	some	_	_	_	_
+
+322	is	_	_	_	_
+
+323	the	_	_	_	_
+
+324	fact	_	_	_	_
+
+325	that	_	_	_	_
+
+326	Cisco	_	_	_	_
+
+327	System	_	_	_	_
+
+328	's	_	_	_	_
+
+329	VPN	_	_	_	_
+
+330	does	_	_	_	_
+
+331	not	_	_	_	_
+
+332	work	_	_	_	_
+
+333	with	_	_	_	_
+
+334	Tiger	_	_	_	_
+
+335	.	_	_	_	_
+
+336	Cisco	_	_	_	_
+
+337	has	_	_	_	_
+
+338	promised	_	_	_	_
+
+339	a	_	_	_	_
+
+340	compatible	_	_	_	_
+
+341	release	_	_	_	_
+
+342	before	_	_	_	_
+
+343	the	_	_	_	_
+
+344	end	_	_	_	_
+
+345	of	_	_	_	_
+
+346	the	_	_	_	_
+
+347	month	_	_	_	_
+
+348	.	_	_	_	_
+
+349	The	_	_	_	_
+
+350	biggest	_	_	_	_
+
+351	technology	_	_	_	_
+
+352	breakthrough	_	_	_	_
+
+353	is	_	_	_	_
+
+354	Spotlight	_	_	_	_
+
+355	.	_	_	_	_
+
+356	Using	_	_	_	_
+
+357	meta-data	_	_	_	_
+
+358	,	_	_	_	_
+
+359	searches	_	_	_	_
+
+360	are	_	_	_	_
+
+361	fast	_	_	_	_
+
+362	and	_	_	_	_
+
+363	easy	_	_	_	_
+
+364	and	_	_	_	_
+
+365	very	_	_	_	_
+
+366	thorough	_	_	_	_
+
+367	,	_	_	_	_
+
+368	and	_	_	_	_
+
+369	the	_	_	_	_
+
+370	results	_	_	_	_
+
+371	of	_	_	_	_
+
+372	the	_	_	_	_
+
+373	search	_	_	_	_
+
+374	can	_	_	_	_
+
+375	be	_	_	_	_
+
+376	used	_	_	_	_
+
+377	over	_	_	_	_
+
+378	and	_	_	_	_
+
+379	over	_	_	_	_
+
+380	again	_	_	_	_
+
+381	and	_	_	_	_
+
+382	will	_	_	_	_
+
+383	automatically	_	_	_	_
+
+384	update	_	_	_	_
+
+385	and	_	_	_	_
+
+386	change	_	_	_	_
+
+387	as	_	_	_	_
+
+388	you	_	_	_	_
+
+389	use	_	_	_	_
+
+390	your	_	_	_	_
+
+391	system	_	_	_	_
+
+392	.	_	_	_	_
+
+393	Search	_	_	_	_
+
+394	queries	_	_	_	_
+
+395	on	_	_	_	_
+
+396	a	_	_	_	_
+
+397	user	_	_	_	_
+
+398	's	_	_	_	_
+
+399	data	_	_	_	_
+
+400	can	_	_	_	_
+
+401	be	_	_	_	_
+
+402	saved	_	_	_	_
+
+403	as	_	_	_	_
+
+404	"	_	_	_	_
+
+405	Smart	_	_	_	_
+
+406	folders	_	_	_	_
+
+407	"	_	_	_	_
+
+408	without	_	_	_	_
+
+409	ever	_	_	_	_
+
+410	moving	_	_	_	_
+
+411	files	_	_	_	_
+
+412	on	_	_	_	_
+
+413	the	_	_	_	_
+
+414	hard	_	_	_	_
+
+415	drive	_	_	_	_
+
+416	,	_	_	_	_
+
+417	so	_	_	_	_
+
+418	you	_	_	_	_
+
+419	can	_	_	_	_
+
+420	collect	_	_	_	_
+
+421	all	_	_	_	_
+
+422	your	_	_	_	_
+
+423	photos	_	_	_	_
+
+424	,	_	_	_	_
+
+425	receipts	_	_	_	_
+
+426	,	_	_	_	_
+
+427	and	_	_	_	_
+
+428	webpages	_	_	_	_
+
+429	about	_	_	_	_
+
+430	your	_	_	_	_
+
+431	summer	_	_	_	_
+
+432	vacation	_	_	_	_
+
+433	,	_	_	_	_
+
+434	for	_	_	_	_
+
+435	example	_	_	_	_
+
+436	,	_	_	_	_
+
+437	while	_	_	_	_
+
+438	still	_	_	_	_
+
+439	keeping	_	_	_	_
+
+440	things	_	_	_	_
+
+441	ordered	_	_	_	_
+
+442	on	_	_	_	_
+
+443	your	_	_	_	_
+
+444	hard	_	_	_	_
+
+445	drive	_	_	_	_
+
+446	.	_	_	_	_
+
+447	According	_	_	_	_
+
+448	to	_	_	_	_
+
+449	a	_	_	_	_
+
+450	review	_	_	_	_
+
+451	by	_	_	_	_
+
+452	PC	_	_	_	_
+
+453	World	_	_	_	_
+
+454	,	_	_	_	_
+
+455	this	_	_	_	_
+
+456	alone	_	_	_	_
+
+457	is	_	_	_	_
+
+458	worth	_	_	_	_
+
+459	the	_	_	_	_
+
+460	US	_	_	_	_
+
+461	$	_	_	_	_
+
+462	129	_	_	_	_
+
+463	.	_	_	_	_
+
+464	Still	_	_	_	_
+
+465	,	_	_	_	_
+
+466	even	_	_	_	_
+
+467	Macintosh	_	_	_	_
+
+468	support	_	_	_	_
+
+469	sites	_	_	_	_
+
+470	such	_	_	_	_
+
+471	as	_	_	_	_
+
+472	Mac	_	_	_	_
+
+473	News	_	_	_	_
+
+474	suggest	_	_	_	_
+
+475	waiting	_	_	_	_
+
+476	for	_	_	_	_
+
+477	the	_	_	_	_
+
+478	first	_	_	_	_
+
+479	"	_	_	_	_
+
+480	point	_	_	_	_
+
+481	"	_	_	_	_
+
+482	release	_	_	_	_
+
+483	(	_	_	_	_
+
+484	10.4.1	_	_	_	_
+
+485	)	_	_	_	_
+
+486	before	_	_	_	_
+
+487	jumping	_	_	_	_
+
+488	in	_	_	_	_
+
+489	,	_	_	_	_
+
+490	which	_	_	_	_
+
+491	is	_	_	_	_
+
+492	expected	_	_	_	_
+
+493	in	_	_	_	_
+
+494	late	_	_	_	_
+
+495	May.	_	_	_	_
+
+496	Apple	_	_	_	_
+
+497	Computer	_	_	_	_
+
+498	has	_	_	_	_
+
+499	been	_	_	_	_
+
+500	on	_	_	_	_
+
+501	a	_	_	_	_
+
+502	semi-regular	_	_	_	_
+
+503	release	_	_	_	_
+
+504	pattern	_	_	_	_
+
+505	since	_	_	_	_
+
+506	moving	_	_	_	_
+
+507	to	_	_	_	_
+
+508	Mac	_	_	_	_
+
+509	OS	_	_	_	_
+
+510	X	_	_	_	_
+
+511	,	_	_	_	_
+
+512	with	_	_	_	_
+
+513	four	_	_	_	_
+
+514	versions	_	_	_	_
+
+515	released	_	_	_	_
+
+516	in	_	_	_	_
+
+517	5	_	_	_	_
+
+518	years	_	_	_	_
+
+519	.	_	_	_	_
+
+520	This	_	_	_	_
+
+521	constant	_	_	_	_
+
+522	development	_	_	_	_
+
+523	program	_	_	_	_
+
+524	has	_	_	_	_
+
+525	occasionally	_	_	_	_
+
+526	been	_	_	_	_
+
+527	accused	_	_	_	_
+
+528	of	_	_	_	_
+
+529	being	_	_	_	_
+
+530	aimed	_	_	_	_
+
+531	at	_	_	_	_
+
+532	forcing	_	_	_	_
+
+533	users	_	_	_	_
+
+534	to	_	_	_	_
+
+535	constantly	_	_	_	_
+
+536	pay	_	_	_	_
+
+537	out	_	_	_	_
+
+538	for	_	_	_	_
+
+539	expensive	_	_	_	_
+
+540	new	_	_	_	_
+
+541	software	_	_	_	_
+
+542	,	_	_	_	_
+
+543	but	_	_	_	_
+
+544	the	_	_	_	_
+
+545	returns	_	_	_	_
+
+546	of	_	_	_	_
+
+547	regular	_	_	_	_
+
+548	releases	_	_	_	_
+
+549	have	_	_	_	_
+
+550	been	_	_	_	_
+
+551	quick	_	_	_	_
+
+552	bug	_	_	_	_
+
+553	fixes	_	_	_	_
+
+554	and	_	_	_	_
+
+555	leading	_	_	_	_
+
+556	edge	_	_	_	_
+
+557	technology	_	_	_	_
+
+558	.	_	_	_	_

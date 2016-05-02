@@ -1,157 +1,242 @@
-1	Technical	_	_	_
-2	problem	B-E-31	B-CERTAIN-31	B-POS-31
-3	on	_	_	_
-4	Airbus	_	_	_
-5	A400M	_	_	_
-6	maiden	_	_	_
-7	flight	B-E-34	B-CERTAIN-34	B-POS-34
+1	Technical	_	_	_	_
+2	problem	B-E-13	B-CERTAIN-13	B-POS-13	B-NON_FUTURE-13
+3	on	_	_	_	_
+4	Airbus	_	_	_	_
+5	A400M	_	_	_	_
+6	maiden	_	_	_	_
+7	flight	B-E-16	B-CERTAIN-16	B-POS-16	B-NON_FUTURE-16
 
-8	January	_	_	_
-9	25	_	_	_
-10	,	_	_	_
-11	2010	_	_	_
+8	January	_	_	_	_
+9	25	_	_	_	_
+10	,	_	_	_	_
+11	2010	_	_	_	_
 
-12	Airbus	_	_	_
-13	has	_	_	_
-14	confirmed	B-E-32	B-CERTAIN-32	B-POS-32
-15	that	_	_	_
-16	there	_	_	_
-17	was	B-E-30	B-CERTAIN-30	B-POS-30
-18	a	_	_	_
-19	software	_	_	_
-20	glitch	B-E-26	B-CERTAIN-26	B-POS-26
-21	on	_	_	_
-22	its	_	_	_
-23	Airbus	_	_	_
-24	A400M	_	_	_
-25	military	_	_	_
-26	transplort	_	_	_
-27	plane	_	_	_
-28	's	_	_	_
-29	maiden	_	_	_
-30	flight	B-E-33	B-CERTAIN-33	B-POS-33
-31	.	_	_	_
+12	Airbus	_	_	_	_
+13	has	_	_	_	_
+14	confirmed	B-E-14	B-CERTAIN-14	B-POS-14	B-NON_FUTURE-14
+15	that	_	_	_	_
+16	there	_	_	_	_
+17	was	B-E-12	B-CERTAIN-12	B-POS-12	B-NON_FUTURE-12
+18	a	_	_	_	_
+19	software	_	_	_	_
+20	glitch	B-E-8	B-CERTAIN-8	B-POS-8	B-NON_FUTURE-8
+21	on	_	_	_	_
+22	its	_	_	_	_
+23	Airbus	_	_	_	_
+24	A400M	_	_	_	_
+25	military	_	_	_	_
+26	transplort	_	_	_	_
+27	plane	_	_	_	_
+28	's	_	_	_	_
+29	maiden	_	_	_	_
+30	flight	B-E-15	B-CERTAIN-15	B-POS-15	B-NON_FUTURE-15
+31	.	_	_	_	_
 
-32	The	_	_	_
-33	problem	B-E-27	B-CERTAIN-27	B-POS-27
-34	was	_	_	_
-35	relatively	_	_	_
-36	minor	_	_	_
-37	,	_	_	_
-38	and	_	_	_
-39	affected	B-E-15	B-CERTAIN-15	B-POS-15
-40	the	_	_	_
-41	software	_	_	_
-42	controlling	B-E-16	B-CERTAIN-16	B-POS-16
-43	its	_	_	_
-44	engines	_	_	_
-45	.	_	_	_
+32	The	_	_	_	_
+33	problem	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+34	was	_	_	_	_
+35	relatively	_	_	_	_
+36	minor	B-E-20	B-CERTAIN-20	B-POS-20	B-NON_FUTURE-20
+37	,	_	_	_	_
+38	and	_	_	_	_
+39	affected	B-E-17	B-CERTAIN-17	B-POS-17	B-NON_FUTURE-17
+40	the	_	_	_	_
+41	software	_	_	_	_
+42	controlling	B-E-18	B-CERTAIN-18	B-POS-18	B-NON_FUTURE-18
+43	its	_	_	_	_
+44	engines	_	_	_	_
+45	.	_	_	_	_
 
-46	The	_	_	_
-47	glitch	B-E-28	B-CERTAIN-28	B-POS-28
-48	was	_	_	_
-49	not	_	_	_
-50	reported	B-E-17	B-CERTAIN-17	B-NEG-17
-51	when	_	_	_
-52	the	_	_	_
-53	plane	_	_	_
-54	made	B-E-18	B-CERTAIN-18	B-POS-18
-55	its	_	_	_
-56	maiden	_	_	_
-57	flight	B-E-19	B-CERTAIN-19	B-POS-19
-58	on	_	_	_
-59	11	_	_	_
-60	December	_	_	_
-61	--	_	_	_
-62	four	_	_	_
-63	years	_	_	_
-64	behind	_	_	_
-65	schedule	_	_	_
-66	and	_	_	_
-67	$	_	_	_
-68	7.3	_	_	_
-69	billion	_	_	_
-70	over	_	_	_
-71	budget	_	_	_
-72	,	_	_	_
-73	due	_	_	_
-74	to	_	_	_
-75	what	_	_	_
-76	the	_	_	_
-77	manufacturers	_	_	_
-78	call	B-E-20	B-CERTAIN-20	B-POS-20
-79	``	_	_	_
-80	political	_	_	_
-81	interference	B-E-29	B-CERTAIN-29	B-POS-29
-82	''	_	_	_
-83	--	_	_	_
-84	and	_	_	_
-85	only	_	_	_
-86	became	B-E-21	B-CERTAIN-21	B-POS-21
-87	public	_	_	_
-88	attention	B-E-22	B-CERTAIN-22	B-POS-22
-89	this	_	_	_
-90	weekend	_	_	_
-91	,	_	_	_
-92	when	_	_	_
-93	German	_	_	_
-94	magazine	_	_	_
-95	Der	_	_	_
-96	Spiegel	_	_	_
-97	cited	B-E-23	B-CERTAIN-23	B-POS-23
-98	confidential	_	_	_
-99	documents	_	_	_
-100	from	_	_	_
-101	engine	_	_	_
-102	maker	_	_	_
-103	Europrop	_	_	_
-104	in	_	_	_
-105	a	_	_	_
-106	report	B-E-24	B-CERTAIN-24	B-POS-24
-107	.	_	_	_
+46	The	_	_	_	_
+47	glitch	B-E-10	B-CERTAIN-10	B-POS-10	B-NON_FUTURE-10
+48	was	_	_	_	_
+49	not	_	_	_	_
+50	reported	B-E-19	B-CERTAIN-19	B-NEG-19	B-NON_FUTURE-19
+51	when	_	_	_	_
+52	the	_	_	_	_
+53	plane	_	_	_	_
+54	made	B-E-21	B-CERTAIN-21	B-POS-21	B-NON_FUTURE-21
+55	its	_	_	_	_
+56	maiden	_	_	_	_
+57	flight	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+58	on	_	_	_	_
+59	11	_	_	_	_
+60	December	_	_	_	_
+61	--	_	_	_	_
+62	four	_	_	_	_
+63	years	_	_	_	_
+64	behind	_	_	_	_
+65	schedule	_	_	_	_
+66	and	_	_	_	_
+67	$	_	_	_	_
+68	7.3	_	_	_	_
+69	billion	_	_	_	_
+70	over	_	_	_	_
+71	budget	_	_	_	_
+72	,	_	_	_	_
+73	due	_	_	_	_
+74	to	_	_	_	_
+75	what	_	_	_	_
+76	the	_	_	_	_
+77	manufacturers	_	_	_	_
+78	call	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
+79	``	_	_	_	_
+80	political	_	_	_	_
+81	interference	B-E-11	B-CERTAIN-11	B-POS-11	B-NON_FUTURE-11
+82	''	_	_	_	_
+83	--	_	_	_	_
+84	and	_	_	_	_
+85	only	_	_	_	_
+86	became	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+87	public	_	_	_	_
+88	attention	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+89	this	_	_	_	_
+90	weekend	_	_	_	_
+91	,	_	_	_	_
+92	when	_	_	_	_
+93	German	_	_	_	_
+94	magazine	_	_	_	_
+95	Der	_	_	_	_
+96	Spiegel	_	_	_	_
+97	cited	B-E-5	B-CERTAIN-5	B-POS-5	B-NON_FUTURE-5
+98	confidential	_	_	_	_
+99	documents	_	_	_	_
+100	from	_	_	_	_
+101	engine	_	_	_	_
+102	maker	_	_	_	_
+103	Europrop	_	_	_	_
+104	in	_	_	_	_
+105	a	_	_	_	_
+106	report	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+107	.	_	_	_	_
 
-108	The	_	_	_
-109	steering	_	_	_
-110	computer	_	_	_
-111	and	_	_	_
-112	backup	_	_	_
-113	system	_	_	_
-114	failed	B-E-25	B-CERTAIN-25	B-POS-25
-115	after	_	_	_
-116	thirty	_	_	_
-117	minutes	_	_	_
-118	.	_	_	_
+108	The	_	_	_	_
+109	steering	_	_	_	_
+110	computer	_	_	_	_
+111	and	_	_	_	_
+112	backup	_	_	_	_
+113	system	_	_	_	_
+114	failed	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+115	after	_	_	_	_
+116	thirty	_	_	_	_
+117	minutes	_	_	_	_
+118	.	_	_	_	_
 
-119	The	_	_	_
-120	issue	_	_	_
-121	has	_	_	_
-122	been	_	_	_
-123	resolved	_	_	_
-124	,	_	_	_
-125	according	_	_	_
-126	to	_	_	_
-127	Airbus	_	_	_
-128	spokesman	_	_	_
-129	Jaime	_	_	_
-130	Perez-Guerra	_	_	_
-131	.	_	_	_
+119	The	_	_	_	_
+120	issue	_	_	_	_
+121	has	_	_	_	_
+122	been	_	_	_	_
+123	resolved	_	_	_	_
+124	,	_	_	_	_
+125	according	_	_	_	_
+126	to	_	_	_	_
+127	Airbus	_	_	_	_
+128	spokesman	_	_	_	_
+129	Jaime	_	_	_	_
+130	Perez-Guerra	_	_	_	_
+131	.	_	_	_	_
 
-132	Apparently	_	_	_
-133	,	_	_	_
-134	the	_	_	_
-135	glitch	_	_	_
-136	led	_	_	_
-137	the	_	_	_
-138	pilots	_	_	_
-139	to	_	_	_
-140	disengage	_	_	_
-141	an	_	_	_
-142	engine	_	_	_
-143	,	_	_	_
-144	allowing	_	_	_
-145	its	_	_	_
-146	blades	_	_	_
-147	to	_	_	_
-148	turn	_	_	_
-149	freely	_	_	_
-150	.	_	_	_
+132	Apparently	_	_	_	_
+133	,	_	_	_	_
+134	the	_	_	_	_
+135	glitch	_	_	_	_
+136	led	_	_	_	_
+137	the	_	_	_	_
+138	pilots	_	_	_	_
+139	to	_	_	_	_
+140	disengage	_	_	_	_
+141	an	_	_	_	_
+142	engine	_	_	_	_
+143	,	_	_	_	_
+144	allowing	_	_	_	_
+145	its	_	_	_	_
+146	blades	_	_	_	_
+147	to	_	_	_	_
+148	turn	_	_	_	_
+149	freely	_	_	_	_
+150	.	_	_	_	_
+
+151	Since	_	_	_	_
+152	then	_	_	_	_
+153	,	_	_	_	_
+154	he	_	_	_	_
+155	says	_	_	_	_
+156	,	_	_	_	_
+157	the	_	_	_	_
+158	plane	_	_	_	_
+159	has	_	_	_	_
+160	flown	_	_	_	_
+161	for	_	_	_	_
+162	nearly	_	_	_	_
+163	thirty	_	_	_	_
+164	hours	_	_	_	_
+165	and	_	_	_	_
+166	is	_	_	_	_
+167	exceeding	_	_	_	_
+168	expectations	_	_	_	_
+169	.	_	_	_	_
+
+170	However	_	_	_	_
+171	,	_	_	_	_
+172	additional	_	_	_	_
+173	costs	_	_	_	_
+174	were	_	_	_	_
+175	involved	_	_	_	_
+176	,	_	_	_	_
+177	and	_	_	_	_
+178	European	_	_	_	_
+179	aerospace	_	_	_	_
+180	contractor	_	_	_	_
+181	EADS	_	_	_	_
+182	wants	_	_	_	_
+183	this	_	_	_	_
+184	cost	_	_	_	_
+185	to	_	_	_	_
+186	be	_	_	_	_
+187	shouldered	_	_	_	_
+188	by	_	_	_	_
+189	the	_	_	_	_
+190	seven	_	_	_	_
+191	customer	_	_	_	_
+192	nations	_	_	_	_
+193	:	_	_	_	_
+194	Belgium	_	_	_	_
+195	,	_	_	_	_
+196	France	_	_	_	_
+197	,	_	_	_	_
+198	Germany	_	_	_	_
+199	,	_	_	_	_
+200	Luxembourg	_	_	_	_
+201	,	_	_	_	_
+202	Spain	_	_	_	_
+203	,	_	_	_	_
+204	Turkey	_	_	_	_
+205	,	_	_	_	_
+206	and	_	_	_	_
+207	the	_	_	_	_
+208	United	_	_	_	_
+209	Kingdom	_	_	_	_
+210	.	_	_	_	_
+
+211	Airbus	_	_	_	_
+212	has	_	_	_	_
+213	asked	_	_	_	_
+214	that	_	_	_	_
+215	a	_	_	_	_
+216	decision	_	_	_	_
+217	on	_	_	_	_
+218	how	_	_	_	_
+219	the	_	_	_	_
+220	project	_	_	_	_
+221	is	_	_	_	_
+222	to	_	_	_	_
+223	procced	_	_	_	_
+224	be	_	_	_	_
+225	made	_	_	_	_
+226	before	_	_	_	_
+227	the	_	_	_	_
+228	end	_	_	_	_
+229	of	_	_	_	_
+230	the	_	_	_	_
+231	month	_	_	_	_
+232	.	_	_	_	_

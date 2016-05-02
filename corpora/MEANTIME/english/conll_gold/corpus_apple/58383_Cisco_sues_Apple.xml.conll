@@ -1,0 +1,412 @@
+1	Cisco	_	_	_	_
+2	sues	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+3	Apple	_	_	_	_
+4	for	_	_	_	_
+5	iPhone	_	_	_	_
+6	trademark	_	_	_	_
+
+7	January	_	_	_	_
+
+8	12	_	_	_	_
+
+9	,	_	_	_	_
+
+10	2007	_	_	_	_
+
+11	The	_	_	_	_
+
+12	iPhone	_	_	_	_
+
+13	only	_	_	_	_
+
+14	made	B-E-15	B-CERTAIN-15	B-POS-15	B-NON_FUTURE-15
+
+15	its	_	_	_	_
+
+16	appearance	B-E-17	B-CERTAIN-17	B-POS-17	B-NON_FUTURE-17
+
+17	as	_	_	_	_
+
+18	a	_	_	_	_
+
+19	prototype	_	_	_	_
+
+20	and	_	_	_	_
+
+21	there	_	_	_	_
+
+22	have	_	_	_	_
+
+23	been	_	_	_	_
+
+24	controversies	B-E-19	B-CERTAIN-19	B-POS-19	B-NON_FUTURE-19
+
+25	aroused	B-E-18	B-CERTAIN-18	B-POS-18	B-NON_FUTURE-18
+
+26	.	_	_	_	_
+
+27	The	_	_	_	_
+
+28	dispute	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
+
+29	has	_	_	_	_
+
+30	come	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+
+31	up	I-E-3	I-CERTAIN-3	I-POS-3	I-NON_FUTURE-3
+
+32	between	_	_	_	_
+
+33	the	_	_	_	_
+
+34	manufacturer	_	_	_	_
+
+35	of	_	_	_	_
+
+36	the	_	_	_	_
+
+37	iPhone	_	_	_	_
+
+38	(	_	_	_	_
+
+39	which	_	_	_	_
+
+40	was	_	_	_	_
+
+41	resented	B-E-5	B-CERTAIN-5	B-POS-5	B-NON_FUTURE-5
+
+42	on	_	_	_	_
+
+43	Wednesday	_	_	_	_
+
+44	for	_	_	_	_
+
+45	the	_	_	_	_
+
+46	first	_	_	_	_
+
+47	time	_	_	_	_
+
+48	)	_	_	_	_
+
+49	-	_	_	_	_
+
+50	Apple	_	_	_	_
+
+51	Inc.	_	_	_	_
+
+52	-	_	_	_	_
+
+53	and	_	_	_	_
+
+54	a	_	_	_	_
+
+55	leader	_	_	_	_
+
+56	in	_	_	_	_
+
+57	network	_	_	_	_
+
+58	and	_	_	_	_
+
+59	communication	_	_	_	_
+
+60	systems	_	_	_	_
+
+61	,	_	_	_	_
+
+62	based	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+
+63	in	_	_	_	_
+
+64	San	_	_	_	_
+
+65	Jose	_	_	_	_
+
+66	-	_	_	_	_
+
+67	Cisco	_	_	_	_
+
+68	.	_	_	_	_
+
+69	The	_	_	_	_
+
+70	company	_	_	_	_
+
+71	claims	B-E-12	B-CERTAIN-12	B-POS-12	B-NON_FUTURE-12
+
+72	to	_	_	_	_
+
+73	possess	B-E-13	B-CERTAIN-13	B-POS-13	B-NON_FUTURE-13
+
+74	the	_	_	_	_
+
+75	trademark	_	_	_	_
+
+76	for	_	_	_	_
+
+77	iPhone	_	_	_	_
+
+78	,	_	_	_	_
+
+79	and	_	_	_	_
+
+80	moreover	_	_	_	_
+
+81	,	_	_	_	_
+
+82	that	_	_	_	_
+
+83	it	_	_	_	_
+
+84	sells	B-E-14	B-CERTAIN-14	B-POS-14	B-NON_FUTURE-14
+
+85	devices	_	_	_	_
+
+86	under	_	_	_	_
+
+87	the	_	_	_	_
+
+88	same	_	_	_	_
+
+89	brand	_	_	_	_
+
+90	through	_	_	_	_
+
+91	one	_	_	_	_
+
+92	of	_	_	_	_
+
+93	its	_	_	_	_
+
+94	divisions	_	_	_	_
+
+95	.	_	_	_	_
+
+96	This	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+
+97	became	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+
+98	the	_	_	_	_
+
+99	reason	_	_	_	_
+
+100	for	_	_	_	_
+
+101	Cisco	_	_	_	_
+
+102	to	_	_	_	_
+
+103	file	B-E-8	B-CERTAIN-8	B-POS-8	B-FUTURE-8
+
+104	a	_	_	_	_
+
+105	lawsuit	B-E-9	B-CERTAIN-9	B-POS-9	B-FUTURE-9
+
+106	against	_	_	_	_
+
+107	Apple	_	_	_	_
+
+108	Inc.	_	_	_	_
+
+109	so	_	_	_	_
+
+110	that	_	_	_	_
+
+111	the	_	_	_	_
+
+112	latter	_	_	_	_
+
+113	would	_	_	_	_
+
+114	stop	B-E-10	B-POSSIBLE-10	B-POS-10	B-FUTURE-10
+
+115	selling	B-E-11	B-CERTAIN-11	B-NEG-11	B-FUTURE-11
+
+116	the	_	_	_	_
+
+117	device	_	_	_	_
+
+118	.	_	_	_	_
+
+119	Cisco	_	_	_	_
+
+120	states	_	_	_	_
+
+121	that	_	_	_	_
+
+122	it	_	_	_	_
+
+123	has	_	_	_	_
+
+124	received	_	_	_	_
+
+125	the	_	_	_	_
+
+126	trademark	_	_	_	_
+
+127	in	_	_	_	_
+
+128	2000	_	_	_	_
+
+129	,	_	_	_	_
+
+130	when	_	_	_	_
+
+131	the	_	_	_	_
+
+132	company	_	_	_	_
+
+133	overtook	_	_	_	_
+
+134	Infogear	_	_	_	_
+
+135	Technology	_	_	_	_
+
+136	Corp.,	_	_	_	_
+
+137	which	_	_	_	_
+
+138	took	_	_	_	_
+
+139	place	_	_	_	_
+
+140	in	_	_	_	_
+
+141	1996	_	_	_	_
+
+142	.	_	_	_	_
+
+143	The	_	_	_	_
+
+144	Vice	_	_	_	_
+
+145	President	_	_	_	_
+
+146	and	_	_	_	_
+
+147	general	_	_	_	_
+
+148	counsel	_	_	_	_
+
+149	of	_	_	_	_
+
+150	the	_	_	_	_
+
+151	company	_	_	_	_
+
+152	,	_	_	_	_
+
+153	Mark	_	_	_	_
+
+154	Chandler	_	_	_	_
+
+155	,	_	_	_	_
+
+156	explained	_	_	_	_
+
+157	that	_	_	_	_
+
+158	there	_	_	_	_
+
+159	was	_	_	_	_
+
+160	no	_	_	_	_
+
+161	doubt	_	_	_	_
+
+162	about	_	_	_	_
+
+163	the	_	_	_	_
+
+164	excitement	_	_	_	_
+
+165	of	_	_	_	_
+
+166	the	_	_	_	_
+
+167	new	_	_	_	_
+
+168	device	_	_	_	_
+
+169	from	_	_	_	_
+
+170	Apple	_	_	_	_
+
+171	,	_	_	_	_
+
+172	but	_	_	_	_
+
+173	they	_	_	_	_
+
+174	should	_	_	_	_
+
+175	not	_	_	_	_
+
+176	use	_	_	_	_
+
+177	a	_	_	_	_
+
+178	trademark	_	_	_	_
+
+179	,	_	_	_	_
+
+180	which	_	_	_	_
+
+181	belongs	_	_	_	_
+
+182	to	_	_	_	_
+
+183	Cisco	_	_	_	_
+
+184	.	_	_	_	_
+
+185	The	_	_	_	_
+
+186	iPhone	_	_	_	_
+
+187	developed	_	_	_	_
+
+188	by	_	_	_	_
+
+189	Cisco	_	_	_	_
+
+190	is	_	_	_	_
+
+191	a	_	_	_	_
+
+192	device	_	_	_	_
+
+193	which	_	_	_	_
+
+194	allows	_	_	_	_
+
+195	users	_	_	_	_
+
+196	to	_	_	_	_
+
+197	make	_	_	_	_
+
+198	phone	_	_	_	_
+
+199	calls	_	_	_	_
+
+200	over	_	_	_	_
+
+201	the	_	_	_	_
+
+202	voice	_	_	_	_
+
+203	over	_	_	_	_
+
+204	Internet	_	_	_	_
+
+205	protocol	_	_	_	_
+
+206	(	_	_	_	_
+
+207	VoIP	_	_	_	_
+
+208	)	_	_	_	_
+
+209	.	_	_	_	_

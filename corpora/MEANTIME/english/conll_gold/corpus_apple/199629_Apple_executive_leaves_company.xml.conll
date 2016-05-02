@@ -1,0 +1,935 @@
+1	Apple	_	_	_	_
+2	executive	_	_	_	_
+3	leaves	B-E-10	B-CERTAIN-10	B-POS-10	B-NON_FUTURE-10
+4	company	_	_	_	_
+5	after	_	_	_	_
+6	iPhone	_	_	_	_
+7	4	_	_	_	_
+8	antenna	_	_	_	_
+9	issues	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+
+10	August	_	_	_	_
+
+11	9	_	_	_	_
+
+12	,	_	_	_	_
+
+13	2010	_	_	_	_
+
+14	Mark	_	_	_	_
+
+15	Papermaster	_	_	_	_
+
+16	,	_	_	_	_
+
+17	formerly	_	_	_	_
+
+18	an	_	_	_	_
+
+19	Apple	_	_	_	_
+
+20	Inc.	_	_	_	_
+
+21	executive	_	_	_	_
+
+22	overseeing	_	_	_	_
+
+23	hardware	_	_	_	_
+
+24	engineering	_	_	_	_
+
+25	for	_	_	_	_
+
+26	the	_	_	_	_
+
+27	company	_	_	_	_
+
+28	's	_	_	_	_
+
+29	iPhone	_	_	_	_
+
+30	,	_	_	_	_
+
+31	is	_	_	_	_
+
+32	stepping	B-E-11	B-CERTAIN-11	B-POS-11	B-NON_FUTURE-11
+
+33	down	I-E-11	I-CERTAIN-11	I-POS-11	I-NON_FUTURE-11
+
+34	from	_	_	_	_
+
+35	his	_	_	_	_
+
+36	post	_	_	_	_
+
+37	.	_	_	_	_
+
+38	The	_	_	_	_
+
+39	move	B-E-12	B-CERTAIN-12	B-POS-12	B-NON_FUTURE-12
+
+40	came	B-E-13	B-CERTAIN-13	B-POS-13	B-NON_FUTURE-13
+
+41	after	_	_	_	_
+
+42	Apple	_	_	_	_
+
+43	received	B-E-14	B-CERTAIN-14	B-POS-14	B-NON_FUTURE-14
+
+44	criticism	B-E-15	B-CERTAIN-15	B-POS-15	B-NON_FUTURE-15
+
+45	last	_	_	_	_
+
+46	month	_	_	_	_
+
+47	for	_	_	_	_
+
+48	the	_	_	_	_
+
+49	placement	B-E-16	B-CERTAIN-16	B-POS-16	B-NON_FUTURE-16
+
+50	of	_	_	_	_
+
+51	the	_	_	_	_
+
+52	antenna	_	_	_	_
+
+53	on	_	_	_	_
+
+54	their	_	_	_	_
+
+55	most	_	_	_	_
+
+56	recent	_	_	_	_
+
+57	iPhone	_	_	_	_
+
+58	model	_	_	_	_
+
+59	,	_	_	_	_
+
+60	iPhone	_	_	_	_
+
+61	4	_	_	_	_
+
+62	.	_	_	_	_
+
+63	Apple	_	_	_	_
+
+64	confirmed	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+
+65	that	_	_	_	_
+
+66	Papermaster	_	_	_	_
+
+67	,	_	_	_	_
+
+68	49	_	_	_	_
+
+69	,	_	_	_	_
+
+70	had	_	_	_	_
+
+71	left	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
+
+72	the	_	_	_	_
+
+73	company	_	_	_	_
+
+74	,	_	_	_	_
+
+75	but	_	_	_	_
+
+76	did	_	_	_	_
+
+77	not	_	_	_	_
+
+78	say	B-E-3	B-CERTAIN-3	B-NEG-3	B-NON_FUTURE-3
+
+79	whether	_	_	_	_
+
+80	he	_	_	_	_
+
+81	decided	B-E-4	B-UNDERSPECIFIED-4	B-UNDERSPECIFIED-4	B-NON_FUTURE-4
+
+82	to	_	_	_	_
+
+83	leave	B-E-5	B-UNDERSPECIFIED-5	B-UNDERSPECIFIED-5	B-FUTURE-5
+
+84	or	_	_	_	_
+
+85	was	_	_	_	_
+
+86	forced	B-E-6	B-UNDERSPECIFIED-6	B-UNDERSPECIFIED-6	B-NON_FUTURE-6
+
+87	out	_	_	_	_
+
+88	.	_	_	_	_
+
+89	Papermaster	_	_	_	_
+
+90	did	_	_	_	_
+
+91	not	_	_	_	_
+
+92	comment	B-E-7	B-CERTAIN-7	B-NEG-7	B-NON_FUTURE-7
+
+93	on	_	_	_	_
+
+94	the	_	_	_	_
+
+95	situation	B-E-8	B-CERTAIN-8	B-POS-8	B-NON_FUTURE-8
+
+96	.	_	_	_	_
+
+97	According	_	_	_	_
+
+98	to	_	_	_	_
+
+99	The	_	_	_	_
+
+100	New	_	_	_	_
+
+101	York	_	_	_	_
+
+102	Times	_	_	_	_
+
+103	,	_	_	_	_
+
+104	who	_	_	_	_
+
+105	first	_	_	_	_
+
+106	broke	_	_	_	_
+
+107	the	_	_	_	_
+
+108	news	_	_	_	_
+
+109	about	_	_	_	_
+
+110	Papermaster	_	_	_	_
+
+111	's	_	_	_	_
+
+112	departure	_	_	_	_
+
+113	,	_	_	_	_
+
+114	an	_	_	_	_
+
+115	anonymous	_	_	_	_
+
+116	individual	_	_	_	_
+
+117	"	_	_	_	_
+
+118	with	_	_	_	_
+
+119	direct	_	_	_	_
+
+120	knowledge	_	_	_	_
+
+121	of	_	_	_	_
+
+122	the	_	_	_	_
+
+123	situation	_	_	_	_
+
+124	"	_	_	_	_
+
+125	claimed	_	_	_	_
+
+126	that	_	_	_	_
+
+127	the	_	_	_	_
+
+128	former	_	_	_	_
+
+129	executive	_	_	_	_
+
+130	had	_	_	_	_
+
+131	been	_	_	_	_
+
+132	ousted	_	_	_	_
+
+133	over	_	_	_	_
+
+134	various	_	_	_	_
+
+135	hardware	_	_	_	_
+
+136	issues	_	_	_	_
+
+137	,	_	_	_	_
+
+138	some	_	_	_	_
+
+139	related	_	_	_	_
+
+140	to	_	_	_	_
+
+141	the	_	_	_	_
+
+142	iPod	_	_	_	_
+
+143	Touch	_	_	_	_
+
+144	.	_	_	_	_
+
+145	When	_	_	_	_
+
+146	Apple	_	_	_	_
+
+147	CEO	_	_	_	_
+
+148	Steve	_	_	_	_
+
+149	Jobs	_	_	_	_
+
+150	first	_	_	_	_
+
+151	introduced	_	_	_	_
+
+152	iPhone	_	_	_	_
+
+153	4	_	_	_	_
+
+154	,	_	_	_	_
+
+155	he	_	_	_	_
+
+156	praised	_	_	_	_
+
+157	the	_	_	_	_
+
+158	device	_	_	_	_
+
+159	's	_	_	_	_
+
+160	antenna	_	_	_	_
+
+161	design	_	_	_	_
+
+162	.	_	_	_	_
+
+163	However	_	_	_	_
+
+164	,	_	_	_	_
+
+165	many	_	_	_	_
+
+166	consumers	_	_	_	_
+
+167	reported	_	_	_	_
+
+168	that	_	_	_	_
+
+169	,	_	_	_	_
+
+170	when	_	_	_	_
+
+171	holding	_	_	_	_
+
+172	the	_	_	_	_
+
+173	phone	_	_	_	_
+
+174	in	_	_	_	_
+
+175	a	_	_	_	_
+
+176	certain	_	_	_	_
+
+177	location	_	_	_	_
+
+178	,	_	_	_	_
+
+179	reception	_	_	_	_
+
+180	would	_	_	_	_
+
+181	decrease	_	_	_	_
+
+182	and	_	_	_	_
+
+183	sometimes	_	_	_	_
+
+184	lead	_	_	_	_
+
+185	to	_	_	_	_
+
+186	dropped	_	_	_	_
+
+187	calls	_	_	_	_
+
+188	.	_	_	_	_
+
+189	Apple	_	_	_	_
+
+190	's	_	_	_	_
+
+191	response	_	_	_	_
+
+192	to	_	_	_	_
+
+193	the	_	_	_	_
+
+194	issue	_	_	_	_
+
+195	,	_	_	_	_
+
+196	dubbed	_	_	_	_
+
+197	"	_	_	_	_
+
+198	Antennagate	_	_	_	_
+
+199	"	_	_	_	_
+
+200	by	_	_	_	_
+
+201	the	_	_	_	_
+
+202	media	_	_	_	_
+
+203	,	_	_	_	_
+
+204	was	_	_	_	_
+
+205	first	_	_	_	_
+
+206	to	_	_	_	_
+
+207	recommend	_	_	_	_
+
+208	holding	_	_	_	_
+
+209	the	_	_	_	_
+
+210	phone	_	_	_	_
+
+211	in	_	_	_	_
+
+212	a	_	_	_	_
+
+213	different	_	_	_	_
+
+214	location	_	_	_	_
+
+215	.	_	_	_	_
+
+216	They	_	_	_	_
+
+217	later	_	_	_	_
+
+218	found	_	_	_	_
+
+219	a	_	_	_	_
+
+220	related	_	_	_	_
+
+221	software	_	_	_	_
+
+222	glitch	_	_	_	_
+
+223	that	_	_	_	_
+
+224	caused	_	_	_	_
+
+225	the	_	_	_	_
+
+226	signal	_	_	_	_
+
+227	strength	_	_	_	_
+
+228	to	_	_	_	_
+
+229	be	_	_	_	_
+
+230	misreported	_	_	_	_
+
+231	on	_	_	_	_
+
+232	the	_	_	_	_
+
+233	device	_	_	_	_
+
+234	.	_	_	_	_
+
+235	In	_	_	_	_
+
+236	a	_	_	_	_
+
+237	July	_	_	_	_
+
+238	16	_	_	_	_
+
+239	press	_	_	_	_
+
+240	conference	_	_	_	_
+
+241	,	_	_	_	_
+
+242	Jobs	_	_	_	_
+
+243	said	_	_	_	_
+
+244	that	_	_	_	_
+
+245	all	_	_	_	_
+
+246	iPhone	_	_	_	_
+
+247	4	_	_	_	_
+
+248	buyers	_	_	_	_
+
+249	would	_	_	_	_
+
+250	be	_	_	_	_
+
+251	eligible	_	_	_	_
+
+252	to	_	_	_	_
+
+253	receive	_	_	_	_
+
+254	a	_	_	_	_
+
+255	free	_	_	_	_
+
+256	case	_	_	_	_
+
+257	,	_	_	_	_
+
+258	or	_	_	_	_
+
+259	"	_	_	_	_
+
+260	bumper	_	_	_	_
+
+261	,	_	_	_	_
+
+262	"	_	_	_	_
+
+263	which	_	_	_	_
+
+264	alleviates	_	_	_	_
+
+265	the	_	_	_	_
+
+266	signal	_	_	_	_
+
+267	problem	_	_	_	_
+
+268	.	_	_	_	_
+
+269	Citing	_	_	_	_
+
+270	people	_	_	_	_
+
+271	familiar	_	_	_	_
+
+272	with	_	_	_	_
+
+273	the	_	_	_	_
+
+274	situation	_	_	_	_
+
+275	,	_	_	_	_
+
+276	The	_	_	_	_
+
+277	Wall	_	_	_	_
+
+278	Street	_	_	_	_
+
+279	Journal	_	_	_	_
+
+280	reported	_	_	_	_
+
+281	that	_	_	_	_
+
+282	Papermaster	_	_	_	_
+
+283	had	_	_	_	_
+
+284	been	_	_	_	_
+
+285	pushed	_	_	_	_
+
+286	out	_	_	_	_
+
+287	due	_	_	_	_
+
+288	to	_	_	_	_
+
+289	an	_	_	_	_
+
+290	incompatibility	_	_	_	_
+
+291	with	_	_	_	_
+
+292	Apple	_	_	_	_
+
+293	's	_	_	_	_
+
+294	corporate	_	_	_	_
+
+295	culture	_	_	_	_
+
+296	.	_	_	_	_
+
+297	The	_	_	_	_
+
+298	sources	_	_	_	_
+
+299	claimed	_	_	_	_
+
+300	that	_	_	_	_
+
+301	Papermaster	_	_	_	_
+
+302	was	_	_	_	_
+
+303	not	_	_	_	_
+
+304	used	_	_	_	_
+
+305	to	_	_	_	_
+
+306	the	_	_	_	_
+
+307	environment	_	_	_	_
+
+308	or	_	_	_	_
+
+309	corporate	_	_	_	_
+
+310	politics	_	_	_	_
+
+311	and	_	_	_	_
+
+312	did	_	_	_	_
+
+313	not	_	_	_	_
+
+314	possess	_	_	_	_
+
+315	the	_	_	_	_
+
+316	creativity	_	_	_	_
+
+317	the	_	_	_	_
+
+318	company	_	_	_	_
+
+319	wanted	_	_	_	_
+
+320	to	_	_	_	_
+
+321	see	_	_	_	_
+
+322	.	_	_	_	_
+
+323	They	_	_	_	_
+
+324	also	_	_	_	_
+
+325	said	_	_	_	_
+
+326	that	_	_	_	_
+
+327	it	_	_	_	_
+
+328	was	_	_	_	_
+
+329	Jobs	_	_	_	_
+
+330	,	_	_	_	_
+
+331	not	_	_	_	_
+
+332	Papermaster	_	_	_	_
+
+333	,	_	_	_	_
+
+334	who	_	_	_	_
+
+335	made	_	_	_	_
+
+336	the	_	_	_	_
+
+337	decision	_	_	_	_
+
+338	to	_	_	_	_
+
+339	proceed	_	_	_	_
+
+340	with	_	_	_	_
+
+341	iPhone	_	_	_	_
+
+342	4	_	_	_	_
+
+343	development	_	_	_	_
+
+344	even	_	_	_	_
+
+345	though	_	_	_	_
+
+346	the	_	_	_	_
+
+347	company	_	_	_	_
+
+348	had	_	_	_	_
+
+349	been	_	_	_	_
+
+350	aware	_	_	_	_
+
+351	of	_	_	_	_
+
+352	potential	_	_	_	_
+
+353	signal	_	_	_	_
+
+354	problems	_	_	_	_
+
+355	resulting	_	_	_	_
+
+356	from	_	_	_	_
+
+357	the	_	_	_	_
+
+358	antenna	_	_	_	_
+
+359	placement	_	_	_	_
+
+360	as	_	_	_	_
+
+361	early	_	_	_	_
+
+362	as	_	_	_	_
+
+363	a	_	_	_	_
+
+364	year	_	_	_	_
+
+365	ago	_	_	_	_
+
+366	.	_	_	_	_
+
+367	Papermaster	_	_	_	_
+
+368	's	_	_	_	_
+
+369	post	_	_	_	_
+
+370	will	_	_	_	_
+
+371	be	_	_	_	_
+
+372	filled	_	_	_	_
+
+373	by	_	_	_	_
+
+374	Bob	_	_	_	_
+
+375	Mansfield	_	_	_	_
+
+376	,	_	_	_	_
+
+377	Apple	_	_	_	_
+
+378	's	_	_	_	_
+
+379	senior	_	_	_	_
+
+380	vice	_	_	_	_
+
+381	president	_	_	_	_
+
+382	for	_	_	_	_
+
+383	Macintosh	_	_	_	_
+
+384	engineering	_	_	_	_
+
+385	.	_	_	_	_
+
+386	Mansfield	_	_	_	_
+
+387	was	_	_	_	_
+
+388	already	_	_	_	_
+
+389	involved	_	_	_	_
+
+390	in	_	_	_	_
+
+391	iPhone	_	_	_	_
+
+392	development	_	_	_	_
+
+393	,	_	_	_	_
+
+394	overseeing	_	_	_	_
+
+395	processor	_	_	_	_
+
+396	and	_	_	_	_
+
+397	display	_	_	_	_
+
+398	engineering	_	_	_	_
+
+399	.	_	_	_	_
+
+400	Papermaster	_	_	_	_
+
+401	had	_	_	_	_
+
+402	been	_	_	_	_
+
+403	with	_	_	_	_
+
+404	Apple	_	_	_	_
+
+405	since	_	_	_	_
+
+406	November	_	_	_	_
+
+407	2008	_	_	_	_
+
+408	,	_	_	_	_
+
+409	but	_	_	_	_
+
+410	a	_	_	_	_
+
+411	United	_	_	_	_
+
+412	States	_	_	_	_
+
+413	federal	_	_	_	_
+
+414	judge	_	_	_	_
+
+415	barred	_	_	_	_
+
+416	him	_	_	_	_
+
+417	from	_	_	_	_
+
+418	working	_	_	_	_
+
+419	until	_	_	_	_
+
+420	April	_	_	_	_
+
+421	2009	_	_	_	_
+
+422	.	_	_	_	_
+
+423	He	_	_	_	_
+
+424	had	_	_	_	_
+
+425	previously	_	_	_	_
+
+426	held	_	_	_	_
+
+427	a	_	_	_	_
+
+428	senior	_	_	_	_
+
+429	position	_	_	_	_
+
+430	with	_	_	_	_
+
+431	IBM	_	_	_	_
+
+432	,	_	_	_	_
+
+433	where	_	_	_	_
+
+434	he	_	_	_	_
+
+435	had	_	_	_	_
+
+436	worked	_	_	_	_
+
+437	for	_	_	_	_
+
+438	25	_	_	_	_
+
+439	years	_	_	_	_
+
+440	.	_	_	_	_
+
+441	IBM	_	_	_	_
+
+442	sued	_	_	_	_
+
+443	Papermaster	_	_	_	_
+
+444	in	_	_	_	_
+
+445	an	_	_	_	_
+
+446	attempt	_	_	_	_
+
+447	to	_	_	_	_
+
+448	block	_	_	_	_
+
+449	him	_	_	_	_
+
+450	from	_	_	_	_
+
+451	joining	_	_	_	_
+
+452	Apple	_	_	_	_
+
+453	,	_	_	_	_
+
+454	but	_	_	_	_
+
+455	a	_	_	_	_
+
+456	settlement	_	_	_	_
+
+457	was	_	_	_	_
+
+458	reached	_	_	_	_
+
+459	after	_	_	_	_
+
+460	he	_	_	_	_
+
+461	testified	_	_	_	_
+
+462	that	_	_	_	_
+
+463	no	_	_	_	_
+
+464	IBM	_	_	_	_
+
+465	corporate	_	_	_	_
+
+466	secrets	_	_	_	_
+
+467	had	_	_	_	_
+
+468	been	_	_	_	_
+
+469	disclosed	_	_	_	_
+
+470	to	_	_	_	_
+
+471	Apple	_	_	_	_
+
+472	.	_	_	_	_

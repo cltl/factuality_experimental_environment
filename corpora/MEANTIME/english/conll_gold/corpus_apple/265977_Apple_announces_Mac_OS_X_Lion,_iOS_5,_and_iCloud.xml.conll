@@ -1,0 +1,1384 @@
+1	Apple	_	_	_	_
+2	announces	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+3	Mac	_	_	_	_
+4	OS	_	_	_	_
+5	X	_	_	_	_
+6	Lion	_	_	_	_
+7	,	_	_	_	_
+8	iOS	_	_	_	_
+9	5	_	_	_	_
+10	,	_	_	_	_
+11	and	_	_	_	_
+12	iCloud	_	_	_	_
+
+13	June	_	_	_	_
+
+14	07	_	_	_	_
+
+15	,	_	_	_	_
+
+16	2011	_	_	_	_
+
+17	At	_	_	_	_
+
+18	the	_	_	_	_
+
+19	company	_	_	_	_
+
+20	's	_	_	_	_
+
+21	own	_	_	_	_
+
+22	Worldwide	_	_	_	_
+
+23	Developers	_	_	_	_
+
+24	Conference	B-E-10	B-CERTAIN-10	B-POS-10	B-NON_FUTURE-10
+
+25	(	_	_	_	_
+
+26	WWDC	B-E-11	B-CERTAIN-11	B-POS-11	B-NON_FUTURE-11
+
+27	)	_	_	_	_
+
+28	keynote	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+
+29	at	_	_	_	_
+
+30	the	_	_	_	_
+
+31	Moscone	_	_	_	_
+
+32	West	_	_	_	_
+
+33	center	_	_	_	_
+
+34	in	_	_	_	_
+
+35	San	_	_	_	_
+
+36	Francisco	_	_	_	_
+
+37	,	_	_	_	_
+
+38	Apple	_	_	_	_
+
+39	CEO	_	_	_	_
+
+40	Steve	_	_	_	_
+
+41	Jobs	_	_	_	_
+
+42	introduced	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
+
+43	the	_	_	_	_
+
+44	next	_	_	_	_
+
+45	generation	_	_	_	_
+
+46	of	_	_	_	_
+
+47	software	_	_	_	_
+
+48	products	_	_	_	_
+
+49	from	_	_	_	_
+
+50	Apple	_	_	_	_
+
+51	.	_	_	_	_
+
+52	Apple	_	_	_	_
+
+53	unveiled	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+
+54	Lion	_	_	_	_
+
+55	,	_	_	_	_
+
+56	the	_	_	_	_
+
+57	new	_	_	_	_
+
+58	version	_	_	_	_
+
+59	of	_	_	_	_
+
+60	their	_	_	_	_
+
+61	Mac	_	_	_	_
+
+62	OS	_	_	_	_
+
+63	X	_	_	_	_
+
+64	operating	_	_	_	_
+
+65	system	_	_	_	_
+
+66	for	_	_	_	_
+
+67	desktop	_	_	_	_
+
+68	and	_	_	_	_
+
+69	laptop	_	_	_	_
+
+70	computers	_	_	_	_
+
+71	that	_	_	_	_
+
+72	brings	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+
+73	new	_	_	_	_
+
+74	features	_	_	_	_
+
+75	to	_	_	_	_
+
+76	the	_	_	_	_
+
+77	software	_	_	_	_
+
+78	.	_	_	_	_
+
+79	They	_	_	_	_
+
+80	also	_	_	_	_
+
+81	demonstrated	B-E-5	B-CERTAIN-5	B-POS-5	B-NON_FUTURE-5
+
+82	iOS	_	_	_	_
+
+83	5	_	_	_	_
+
+84	,	_	_	_	_
+
+85	a	_	_	_	_
+
+86	new	_	_	_	_
+
+87	version	_	_	_	_
+
+88	of	_	_	_	_
+
+89	the	_	_	_	_
+
+90	operating	_	_	_	_
+
+91	system	_	_	_	_
+
+92	that	_	_	_	_
+
+93	powers	_	_	_	_
+
+94	iPhones	_	_	_	_
+
+95	,	_	_	_	_
+
+96	iPod	_	_	_	_
+
+97	Touches	_	_	_	_
+
+98	,	_	_	_	_
+
+99	and	_	_	_	_
+
+100	iPads	_	_	_	_
+
+101	.	_	_	_	_
+
+102	Alongside	_	_	_	_
+
+103	both	_	_	_	_
+
+104	announcements	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+
+105	,	_	_	_	_
+
+106	Jobs	_	_	_	_
+
+107	also	_	_	_	_
+
+108	announced	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+
+109	a	_	_	_	_
+
+110	new	_	_	_	_
+
+111	iCloud	_	_	_	_
+
+112	service	_	_	_	_
+
+113	to	_	_	_	_
+
+114	sync	B-E-8	B-CERTAIN-8	B-POS-8	B-UNDERSPECIFIED-8
+
+115	data	_	_	_	_
+
+116	among	_	_	_	_
+
+117	all	_	_	_	_
+
+118	devices	_	_	_	_
+
+119	.	_	_	_	_
+
+120	All	_	_	_	_
+
+121	5,200	_	_	_	_
+
+122	participating	_	_	_	_
+
+123	developers	_	_	_	_
+
+124	will	_	_	_	_
+
+125	spend	_	_	_	_
+
+126	the	_	_	_	_
+
+127	rest	_	_	_	_
+
+128	of	_	_	_	_
+
+129	the	_	_	_	_
+
+130	week	_	_	_	_
+
+131	in	_	_	_	_
+
+132	workshops	_	_	_	_
+
+133	with	_	_	_	_
+
+134	Apple	_	_	_	_
+
+135	employees	_	_	_	_
+
+136	;	_	_	_	_
+
+137	developer	_	_	_	_
+
+138	releases	_	_	_	_
+
+139	of	_	_	_	_
+
+140	each	_	_	_	_
+
+141	product	_	_	_	_
+
+142	were	_	_	_	_
+
+143	made	_	_	_	_
+
+144	available	_	_	_	_
+
+145	today	_	_	_	_
+
+146	.	_	_	_	_
+
+147	Mac	_	_	_	_
+
+148	OS	_	_	_	_
+
+149	X	_	_	_	_
+
+150	Lion	_	_	_	_
+
+151	will	_	_	_	_
+
+152	be	_	_	_	_
+
+153	shipped	_	_	_	_
+
+154	in	_	_	_	_
+
+155	July	_	_	_	_
+
+156	through	_	_	_	_
+
+157	the	_	_	_	_
+
+158	online	_	_	_	_
+
+159	Mac	_	_	_	_
+
+160	App	_	_	_	_
+
+161	Store	_	_	_	_
+
+162	available	_	_	_	_
+
+163	on	_	_	_	_
+
+164	Mac	_	_	_	_
+
+165	computers	_	_	_	_
+
+166	for	_	_	_	_
+
+167	US$	_	_	_	_
+
+168	29	_	_	_	_
+
+169	.	_	_	_	_
+
+170	According	_	_	_	_
+
+171	to	_	_	_	_
+
+172	Apple	_	_	_	_
+
+173	,	_	_	_	_
+
+174	the	_	_	_	_
+
+175	update	_	_	_	_
+
+176	adds	_	_	_	_
+
+177	over	_	_	_	_
+
+178	250	_	_	_	_
+
+179	new	_	_	_	_
+
+180	features	_	_	_	_
+
+181	to	_	_	_	_
+
+182	the	_	_	_	_
+
+183	OS	_	_	_	_
+
+184	.	_	_	_	_
+
+185	Employee	_	_	_	_
+
+186	Phil	_	_	_	_
+
+187	Schiller	_	_	_	_
+
+188	discussed	_	_	_	_
+
+189	new	_	_	_	_
+
+190	multitouch	_	_	_	_
+
+191	gestures	_	_	_	_
+
+192	along	_	_	_	_
+
+193	with	_	_	_	_
+
+194	a	_	_	_	_
+
+195	dynamic	_	_	_	_
+
+196	task	_	_	_	_
+
+197	manager	_	_	_	_
+
+198	named	_	_	_	_
+
+199	Mission	_	_	_	_
+
+200	Control	_	_	_	_
+
+201	that	_	_	_	_
+
+202	shows	_	_	_	_
+
+203	open	_	_	_	_
+
+204	applications	_	_	_	_
+
+205	.	_	_	_	_
+
+206	During	_	_	_	_
+
+207	the	_	_	_	_
+
+208	keynote	_	_	_	_
+
+209	,	_	_	_	_
+
+210	Schiller	_	_	_	_
+
+211	said	_	_	_	_
+
+212	,	_	_	_	_
+
+213	``	_	_	_	_
+
+214	The	_	_	_	_
+
+215	Mac	_	_	_	_
+
+216	has	_	_	_	_
+
+217	outpaced	_	_	_	_
+
+218	the	_	_	_	_
+
+219	PC	_	_	_	_
+
+220	industry	_	_	_	_
+
+221	every	_	_	_	_
+
+222	quarter	_	_	_	_
+
+223	for	_	_	_	_
+
+224	five	_	_	_	_
+
+225	years	_	_	_	_
+
+226	running	_	_	_	_
+
+227	and	_	_	_	_
+
+228	with	_	_	_	_
+
+229	OS	_	_	_	_
+
+230	X	_	_	_	_
+
+231	Lion	_	_	_	_
+
+232	we	_	_	_	_
+
+233	plan	_	_	_	_
+
+234	to	_	_	_	_
+
+235	keep	_	_	_	_
+
+236	extending	_	_	_	_
+
+237	our	_	_	_	_
+
+238	lead	_	_	_	_
+
+239	.	_	_	_	_
+
+240	''	_	_	_	_
+
+241	It	_	_	_	_
+
+242	also	_	_	_	_
+
+243	adds	_	_	_	_
+
+244	full	_	_	_	_
+
+245	support	_	_	_	_
+
+246	for	_	_	_	_
+
+247	the	_	_	_	_
+
+248	Mac	_	_	_	_
+
+249	port	_	_	_	_
+
+250	of	_	_	_	_
+
+251	the	_	_	_	_
+
+252	popular	_	_	_	_
+
+253	App	_	_	_	_
+
+254	Store	_	_	_	_
+
+255	,	_	_	_	_
+
+256	full	_	_	_	_
+
+257	screen	_	_	_	_
+
+258	applications	_	_	_	_
+
+259	,	_	_	_	_
+
+260	iOS-style	_	_	_	_
+
+261	app	_	_	_	_
+
+262	icon	_	_	_	_
+
+263	lists	_	_	_	_
+
+264	called	_	_	_	_
+
+265	Launchpad	_	_	_	_
+
+266	,	_	_	_	_
+
+267	and	_	_	_	_
+
+268	other	_	_	_	_
+
+269	iOS-like	_	_	_	_
+
+270	features	_	_	_	_
+
+271	including	_	_	_	_
+
+272	a	_	_	_	_
+
+273	revamped	_	_	_	_
+
+274	Mail	_	_	_	_
+
+275	and	_	_	_	_
+
+276	Auto	_	_	_	_
+
+277	Save	_	_	_	_
+
+278	among	_	_	_	_
+
+279	others	_	_	_	_
+
+280	.	_	_	_	_
+
+281	Mac	_	_	_	_
+
+282	OS	_	_	_	_
+
+283	X	_	_	_	_
+
+284	Lion	_	_	_	_
+
+285	was	_	_	_	_
+
+286	announced	_	_	_	_
+
+287	at	_	_	_	_
+
+288	a	_	_	_	_
+
+289	different	_	_	_	_
+
+290	Apple	_	_	_	_
+
+291	event	_	_	_	_
+
+292	several	_	_	_	_
+
+293	months	_	_	_	_
+
+294	ago	_	_	_	_
+
+295	and	_	_	_	_
+
+296	will	_	_	_	_
+
+297	replace	_	_	_	_
+
+298	Mac	_	_	_	_
+
+299	OS	_	_	_	_
+
+300	X	_	_	_	_
+
+301	Snow	_	_	_	_
+
+302	Leopard	_	_	_	_
+
+303	,	_	_	_	_
+
+304	which	_	_	_	_
+
+305	was	_	_	_	_
+
+306	released	_	_	_	_
+
+307	in	_	_	_	_
+
+308	2009	_	_	_	_
+
+309	.	_	_	_	_
+
+310	Soon	_	_	_	_
+
+311	after	_	_	_	_
+
+312	,	_	_	_	_
+
+313	the	_	_	_	_
+
+314	company	_	_	_	_
+
+315	also	_	_	_	_
+
+316	introduced	_	_	_	_
+
+317	the	_	_	_	_
+
+318	latest	_	_	_	_
+
+319	installment	_	_	_	_
+
+320	in	_	_	_	_
+
+321	its	_	_	_	_
+
+322	popular	_	_	_	_
+
+323	mobile	_	_	_	_
+
+324	operating	_	_	_	_
+
+325	system	_	_	_	_
+
+326	iOS	_	_	_	_
+
+327	.	_	_	_	_
+
+328	The	_	_	_	_
+
+329	fifth	_	_	_	_
+
+330	version	_	_	_	_
+
+331	(	_	_	_	_
+
+332	iOS	_	_	_	_
+
+333	5	_	_	_	_
+
+334	)	_	_	_	_
+
+335	introduces	_	_	_	_
+
+336	around	_	_	_	_
+
+337	200	_	_	_	_
+
+338	new	_	_	_	_
+
+339	features	_	_	_	_
+
+340	,	_	_	_	_
+
+341	including	_	_	_	_
+
+342	a	_	_	_	_
+
+343	revamped	_	_	_	_
+
+344	notification	_	_	_	_
+
+345	system	_	_	_	_
+
+346	,	_	_	_	_
+
+347	which	_	_	_	_
+
+348	combines	_	_	_	_
+
+349	messages	_	_	_	_
+
+350	and	_	_	_	_
+
+351	notifications	_	_	_	_
+
+352	from	_	_	_	_
+
+353	all	_	_	_	_
+
+354	applications	_	_	_	_
+
+355	installed	_	_	_	_
+
+356	on	_	_	_	_
+
+357	the	_	_	_	_
+
+358	user	_	_	_	_
+
+359	's	_	_	_	_
+
+360	device	_	_	_	_
+
+361	.	_	_	_	_
+
+362	Scott	_	_	_	_
+
+363	Forestall	_	_	_	_
+
+364	,	_	_	_	_
+
+365	an	_	_	_	_
+
+366	Apple	_	_	_	_
+
+367	employee	_	_	_	_
+
+368	,	_	_	_	_
+
+369	also	_	_	_	_
+
+370	revealed	_	_	_	_
+
+371	that	_	_	_	_
+
+372	iOS	_	_	_	_
+
+373	devices	_	_	_	_
+
+374	would	_	_	_	_
+
+375	no	_	_	_	_
+
+376	longer	_	_	_	_
+
+377	require	_	_	_	_
+
+378	a	_	_	_	_
+
+379	computer	_	_	_	_
+
+380	for	_	_	_	_
+
+381	setup	_	_	_	_
+
+382	,	_	_	_	_
+
+383	allowing	_	_	_	_
+
+384	users	_	_	_	_
+
+385	to	_	_	_	_
+
+386	`	_	_	_	_
+
+387	cut	_	_	_	_
+
+388	the	_	_	_	_
+
+389	cord	_	_	_	_
+
+390	'	_	_	_	_
+
+391	between	_	_	_	_
+
+392	their	_	_	_	_
+
+393	devices	_	_	_	_
+
+394	and	_	_	_	_
+
+395	PCs	_	_	_	_
+
+396	.	_	_	_	_
+
+397	Magazines	_	_	_	_
+
+398	and	_	_	_	_
+
+399	newspapers	_	_	_	_
+
+400	also	_	_	_	_
+
+401	have	_	_	_	_
+
+402	a	_	_	_	_
+
+403	new	_	_	_	_
+
+404	folder	_	_	_	_
+
+405	interface	_	_	_	_
+
+406	;	_	_	_	_
+
+407	the	_	_	_	_
+
+408	Twitter	_	_	_	_
+
+409	social	_	_	_	_
+
+410	network	_	_	_	_
+
+411	is	_	_	_	_
+
+412	now	_	_	_	_
+
+413	integrated	_	_	_	_
+
+414	significantly	_	_	_	_
+
+415	into	_	_	_	_
+
+416	iOS	_	_	_	_
+
+417	devices	_	_	_	_
+
+418	.	_	_	_	_
+
+419	Improvements	_	_	_	_
+
+420	to	_	_	_	_
+
+421	the	_	_	_	_
+
+422	mobile	_	_	_	_
+
+423	Safari	_	_	_	_
+
+424	browser	_	_	_	_
+
+425	were	_	_	_	_
+
+426	also	_	_	_	_
+
+427	announced	_	_	_	_
+
+428	;	_	_	_	_
+
+429	tabbed	_	_	_	_
+
+430	browsing	_	_	_	_
+
+431	and	_	_	_	_
+
+432	a	_	_	_	_
+
+433	Reader	_	_	_	_
+
+434	feature	_	_	_	_
+
+435	introduce	_	_	_	_
+
+436	desktop-like	_	_	_	_
+
+437	functionality	_	_	_	_
+
+438	.	_	_	_	_
+
+439	Finally	_	_	_	_
+
+440	,	_	_	_	_
+
+441	new	_	_	_	_
+
+442	camera	_	_	_	_
+
+443	features	_	_	_	_
+
+444	are	_	_	_	_
+
+445	built	_	_	_	_
+
+446	in	_	_	_	_
+
+447	,	_	_	_	_
+
+448	including	_	_	_	_
+
+449	the	_	_	_	_
+
+450	ability	_	_	_	_
+
+451	to	_	_	_	_
+
+452	take	_	_	_	_
+
+453	snapshots	_	_	_	_
+
+454	from	_	_	_	_
+
+455	the	_	_	_	_
+
+456	lock	_	_	_	_
+
+457	screen	_	_	_	_
+
+458	,	_	_	_	_
+
+459	as	_	_	_	_
+
+460	well	_	_	_	_
+
+461	as	_	_	_	_
+
+462	iMessages	_	_	_	_
+
+463	,	_	_	_	_
+
+464	a	_	_	_	_
+
+465	new	_	_	_	_
+
+466	messaging	_	_	_	_
+
+467	platform	_	_	_	_
+
+468	for	_	_	_	_
+
+469	iPhones	_	_	_	_
+
+470	and	_	_	_	_
+
+471	iPads	_	_	_	_
+
+472	.	_	_	_	_
+
+473	CEO	_	_	_	_
+
+474	Steve	_	_	_	_
+
+475	Jobs	_	_	_	_
+
+476	returned	_	_	_	_
+
+477	to	_	_	_	_
+
+478	the	_	_	_	_
+
+479	stage	_	_	_	_
+
+480	to	_	_	_	_
+
+481	reveal	_	_	_	_
+
+482	Apple	_	_	_	_
+
+483	's	_	_	_	_
+
+484	new	_	_	_	_
+
+485	cloud	_	_	_	_
+
+486	services	_	_	_	_
+
+487	offering	_	_	_	_
+
+488	,	_	_	_	_
+
+489	iCloud	_	_	_	_
+
+490	.	_	_	_	_
+
+491	The	_	_	_	_
+
+492	service	_	_	_	_
+
+493	integrates	_	_	_	_
+
+494	with	_	_	_	_
+
+495	Lion	_	_	_	_
+
+496	and	_	_	_	_
+
+497	iOS	_	_	_	_
+
+498	applications	_	_	_	_
+
+499	and	_	_	_	_
+
+500	syncs	_	_	_	_
+
+501	data	_	_	_	_
+
+502	between	_	_	_	_
+
+503	a	_	_	_	_
+
+504	user	_	_	_	_
+
+505	's	_	_	_	_
+
+506	iOS	_	_	_	_
+
+507	devices	_	_	_	_
+
+508	.	_	_	_	_
+
+509	For	_	_	_	_
+
+510	example	_	_	_	_
+
+511	,	_	_	_	_
+
+512	calendar	_	_	_	_
+
+513	events	_	_	_	_
+
+514	created	_	_	_	_
+
+515	on	_	_	_	_
+
+516	a	_	_	_	_
+
+517	user	_	_	_	_
+
+518	's	_	_	_	_
+
+519	laptop	_	_	_	_
+
+520	would	_	_	_	_
+
+521	be	_	_	_	_
+
+522	sent	_	_	_	_
+
+523	to	_	_	_	_
+
+524	their	_	_	_	_
+
+525	iPhone	_	_	_	_
+
+526	through	_	_	_	_
+
+527	iCloud	_	_	_	_
+
+528	.	_	_	_	_
+
+529	Apps	_	_	_	_
+
+530	,	_	_	_	_
+
+531	books	_	_	_	_
+
+532	,	_	_	_	_
+
+533	documents	_	_	_	_
+
+534	,	_	_	_	_
+
+535	photos	_	_	_	_
+
+536	,	_	_	_	_
+
+537	and	_	_	_	_
+
+538	more	_	_	_	_
+
+539	purchased	_	_	_	_
+
+540	or	_	_	_	_
+
+541	created	_	_	_	_
+
+542	on	_	_	_	_
+
+543	one	_	_	_	_
+
+544	device	_	_	_	_
+
+545	will	_	_	_	_
+
+546	be	_	_	_	_
+
+547	shared	_	_	_	_
+
+548	with	_	_	_	_
+
+549	others	_	_	_	_
+
+550	.	_	_	_	_
+
+551	The	_	_	_	_
+
+552	service	_	_	_	_
+
+553	is	_	_	_	_
+
+554	intended	_	_	_	_
+
+555	to	_	_	_	_
+
+556	launch	_	_	_	_
+
+557	in	_	_	_	_
+
+558	the	_	_	_	_
+
+559	fall	_	_	_	_
+
+560	of	_	_	_	_
+
+561	2011	_	_	_	_
+
+562	alongside	_	_	_	_
+
+563	iOS	_	_	_	_
+
+564	5	_	_	_	_
+
+565	and	_	_	_	_
+
+566	will	_	_	_	_
+
+567	be	_	_	_	_
+
+568	available	_	_	_	_
+
+569	with	_	_	_	_
+
+570	5	_	_	_	_
+
+571	gigabytes	_	_	_	_
+
+572	(	_	_	_	_
+
+573	GB	_	_	_	_
+
+574	)	_	_	_	_
+
+575	of	_	_	_	_
+
+576	storage	_	_	_	_
+
+577	for	_	_	_	_
+
+578	10	_	_	_	_
+
+579	devices	_	_	_	_
+
+580	for	_	_	_	_
+
+581	free	_	_	_	_
+
+582	.	_	_	_	_
+
+583	Earlier	_	_	_	_
+
+584	this	_	_	_	_
+
+585	year	_	_	_	_
+
+586	,	_	_	_	_
+
+587	Apple	_	_	_	_
+
+588	opened	_	_	_	_
+
+589	a	_	_	_	_
+
+590	500,000	_	_	_	_
+
+591	square	_	_	_	_
+
+592	foot	_	_	_	_
+
+593	data	_	_	_	_
+
+594	center	_	_	_	_
+
+595	in	_	_	_	_
+
+596	North	_	_	_	_
+
+597	Carolina	_	_	_	_
+
+598	intended	_	_	_	_
+
+599	to	_	_	_	_
+
+600	facilitate	_	_	_	_
+
+601	this	_	_	_	_
+
+602	new	_	_	_	_
+
+603	service	_	_	_	_
+
+604	.	_	_	_	_
+
+605	Jobs	_	_	_	_
+
+606	rounded	_	_	_	_
+
+607	the	_	_	_	_
+
+608	services	_	_	_	_
+
+609	off	_	_	_	_
+
+610	by	_	_	_	_
+
+611	unveiling	_	_	_	_
+
+612	a	_	_	_	_
+
+613	new	_	_	_	_
+
+614	iTunes	_	_	_	_
+
+615	feature	_	_	_	_
+
+616	that	_	_	_	_
+
+617	mirrors	_	_	_	_
+
+618	a	_	_	_	_
+
+619	user	_	_	_	_
+
+620	's	_	_	_	_
+
+621	library	_	_	_	_
+
+622	in	_	_	_	_
+
+623	the	_	_	_	_
+
+624	cloud	_	_	_	_
+
+625	,	_	_	_	_
+
+626	allowing	_	_	_	_
+
+627	them	_	_	_	_
+
+628	to	_	_	_	_
+
+629	listen	_	_	_	_
+
+630	and	_	_	_	_
+
+631	download	_	_	_	_
+
+632	music	_	_	_	_
+
+633	to	_	_	_	_
+
+634	authorized	_	_	_	_
+
+635	devices	_	_	_	_
+
+636	.	_	_	_	_
+
+637	``	_	_	_	_
+
+638	We	_	_	_	_
+
+639	are	_	_	_	_
+
+640	going	_	_	_	_
+
+641	to	_	_	_	_
+
+642	demote	_	_	_	_
+
+643	the	_	_	_	_
+
+644	PC	_	_	_	_
+
+645	to	_	_	_	_
+
+646	just	_	_	_	_
+
+647	be	_	_	_	_
+
+648	a	_	_	_	_
+
+649	device	_	_	_	_
+
+650	.	_	_	_	_
+
+651	We	_	_	_	_
+
+652	are	_	_	_	_
+
+653	going	_	_	_	_
+
+654	to	_	_	_	_
+
+655	move	_	_	_	_
+
+656	the	_	_	_	_
+
+657	digital	_	_	_	_
+
+658	hub	_	_	_	_
+
+659	,	_	_	_	_
+
+660	the	_	_	_	_
+
+661	center	_	_	_	_
+
+662	of	_	_	_	_
+
+663	your	_	_	_	_
+
+664	digital	_	_	_	_
+
+665	life	_	_	_	_
+
+666	,	_	_	_	_
+
+667	into	_	_	_	_
+
+668	the	_	_	_	_
+
+669	cloud	_	_	_	_
+
+670	,	_	_	_	_
+
+671	''	_	_	_	_
+
+672	said	_	_	_	_
+
+673	Steve	_	_	_	_
+
+674	Jobs	_	_	_	_
+
+675	during	_	_	_	_
+
+676	the	_	_	_	_
+
+677	keynote	_	_	_	_
+
+678	.	_	_	_	_
+
+679	iCloud	_	_	_	_
+
+680	and	_	_	_	_
+
+681	iOS	_	_	_	_
+
+682	5	_	_	_	_
+
+683	will	_	_	_	_
+
+684	be	_	_	_	_
+
+685	released	_	_	_	_
+
+686	in	_	_	_	_
+
+687	the	_	_	_	_
+
+688	fall	_	_	_	_
+
+689	of	_	_	_	_
+
+690	2011	_	_	_	_
+
+691	;	_	_	_	_
+
+692	Apple	_	_	_	_
+
+693	announced	_	_	_	_
+
+694	no	_	_	_	_
+
+695	new	_	_	_	_
+
+696	hardware	_	_	_	_
+
+697	products	_	_	_	_
+
+698	.	_	_	_	_

@@ -1,0 +1,826 @@
+1	Apple	_	_	_	_
+2	Inc.	_	_	_	_
+3	CEO	_	_	_	_
+4	Steve	_	_	_	_
+5	Jobs	_	_	_	_
+6	on	_	_	_	_
+7	medical	_	_	_	_
+8	leave	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+
+9	January	_	_	_	_
+
+10	17	_	_	_	_
+
+11	,	_	_	_	_
+
+12	2011	_	_	_	_
+
+13	Steve	_	_	_	_
+
+14	Jobs	_	_	_	_
+
+15	,	_	_	_	_
+
+16	the	_	_	_	_
+
+17	chief	_	_	_	_
+
+18	executive	_	_	_	_
+
+19	officer	_	_	_	_
+
+20	of	_	_	_	_
+
+21	Apple	_	_	_	_
+
+22	Inc.,	_	_	_	_
+
+23	announced	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
+
+24	Monday	_	_	_	_
+
+25	in	_	_	_	_
+
+26	an	_	_	_	_
+
+27	internal	_	_	_	_
+
+28	memo	_	_	_	_
+
+29	that	_	_	_	_
+
+30	he	_	_	_	_
+
+31	would	_	_	_	_
+
+32	be	B-E-4	B-CERTAIN-4	B-POS-4	B-FUTURE-4
+
+33	on	_	_	_	_
+
+34	medical	_	_	_	_
+
+35	leave	B-E-5	B-CERTAIN-5	B-POS-5	B-FUTURE-5
+
+36	for	_	_	_	_
+
+37	an	_	_	_	_
+
+38	undetermined	_	_	_	_
+
+39	period	_	_	_	_
+
+40	of	_	_	_	_
+
+41	time	_	_	_	_
+
+42	.	_	_	_	_
+
+43	The	_	_	_	_
+
+44	statement	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+
+45	caused	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+
+46	a	_	_	_	_
+
+47	sharp	_	_	_	_
+
+48	decrease	B-E-8	B-CERTAIN-8	B-POS-8	B-NON_FUTURE-8
+
+49	of	_	_	_	_
+
+50	Apple	_	_	_	_
+
+51	share	_	_	_	_
+
+52	prices	_	_	_	_
+
+53	in	_	_	_	_
+
+54	foreign	_	_	_	_
+
+55	markets	_	_	_	_
+
+56	,	_	_	_	_
+
+57	while	_	_	_	_
+
+58	US	_	_	_	_
+
+59	markets	_	_	_	_
+
+60	were	_	_	_	_
+
+61	closed	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+
+62	in	_	_	_	_
+
+63	honor	_	_	_	_
+
+64	of	_	_	_	_
+
+65	Martin	_	_	_	_
+
+66	Luther	_	_	_	_
+
+67	King	_	_	_	_
+
+68	.	_	_	_	_
+
+69	Monday	_	_	_	_
+
+70	's	_	_	_	_
+
+71	email	_	_	_	_
+
+72	announcement	B-E-10	B-CERTAIN-10	B-POS-10	B-NON_FUTURE-10
+
+73	marked	B-E-11	B-CERTAIN-11	B-POS-11	B-NON_FUTURE-11
+
+74	the	_	_	_	_
+
+75	third	_	_	_	_
+
+76	time	_	_	_	_
+
+77	in	_	_	_	_
+
+78	the	_	_	_	_
+
+79	past	_	_	_	_
+
+80	decade	_	_	_	_
+
+81	that	_	_	_	_
+
+82	Jobs	_	_	_	_
+
+83	,	_	_	_	_
+
+84	aged	_	_	_	_
+
+85	55	_	_	_	_
+
+86	,	_	_	_	_
+
+87	has	_	_	_	_
+
+88	taken	B-E-13	B-CERTAIN-13	B-POS-13	B-NON_FUTURE-13
+
+89	medical	_	_	_	_
+
+90	leave	B-E-14	B-CERTAIN-14	B-POS-14	B-NON_FUTURE-14
+
+91	.	_	_	_	_
+
+92	He	_	_	_	_
+
+93	fought	B-E-12	B-CERTAIN-12	B-POS-12	B-NON_FUTURE-12
+
+94	pancreatic	_	_	_	_
+
+95	cancer	_	_	_	_
+
+96	in	_	_	_	_
+
+97	2004	_	_	_	_
+
+98	and	_	_	_	_
+
+99	took	B-E-16	B-CERTAIN-16	B-POS-16	B-NON_FUTURE-16
+
+100	six	_	_	_	_
+
+101	months	_	_	_	_
+
+102	off	I-E-16	I-CERTAIN-16	I-POS-16	I-NON_FUTURE-16
+
+103	in	_	_	_	_
+
+104	early	_	_	_	_
+
+105	2009	_	_	_	_
+
+106	,	_	_	_	_
+
+107	later	_	_	_	_
+
+108	revealing	B-E-17	B-CERTAIN-17	B-POS-17	B-NON_FUTURE-17
+
+109	he	_	_	_	_
+
+110	had	_	_	_	_
+
+111	undergone	B-E-18	B-CERTAIN-18	B-POS-18	B-NON_FUTURE-18
+
+112	a	_	_	_	_
+
+113	liver	_	_	_	_
+
+114	transplant	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+
+115	.	_	_	_	_
+
+116	Jobs	_	_	_	_
+
+117	has	_	_	_	_
+
+118	not	_	_	_	_
+
+119	yet	_	_	_	_
+
+120	mentioned	_	_	_	_
+
+121	what	_	_	_	_
+
+122	prompted	_	_	_	_
+
+123	his	_	_	_	_
+
+124	decision	_	_	_	_
+
+125	this	_	_	_	_
+
+126	time	_	_	_	_
+
+127	around	_	_	_	_
+
+128	,	_	_	_	_
+
+129	but	_	_	_	_
+
+130	said	_	_	_	_
+
+131	he	_	_	_	_
+
+132	will	_	_	_	_
+
+133	still	_	_	_	_
+
+134	be	_	_	_	_
+
+135	the	_	_	_	_
+
+136	company	_	_	_	_
+
+137	's	_	_	_	_
+
+138	CEO	_	_	_	_
+
+139	.	_	_	_	_
+
+140	He	_	_	_	_
+
+141	left	_	_	_	_
+
+142	current	_	_	_	_
+
+143	chief	_	_	_	_
+
+144	operating	_	_	_	_
+
+145	officer	_	_	_	_
+
+146	Timothy	_	_	_	_
+
+147	D.	_	_	_	_
+
+148	Cook	_	_	_	_
+
+149	in	_	_	_	_
+
+150	charge	_	_	_	_
+
+151	of	_	_	_	_
+
+152	day-to-day	_	_	_	_
+
+153	operations	_	_	_	_
+
+154	,	_	_	_	_
+
+155	the	_	_	_	_
+
+156	same	_	_	_	_
+
+157	move	_	_	_	_
+
+158	made	_	_	_	_
+
+159	in	_	_	_	_
+
+160	Jobs	_	_	_	_
+
+161	'	_	_	_	_
+
+162	last	_	_	_	_
+
+163	two	_	_	_	_
+
+164	absences	_	_	_	_
+
+165	.	_	_	_	_
+
+166	While	_	_	_	_
+
+167	no	_	_	_	_
+
+168	additional	_	_	_	_
+
+169	comment	_	_	_	_
+
+170	has	_	_	_	_
+
+171	been	_	_	_	_
+
+172	officially	_	_	_	_
+
+173	made	_	_	_	_
+
+174	by	_	_	_	_
+
+175	Apple	_	_	_	_
+
+176	,	_	_	_	_
+
+177	The	_	_	_	_
+
+178	New	_	_	_	_
+
+179	York	_	_	_	_
+
+180	Times	_	_	_	_
+
+181	reported	_	_	_	_
+
+182	that	_	_	_	_
+
+183	someone	_	_	_	_
+
+184	familiar	_	_	_	_
+
+185	with	_	_	_	_
+
+186	the	_	_	_	_
+
+187	situation	_	_	_	_
+
+188	said	_	_	_	_
+
+189	Jobs	_	_	_	_
+
+190	's	_	_	_	_
+
+191	health	_	_	_	_
+
+192	has	_	_	_	_
+
+193	"	_	_	_	_
+
+194	ups	_	_	_	_
+
+195	and	_	_	_	_
+
+196	downs	_	_	_	_
+
+197	"	_	_	_	_
+
+198	due	_	_	_	_
+
+199	to	_	_	_	_
+
+200	problems	_	_	_	_
+
+201	with	_	_	_	_
+
+202	his	_	_	_	_
+
+203	immune	_	_	_	_
+
+204	system	_	_	_	_
+
+205	,	_	_	_	_
+
+206	problems	_	_	_	_
+
+207	frequently	_	_	_	_
+
+208	experienced	_	_	_	_
+
+209	by	_	_	_	_
+
+210	those	_	_	_	_
+
+211	who	_	_	_	_
+
+212	have	_	_	_	_
+
+213	had	_	_	_	_
+
+214	liver	_	_	_	_
+
+215	transplants	_	_	_	_
+
+216	.	_	_	_	_
+
+217	The	_	_	_	_
+
+218	insider	_	_	_	_
+
+219	,	_	_	_	_
+
+220	who	_	_	_	_
+
+221	asked	_	_	_	_
+
+222	to	_	_	_	_
+
+223	remain	_	_	_	_
+
+224	anonymous	_	_	_	_
+
+225	,	_	_	_	_
+
+226	said	_	_	_	_
+
+227	that	_	_	_	_
+
+228	,	_	_	_	_
+
+229	over	_	_	_	_
+
+230	the	_	_	_	_
+
+231	past	_	_	_	_
+
+232	few	_	_	_	_
+
+233	weeks	_	_	_	_
+
+234	,	_	_	_	_
+
+235	Jobs	_	_	_	_
+
+236	'	_	_	_	_
+
+237	health	_	_	_	_
+
+238	appeared	_	_	_	_
+
+239	to	_	_	_	_
+
+240	be	_	_	_	_
+
+241	deteriorating	_	_	_	_
+
+242	and	_	_	_	_
+
+243	that	_	_	_	_
+
+244	he	_	_	_	_
+
+245	was	_	_	_	_
+
+246	becoming	_	_	_	_
+
+247	thinner	_	_	_	_
+
+248	.	_	_	_	_
+
+249	Lewis	_	_	_	_
+
+250	W.	_	_	_	_
+
+251	Teperman	_	_	_	_
+
+252	,	_	_	_	_
+
+253	a	_	_	_	_
+
+254	doctor	_	_	_	_
+
+255	at	_	_	_	_
+
+256	New	_	_	_	_
+
+257	York	_	_	_	_
+
+258	University	_	_	_	_
+
+259	,	_	_	_	_
+
+260	said	_	_	_	_
+
+261	,	_	_	_	_
+
+262	"	_	_	_	_
+
+263	It	_	_	_	_
+
+264	’	_	_	_	_
+
+265	s	_	_	_	_
+
+266	very	_	_	_	_
+
+267	common	_	_	_	_
+
+268	for	_	_	_	_
+
+269	transplant	_	_	_	_
+
+270	patients	_	_	_	_
+
+271	to	_	_	_	_
+
+272	have	_	_	_	_
+
+273	issues	_	_	_	_
+
+274	that	_	_	_	_
+
+275	are	_	_	_	_
+
+276	not	_	_	_	_
+
+277	life-threatening	_	_	_	_
+
+278	.	_	_	_	_
+
+279	"	_	_	_	_
+
+280	On	_	_	_	_
+
+281	its	_	_	_	_
+
+282	website	_	_	_	_
+
+283	,	_	_	_	_
+
+284	Apple	_	_	_	_
+
+285	released	_	_	_	_
+
+286	the	_	_	_	_
+
+287	text	_	_	_	_
+
+288	of	_	_	_	_
+
+289	Jobs	_	_	_	_
+
+290	's	_	_	_	_
+
+291	email	_	_	_	_
+
+292	,	_	_	_	_
+
+293	which	_	_	_	_
+
+294	reads	_	_	_	_
+
+295	:	_	_	_	_
+
+296	Team	_	_	_	_
+
+297	,	_	_	_	_
+
+298	At	_	_	_	_
+
+299	my	_	_	_	_
+
+300	request	_	_	_	_
+
+301	,	_	_	_	_
+
+302	the	_	_	_	_
+
+303	board	_	_	_	_
+
+304	of	_	_	_	_
+
+305	directors	_	_	_	_
+
+306	has	_	_	_	_
+
+307	granted	_	_	_	_
+
+308	me	_	_	_	_
+
+309	a	_	_	_	_
+
+310	medical	_	_	_	_
+
+311	leave	_	_	_	_
+
+312	of	_	_	_	_
+
+313	absence	_	_	_	_
+
+314	so	_	_	_	_
+
+315	I	_	_	_	_
+
+316	can	_	_	_	_
+
+317	focus	_	_	_	_
+
+318	on	_	_	_	_
+
+319	my	_	_	_	_
+
+320	health	_	_	_	_
+
+321	.	_	_	_	_
+
+322	I	_	_	_	_
+
+323	will	_	_	_	_
+
+324	continue	_	_	_	_
+
+325	as	_	_	_	_
+
+326	CEO	_	_	_	_
+
+327	and	_	_	_	_
+
+328	be	_	_	_	_
+
+329	involved	_	_	_	_
+
+330	in	_	_	_	_
+
+331	major	_	_	_	_
+
+332	strategic	_	_	_	_
+
+333	decisions	_	_	_	_
+
+334	for	_	_	_	_
+
+335	the	_	_	_	_
+
+336	company	_	_	_	_
+
+337	.	_	_	_	_
+
+338	I	_	_	_	_
+
+339	have	_	_	_	_
+
+340	asked	_	_	_	_
+
+341	Tim	_	_	_	_
+
+342	Cook	_	_	_	_
+
+343	to	_	_	_	_
+
+344	be	_	_	_	_
+
+345	responsible	_	_	_	_
+
+346	for	_	_	_	_
+
+347	all	_	_	_	_
+
+348	of	_	_	_	_
+
+349	Apple	_	_	_	_
+
+350	's	_	_	_	_
+
+351	day	_	_	_	_
+
+352	to	_	_	_	_
+
+353	day	_	_	_	_
+
+354	operations	_	_	_	_
+
+355	.	_	_	_	_
+
+356	I	_	_	_	_
+
+357	have	_	_	_	_
+
+358	great	_	_	_	_
+
+359	confidence	_	_	_	_
+
+360	that	_	_	_	_
+
+361	Tim	_	_	_	_
+
+362	and	_	_	_	_
+
+363	the	_	_	_	_
+
+364	rest	_	_	_	_
+
+365	of	_	_	_	_
+
+366	the	_	_	_	_
+
+367	executive	_	_	_	_
+
+368	management	_	_	_	_
+
+369	team	_	_	_	_
+
+370	will	_	_	_	_
+
+371	do	_	_	_	_
+
+372	a	_	_	_	_
+
+373	terrific	_	_	_	_
+
+374	job	_	_	_	_
+
+375	executing	_	_	_	_
+
+376	the	_	_	_	_
+
+377	exciting	_	_	_	_
+
+378	plans	_	_	_	_
+
+379	we	_	_	_	_
+
+380	have	_	_	_	_
+
+381	in	_	_	_	_
+
+382	place	_	_	_	_
+
+383	for	_	_	_	_
+
+384	2011	_	_	_	_
+
+385	.	_	_	_	_
+
+386	I	_	_	_	_
+
+387	love	_	_	_	_
+
+388	Apple	_	_	_	_
+
+389	so	_	_	_	_
+
+390	much	_	_	_	_
+
+391	and	_	_	_	_
+
+392	hope	_	_	_	_
+
+393	to	_	_	_	_
+
+394	be	_	_	_	_
+
+395	back	_	_	_	_
+
+396	as	_	_	_	_
+
+397	soon	_	_	_	_
+
+398	as	_	_	_	_
+
+399	I	_	_	_	_
+
+400	can	_	_	_	_
+
+401	.	_	_	_	_
+
+402	In	_	_	_	_
+
+403	the	_	_	_	_
+
+404	meantime	_	_	_	_
+
+405	,	_	_	_	_
+
+406	my	_	_	_	_
+
+407	family	_	_	_	_
+
+408	and	_	_	_	_
+
+409	I	_	_	_	_
+
+410	would	_	_	_	_
+
+411	deeply	_	_	_	_
+
+412	appreciate	_	_	_	_
+
+413	respect	_	_	_	_
+
+414	for	_	_	_	_
+
+415	our	_	_	_	_
+
+416	privacy	_	_	_	_
+
+417	.	_	_	_	_

@@ -1,0 +1,574 @@
+1	Apple	_	_	_	_
+2	swamped	B-E-20	B-CERTAIN-20	B-POS-20	B-NON_FUTURE-20
+3	by	_	_	_	_
+4	iPhone	_	_	_	_
+5	4	_	_	_	_
+6	pre-orders	B-E-19	B-CERTAIN-19	B-POS-19	B-NON_FUTURE-19
+
+7	June	_	_	_	_
+
+8	16	_	_	_	_
+
+9	,	_	_	_	_
+
+10	2010	_	_	_	_
+
+11	Pre-orders	B-E-14	B-CERTAIN-14	B-POS-14	B-NON_FUTURE-14
+
+12	of	_	_	_	_
+
+13	the	_	_	_	_
+
+14	recently	_	_	_	_
+
+15	announced	B-E-4	B-CERTAIN-4	B-POS-4	B-NON_FUTURE-4
+
+16	iPhone	_	_	_	_
+
+17	4	_	_	_	_
+
+18	began	B-E-16	B-CERTAIN-16	B-POS-16	B-NON_FUTURE-16
+
+19	Tuesday	_	_	_	_
+
+20	,	_	_	_	_
+
+21	overwhelming	B-E-2	B-CERTAIN-2	B-POS-2	B-NON_FUTURE-2
+
+22	Apple	_	_	_	_
+
+23	and	_	_	_	_
+
+24	AT&T	_	_	_	_
+
+25	.	_	_	_	_
+
+26	Many	_	_	_	_
+
+27	buyers	_	_	_	_
+
+28	experienced	B-E-5	B-CERTAIN-5	B-POS-5	B-NON_FUTURE-5
+
+29	issues	B-E-1	B-CERTAIN-1	B-POS-1	B-NON_FUTURE-1
+
+30	connecting	_	_	_	_
+
+31	to	_	_	_	_
+
+32	Apple	_	_	_	_
+
+33	's	_	_	_	_
+
+34	website	_	_	_	_
+
+35	and	_	_	_	_
+
+36	customer	_	_	_	_
+
+37	service	_	_	_	_
+
+38	line	_	_	_	_
+
+39	.	_	_	_	_
+
+40	Some	_	_	_	_
+
+41	had	B-E-6	B-CERTAIN-6	B-POS-6	B-NON_FUTURE-6
+
+42	difficulty	B-E-21	B-CERTAIN-21	B-POS-21	B-NON_FUTURE-21
+
+43	finishing	B-E-7	B-CERTAIN-7	B-POS-7	B-NON_FUTURE-7
+
+44	their	_	_	_	_
+
+45	orders	B-E-8	B-CERTAIN-8	B-POS-8	B-NON_FUTURE-8
+
+46	online	_	_	_	_
+
+47	,	_	_	_	_
+
+48	while	_	_	_	_
+
+49	others	_	_	_	_
+
+50	endured	B-E-9	B-CERTAIN-9	B-POS-9	B-NON_FUTURE-9
+
+51	long	_	_	_	_
+
+52	waits	B-E-10	B-CERTAIN-10	B-POS-10	B-NON_FUTURE-10
+
+53	at	_	_	_	_
+
+54	Apple	_	_	_	_
+
+55	's	_	_	_	_
+
+56	retail	_	_	_	_
+
+57	stores	_	_	_	_
+
+58	due	_	_	_	_
+
+59	to	_	_	_	_
+
+60	the	_	_	_	_
+
+61	online	_	_	_	_
+
+62	issues	B-E-18	B-CERTAIN-18	B-POS-18	B-NON_FUTURE-18
+
+63	.	_	_	_	_
+
+64	Some	_	_	_	_
+
+65	customers	_	_	_	_
+
+66	reported	B-E-11	B-CERTAIN-11	B-POS-11	B-NON_FUTURE-11
+
+67	that	_	_	_	_
+
+68	Apple	_	_	_	_
+
+69	had	_	_	_	_
+
+70	set	B-E-12	B-CERTAIN-12	B-POS-12	B-NON_FUTURE-12
+
+71	a	_	_	_	_
+
+72	recording	_	_	_	_
+
+73	on	_	_	_	_
+
+74	their	_	_	_	_
+
+75	phone	_	_	_	_
+
+76	lines	_	_	_	_
+
+77	telling	B-E-13	B-CERTAIN-13	B-POS-13	B-NON_FUTURE-13
+
+78	people	_	_	_	_
+
+79	to	_	_	_	_
+
+80	call	B-E-15	B-CERTAIN-15	B-POS-15	B-FUTURE-15
+
+81	back	_	_	_	_
+
+82	at	_	_	_	_
+
+83	a	_	_	_	_
+
+84	later	_	_	_	_
+
+85	time	_	_	_	_
+
+86	,	_	_	_	_
+
+87	and	_	_	_	_
+
+88	others	_	_	_	_
+
+89	even	_	_	_	_
+
+90	tweeted	B-E-17	B-CERTAIN-17	B-POS-17	B-NON_FUTURE-17
+
+91	about	_	_	_	_
+
+92	their	_	_	_	_
+
+93	experience	B-E-3	B-CERTAIN-3	B-POS-3	B-NON_FUTURE-3
+
+94	.	_	_	_	_
+
+95	Since	_	_	_	_
+
+96	the	_	_	_	_
+
+97	original	_	_	_	_
+
+98	iPhone	_	_	_	_
+
+99	was	_	_	_	_
+
+100	released	_	_	_	_
+
+101	in	_	_	_	_
+
+102	2007	_	_	_	_
+
+103	,	_	_	_	_
+
+104	web	_	_	_	_
+
+105	servers	_	_	_	_
+
+106	for	_	_	_	_
+
+107	both	_	_	_	_
+
+108	Apple	_	_	_	_
+
+109	and	_	_	_	_
+
+110	AT&T	_	_	_	_
+
+111	have	_	_	_	_
+
+112	experienced	_	_	_	_
+
+113	issues	_	_	_	_
+
+114	at	_	_	_	_
+
+115	every	_	_	_	_
+
+116	new	_	_	_	_
+
+117	device	_	_	_	_
+
+118	launch	_	_	_	_
+
+119	.	_	_	_	_
+
+120	Today	_	_	_	_
+
+121	's	_	_	_	_
+
+122	glitches	_	_	_	_
+
+123	were	_	_	_	_
+
+124	apparently	_	_	_	_
+
+125	in	_	_	_	_
+
+126	the	_	_	_	_
+
+127	transaction	_	_	_	_
+
+128	authorization	_	_	_	_
+
+129	process	_	_	_	_
+
+130	,	_	_	_	_
+
+131	the	_	_	_	_
+
+132	point	_	_	_	_
+
+133	when	_	_	_	_
+
+134	Apple	_	_	_	_
+
+135	transfers	_	_	_	_
+
+136	information	_	_	_	_
+
+137	over	_	_	_	_
+
+138	to	_	_	_	_
+
+139	AT&T	_	_	_	_
+
+140	servers	_	_	_	_
+
+141	.	_	_	_	_
+
+142	Other	_	_	_	_
+
+143	retailers	_	_	_	_
+
+144	,	_	_	_	_
+
+145	including	_	_	_	_
+
+146	Best	_	_	_	_
+
+147	Buy	_	_	_	_
+
+148	and	_	_	_	_
+
+149	Radio	_	_	_	_
+
+150	Shack	_	_	_	_
+
+151	,	_	_	_	_
+
+152	did	_	_	_	_
+
+153	not	_	_	_	_
+
+154	appear	_	_	_	_
+
+155	to	_	_	_	_
+
+156	be	_	_	_	_
+
+157	having	_	_	_	_
+
+158	the	_	_	_	_
+
+159	same	_	_	_	_
+
+160	problems	_	_	_	_
+
+161	.	_	_	_	_
+
+162	Representatives	_	_	_	_
+
+163	at	_	_	_	_
+
+164	several	_	_	_	_
+
+165	Apple	_	_	_	_
+
+166	Stores	_	_	_	_
+
+167	in	_	_	_	_
+
+168	the	_	_	_	_
+
+169	United	_	_	_	_
+
+170	States	_	_	_	_
+
+171	said	_	_	_	_
+
+172	that	_	_	_	_
+
+173	buyers	_	_	_	_
+
+174	should	_	_	_	_
+
+175	try	_	_	_	_
+
+176	again	_	_	_	_
+
+177	tomorrow	_	_	_	_
+
+178	.	_	_	_	_
+
+179	Neither	_	_	_	_
+
+180	company	_	_	_	_
+
+181	made	_	_	_	_
+
+182	any	_	_	_	_
+
+183	official	_	_	_	_
+
+184	statement	_	_	_	_
+
+185	about	_	_	_	_
+
+186	the	_	_	_	_
+
+187	technical	_	_	_	_
+
+188	issues	_	_	_	_
+
+189	.	_	_	_	_
+
+190	The	_	_	_	_
+
+191	newest	_	_	_	_
+
+192	iPhone	_	_	_	_
+
+193	,	_	_	_	_
+
+194	iPhone	_	_	_	_
+
+195	4	_	_	_	_
+
+196	was	_	_	_	_
+
+197	introduced	_	_	_	_
+
+198	by	_	_	_	_
+
+199	Apple	_	_	_	_
+
+200	CEO	_	_	_	_
+
+201	Steve	_	_	_	_
+
+202	Jobs	_	_	_	_
+
+203	at	_	_	_	_
+
+204	the	_	_	_	_
+
+205	company	_	_	_	_
+
+206	's	_	_	_	_
+
+207	2010	_	_	_	_
+
+208	Worldwide	_	_	_	_
+
+209	Developer	_	_	_	_
+
+210	's	_	_	_	_
+
+211	Conference	_	_	_	_
+
+212	less	_	_	_	_
+
+213	than	_	_	_	_
+
+214	two	_	_	_	_
+
+215	weeks	_	_	_	_
+
+216	ago	_	_	_	_
+
+217	.	_	_	_	_
+
+218	It	_	_	_	_
+
+219	is	_	_	_	_
+
+220	slated	_	_	_	_
+
+221	for	_	_	_	_
+
+222	a	_	_	_	_
+
+223	U.S.	_	_	_	_
+
+224	release	_	_	_	_
+
+225	on	_	_	_	_
+
+226	June	_	_	_	_
+
+227	24	_	_	_	_
+
+228	,	_	_	_	_
+
+229	starting	_	_	_	_
+
+230	at	_	_	_	_
+
+231	US	_	_	_	_
+
+232	$	_	_	_	_
+
+233	199	_	_	_	_
+
+234	.	_	_	_	_
+
+235	Ben	_	_	_	_
+
+236	Reitzes	_	_	_	_
+
+237	,	_	_	_	_
+
+238	with	_	_	_	_
+
+239	Barclays	_	_	_	_
+
+240	Capital	_	_	_	_
+
+241	,	_	_	_	_
+
+242	estimated	_	_	_	_
+
+243	that	_	_	_	_
+
+244	over	_	_	_	_
+
+245	eight	_	_	_	_
+
+246	million	_	_	_	_
+
+247	iPhones	_	_	_	_
+
+248	will	_	_	_	_
+
+249	have	_	_	_	_
+
+250	been	_	_	_	_
+
+251	sold	_	_	_	_
+
+252	by	_	_	_	_
+
+253	the	_	_	_	_
+
+254	end	_	_	_	_
+
+255	of	_	_	_	_
+
+256	the	_	_	_	_
+
+257	current	_	_	_	_
+
+258	financial	_	_	_	_
+
+259	quarter	_	_	_	_
+
+260	,	_	_	_	_
+
+261	which	_	_	_	_
+
+262	ends	_	_	_	_
+
+263	on	_	_	_	_
+
+264	June	_	_	_	_
+
+265	26	_	_	_	_
+
+266	.	_	_	_	_
+
+267	Shares	_	_	_	_
+
+268	of	_	_	_	_
+
+269	Apple	_	_	_	_
+
+270	Inc.	_	_	_	_
+
+271	rose	_	_	_	_
+
+272	US	_	_	_	_
+
+273	$	_	_	_	_
+
+274	5.41	_	_	_	_
+
+275	yesterday	_	_	_	_
+
+276	in	_	_	_	_
+
+277	regular	_	_	_	_
+
+278	trading	_	_	_	_
+
+279	,	_	_	_	_
+
+280	continuing	_	_	_	_
+
+281	their	_	_	_	_
+
+282	trend	_	_	_	_
+
+283	of	_	_	_	_
+
+284	having	_	_	_	_
+
+285	risen	_	_	_	_
+
+286	23	_	_	_	_
+
+287	percent	_	_	_	_
+
+288	this	_	_	_	_
+
+289	year	_	_	_	_
+
+290	.	_	_	_	_
