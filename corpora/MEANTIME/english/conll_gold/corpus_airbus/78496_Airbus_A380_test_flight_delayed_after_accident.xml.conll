@@ -1,7 +1,7 @@
 1	Airbus	_	_	_
 2	A380	_	_	_
-3	test	B-E-94	_-94	_-94
-4	flight	B-E I-E-37	B-CERTAIN _-37	B-NEG _-37
+3	test	B-E-37	B-CERTAIN-37	B-NEG-37
+4	flight	I-E-37	I-CERTAIN-37	I-NEG-37
 5	delayed	B-E-38	B-CERTAIN-38	B-POS-38
 6	after	_	_	_
 7	accident	B-E-21	B-CERTAIN-21	B-POS-21
@@ -12,8 +12,8 @@
 11	2007	_	_	_
 
 12	A	_	_	_
-13	test	B-E-120	_-120	_-120
-14	flight	B-E I-E-22	B-CERTAIN _-22	B-NEG _-22
+13	test	B-E-22	B-CERTAIN-22	B-NEG-22
+14	flight	I-E-22	I-CERTAIN-22	I-NEG-22
 15	of	_	_	_
 16	the	_	_	_
 17	new	_	_	_
@@ -127,7 +127,7 @@
 121	inspection	_	_	_
 122	,	_	_	_
 123	Airbus	_	_	_
-124	decided	B-E-88	_-88	_-88
+124	decided	B-E-88	B-CERTAIN-88	B-POS-88
 125	to	_	_	_
 126	remove	_	_	_
 127	both	_	_	_
@@ -142,7 +142,7 @@
 
 136	The	_	_	_
 137	plane	_	_	_
-138	left	B-E-106	_-106	_-106
+138	left	B-E-106	B-CERTAIN-106	B-POS-106
 139	four	_	_	_
 140	hours	_	_	_
 141	after	_	_	_
@@ -154,7 +154,7 @@
 147	time	_	_	_
 148	departure	_	_	_
 149	,	_	_	_
-150	carrying	B-E-76	_-76	_-76
+150	carrying	B-E-76	B-CERTAIN-76	B-POS-76
 151	150	_	_	_
 152	passengers	_	_	_
 153	.	_	_	_

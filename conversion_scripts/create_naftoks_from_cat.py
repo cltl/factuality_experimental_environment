@@ -10,7 +10,6 @@ def create_naffiles(CATdir, NAFdir):
 
     parser = etree.XMLParser(ns_clean=True)
     for f in os.listdir(CATdir):
-        print(CATdir + f)
         if not f.endswith('xml'):
             continue
         cattree = etree.parse(CATdir + f, parser)

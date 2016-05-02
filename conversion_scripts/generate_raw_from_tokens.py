@@ -39,16 +39,6 @@ def create_raw_from_tokens(infile, outfile=''):
                 raw += tok.get_text()
                 print >> sys.stderr, distance
             
-      #  elif int(myoffset) > current_offset:
-            #fill in whitespace for distance between word
-      #      distance = 
-      #      print >> sys.stderr, distance, current_offset, myoffset
-      #      raw += distance * ' '
-      #      raw += tok.get_text()
-      #      #make up for space
-      #      current_offset = int(myoffset)
-      #  else:
-      
         current_offset += int(tok.get_length())
     mynaf.set_raw(raw)
     

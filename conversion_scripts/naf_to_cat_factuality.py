@@ -86,9 +86,6 @@ def create_catfiles(nafdir, catdir):
         
         my_out = etree.tounicode(root, pretty_print=True)
         print(my_out)
-        #mycat = open(catdir + cfname,'w')
-        #mycat.write(my_out)
-#mycat.close()
 
 
 def main(argv=None):

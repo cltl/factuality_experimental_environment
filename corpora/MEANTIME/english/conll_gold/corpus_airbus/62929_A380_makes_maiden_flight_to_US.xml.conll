@@ -35,8 +35,8 @@
 33	Monday	_	_	_
 34	after	_	_	_
 35	a	_	_	_
-36	test	B-E-92	_-92	_-92
-37	flight	B-E I-E-25	B-CERTAIN _-25	B-POS _-25
+36	test	B-E-25	B-CERTAIN-25	B-POS-25
+37	flight	I-E-25	I-CERTAIN-25	I-POS-25
 38	.	_	_	_
 
 39	One	_	_	_
