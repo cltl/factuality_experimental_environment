@@ -31,7 +31,7 @@ def integrate_catevents_into_naf(nafobj, cattree, nafout):
         events.append(terms)
 
     #remove old coreferences (FIXME: this includes entity coreference)
-    #nafobj.remove_coreference_layer()
+    nafobj.remove_coreference_layer()
     coref_count = 1
     for event in events:
         mycoref = Ccoreference()
