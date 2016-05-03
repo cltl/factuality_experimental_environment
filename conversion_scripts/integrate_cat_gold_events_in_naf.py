@@ -38,8 +38,11 @@ def integrate_catevents_into_naf(nafobj, cattree, nafout):
         mycoref.set_id('coevent' + str(coref_count))
         coref_count += 1
         mycoref.add_span(event)
-        mycoref.set_type('newevent')
+        mycoref.set_type('event')
         nafobj.add_coreference(mycoref)
+    begintime = time.strftime('%Y-%m-%dT%H:%M:%S%Z')
+    lp = Clp(name="meantime-gold-events",version='oct2015',btimestamp=begintime)
+    nafobj.add_linguistic_processor('coreferences', lp)
     nafobj.dump(nafout)
 
 
