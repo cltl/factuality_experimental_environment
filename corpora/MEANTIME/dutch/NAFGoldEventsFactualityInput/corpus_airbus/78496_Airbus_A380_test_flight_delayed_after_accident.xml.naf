@@ -34,7 +34,7 @@
       <lp beginTimestamp="2016-01-12T01:27:55+0100" endTimestamp="2016-01-12T01:28:02+0100" hostname="kyoto.vu.nl" name="ixa-pipe-heideltime-nl" version="1.0.1-da4604a7b33975e977017440cbc10f7d59917ddf"/>
     </linguisticProcessors>
     <linguisticProcessors layer="coreferences">
-      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-09T12:49:16CEST" beginTimestamp="2016-05-09T12:49:16CEST" endTimestamp="2016-05-09T12:49:16CEST" hostname="Antskes-MacBook-Pro.local"/>
+      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-09T13:49:07CEST" beginTimestamp="2016-05-09T13:49:07CEST" endTimestamp="2016-05-09T13:49:07CEST" hostname="Antskes-MacBook-Pro.local"/>
     </linguisticProcessors>
   </nafHeader>
   <raw>Testvlucht Airbus A380 uitgesteld na ongeluk
@@ -9370,4 +9370,132 @@ Airbus heeft verklaard dat de demonstratietournee van het vliegtuig door Azië g
       </span>
     </timex3>
   </timeExpressions>
+  <coreferences>
+    <coref id="coevent1" type="event">
+      <span>
+        <target id="t_24"/>
+      </span>
+    </coref>
+    <coref id="coevent2" type="event">
+      <span>
+        <target id="t_28"/>
+      </span>
+    </coref>
+    <coref id="coevent3" type="event">
+      <span>
+        <target id="t_42"/>
+      </span>
+    </coref>
+    <coref id="coevent4" type="event">
+      <span>
+        <target id="t_183"/>
+      </span>
+    </coref>
+    <coref id="coevent5" type="event">
+      <span>
+        <target id="t_43"/>
+        <target id="t_44"/>
+      </span>
+    </coref>
+    <coref id="coevent6" type="event">
+      <span>
+        <target id="t_47"/>
+      </span>
+    </coref>
+    <coref id="coevent7" type="event">
+      <span>
+        <target id="t_54"/>
+      </span>
+    </coref>
+    <coref id="coevent8" type="event">
+      <span>
+        <target id="t_227"/>
+      </span>
+    </coref>
+    <coref id="coevent9" type="event">
+      <span>
+        <target id="t_56"/>
+      </span>
+    </coref>
+    <coref id="coevent10" type="event">
+      <span>
+        <target id="t_230"/>
+      </span>
+    </coref>
+    <coref id="coevent11" type="event">
+      <span>
+        <target id="t_69"/>
+      </span>
+    </coref>
+    <coref id="coevent12" type="event">
+      <span>
+        <target id="t_237"/>
+      </span>
+    </coref>
+    <coref id="coevent13" type="event">
+      <span>
+        <target id="t_76"/>
+      </span>
+    </coref>
+    <coref id="coevent14" type="event">
+      <span>
+        <target id="t_85"/>
+      </span>
+    </coref>
+    <coref id="coevent15" type="event">
+      <span>
+        <target id="t_98"/>
+      </span>
+    </coref>
+    <coref id="coevent16" type="event">
+      <span>
+        <target id="t_100"/>
+      </span>
+    </coref>
+    <coref id="coevent17" type="event">
+      <span>
+        <target id="t_105"/>
+      </span>
+    </coref>
+    <coref id="coevent18" type="event">
+      <span>
+        <target id="t_110"/>
+      </span>
+    </coref>
+    <coref id="coevent19" type="event">
+      <span>
+        <target id="t_112"/>
+      </span>
+    </coref>
+    <coref id="coevent20" type="event">
+      <span>
+        <target id="t_0"/>
+      </span>
+    </coref>
+    <coref id="coevent21" type="event">
+      <span>
+        <target id="t_3"/>
+      </span>
+    </coref>
+    <coref id="coevent22" type="event">
+      <span>
+        <target id="t_119"/>
+      </span>
+    </coref>
+    <coref id="coevent23" type="event">
+      <span>
+        <target id="t_5"/>
+      </span>
+    </coref>
+    <coref id="coevent24" type="event">
+      <span>
+        <target id="t_136"/>
+      </span>
+    </coref>
+    <coref id="coevent25" type="event">
+      <span>
+        <target id="t_8"/>
+      </span>
+    </coref>
+  </coreferences>
 </NAF>

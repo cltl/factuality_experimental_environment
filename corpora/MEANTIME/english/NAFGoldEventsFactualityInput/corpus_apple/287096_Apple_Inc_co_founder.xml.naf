@@ -34,9 +34,6 @@
     <linguisticProcessors layer="timeExpressions">
       <lp beginTimestamp="2016-05-02T11:39:15+0200" endTimestamp="2016-05-02T11:39:33+0200" hostname="kyoto.vu.nl" name="TimePro-FBK" version="v1.5, based on Yamcha"/>
     </linguisticProcessors>
-    <linguisticProcessors layer="coreferences">
-      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-03T13:44:55CEST" beginTimestamp="2016-05-03T13:44:55CEST" endTimestamp="2016-05-03T13:44:55CEST" hostname="Antskes-MacBook-Pro.local"/>
-    </linguisticProcessors>
   </nafHeader>
   <raw>Apple Inc. co-founder Steve Jobs dies aged 56 October 6, 2011 The co-founder and former chief executive officer of Apple Inc. Steve Jobs has died yesterday at the age of 56, according to the company website. On August 24, Jobs resigned from his post as CEO. He has been fighting pancreatic cancer since 2004. Jobs, born in San Francisco on February 24, 1955, has built the most valuable technology company in the world, with a market value of $ 348.8 billion. He started Apple in 1976, and in 1984 the first Macintosh personal computer was released to the public. One year later he was fired from the company and he founded NeXT. In 1986 he bought Pixar which was acquired by The Walt Disney Company in 2005. In 1996, following Apple Computer 's purchase of NeXT, Jobs returned to Apple and soon after reassumed the role of CEO. In 1998 Apple introduced the iMac personal computer, in 2001 the iPod music player and the following year the Mac OS X operating system was released. 2007 was the year of the iPhone smartphone, then the iPad tablet computer in 2010. A statement on Apple 's website, the homepage of which currently displays a black and white photograph and the text " Steve Jobs 1955-2011 ", states: “ Apple has lost a visionary and creative genius, and the world has lost an amazing human being. Those of us who have been fortunate enough to know and work with Steve have lost a dear friend and an inspiring mentor. Steve leaves behind a company that only he could have built, and his spirit will forever be the foundation of Apple. ” United States President Barack Obama said " Steve was among the greatest of American innovators — brave enough to think differently, bold enough to believe he could change the world, and talented enough to do it ". Former Microsoft CEO Bill Gates responded to Jobs ' death with a statement on his blog: " The world rarely sees someone who has had the profound impact Steve has had, the effects of which will be felt for many generations to come. ... I will miss Steve immensely. " The current Microsoft CEO Steve Ballmer also expressed condolences for Jobs and described him as " one of the founders of our industry and a true visionary ".</raw>
   <text>
@@ -15735,101 +15732,4 @@
       </externalReferences>
     </mark>
   </markables>
-  <coreferences>
-    <coref id="coevent1" type="event">
-      <span>
-        <target id="t26"/>
-      </span>
-    </coref>
-    <coref id="coevent2" type="event">
-      <span>
-        <target id="t45"/>
-      </span>
-    </coref>
-    <coref id="coevent3" type="event">
-      <span>
-        <target id="t55"/>
-      </span>
-    </coref>
-    <coref id="coevent4" type="event">
-      <span>
-        <target id="t63"/>
-      </span>
-    </coref>
-    <coref id="coevent5" type="event">
-      <span>
-        <target id="t74"/>
-      </span>
-    </coref>
-    <coref id="coevent6" type="event">
-      <span>
-        <target id="t6"/>
-      </span>
-    </coref>
-    <coref id="coevent7" type="event">
-      <span>
-        <target id="t118"/>
-      </span>
-    </coref>
-    <coref id="coevent8" type="event">
-      <span>
-        <target id="t155"/>
-      </span>
-    </coref>
-    <coref id="coevent9" type="event">
-      <span>
-        <target id="t286"/>
-      </span>
-    </coref>
-    <coref id="coevent10" type="event">
-      <span>
-        <target id="t244"/>
-      </span>
-    </coref>
-    <coref id="coevent11" type="event">
-      <span>
-        <target id="t124"/>
-      </span>
-    </coref>
-    <coref id="coevent12" type="event">
-      <span>
-        <target id="t270"/>
-      </span>
-    </coref>
-    <coref id="coevent13" type="event">
-      <span>
-        <target id="t161"/>
-      </span>
-    </coref>
-    <coref id="coevent14" type="event">
-      <span>
-        <target id="t276"/>
-      </span>
-    </coref>
-    <coref id="coevent15" type="event">
-      <span>
-        <target id="t415"/>
-      </span>
-    </coref>
-    <coref id="coevent16" type="event">
-      <span>
-        <target id="t130"/>
-      </span>
-    </coref>
-    <coref id="coevent17" type="event">
-      <span>
-        <target id="t94"/>
-      </span>
-    </coref>
-    <coref id="coevent18" type="event">
-      <span>
-        <target id="t358"/>
-      </span>
-    </coref>
-    <coref id="coevent19" type="event">
-      <span>
-        <target id="t255"/>
-      </span>
-    </coref>
-  </coreferences>
 </NAF>

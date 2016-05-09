@@ -34,7 +34,7 @@
       <lp beginTimestamp="2016-01-12T02:39:10+0100" endTimestamp="2016-01-12T02:39:13+0100" hostname="kyoto.vu.nl" name="ixa-pipe-heideltime-nl" version="1.0.1-da4604a7b33975e977017440cbc10f7d59917ddf"/>
     </linguisticProcessors>
     <linguisticProcessors layer="coreferences">
-      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-09T12:49:59CEST" beginTimestamp="2016-05-09T12:49:59CEST" endTimestamp="2016-05-09T12:49:59CEST" hostname="Antskes-MacBook-Pro.local"/>
+      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-09T13:55:30CEST" beginTimestamp="2016-05-09T13:55:30CEST" endTimestamp="2016-05-09T13:55:30CEST" hostname="Antskes-MacBook-Pro.local"/>
     </linguisticProcessors>
   </nafHeader>
   <raw>Beurzen stijgen wereldwijd na hoop op Amerikaans economisch herstel
@@ -12980,4 +12980,134 @@ Jean-Claude Trichet, president van de Europese Centrale Bank, waarschuwde dat he
       </span>
     </timex3>
   </timeExpressions>
+  <coreferences>
+    <coref id="coevent1" type="event">
+      <span>
+        <target id="t_34"/>
+      </span>
+    </coref>
+    <coref id="coevent2" type="event">
+      <span>
+        <target id="t_8"/>
+      </span>
+    </coref>
+    <coref id="coevent3" type="event">
+      <span>
+        <target id="t_36"/>
+      </span>
+    </coref>
+    <coref id="coevent4" type="event">
+      <span>
+        <target id="t_39"/>
+      </span>
+    </coref>
+    <coref id="coevent5" type="event">
+      <span>
+        <target id="t_42"/>
+      </span>
+    </coref>
+    <coref id="coevent6" type="event">
+      <span>
+        <target id="t_45"/>
+      </span>
+    </coref>
+    <coref id="coevent7" type="event">
+      <span>
+        <target id="t_49"/>
+      </span>
+    </coref>
+    <coref id="coevent8" type="event">
+      <span>
+        <target id="t_61"/>
+      </span>
+    </coref>
+    <coref id="coevent9" type="event">
+      <span>
+        <target id="t_70"/>
+        <target id="t_66"/>
+      </span>
+    </coref>
+    <coref id="coevent10" type="event">
+      <span>
+        <target id="t_79"/>
+      </span>
+    </coref>
+    <coref id="coevent11" type="event">
+      <span>
+        <target id="t_86"/>
+      </span>
+    </coref>
+    <coref id="coevent12" type="event">
+      <span>
+        <target id="t_95"/>
+      </span>
+    </coref>
+    <coref id="coevent13" type="event">
+      <span>
+        <target id="t_107"/>
+        <target id="t_104"/>
+      </span>
+    </coref>
+    <coref id="coevent14" type="event">
+      <span>
+        <target id="t_4"/>
+      </span>
+    </coref>
+    <coref id="coevent15" type="event">
+      <span>
+        <target id="t_52"/>
+      </span>
+    </coref>
+    <coref id="coevent16" type="event">
+      <span>
+        <target id="t_113"/>
+      </span>
+    </coref>
+    <coref id="coevent17" type="event">
+      <span>
+        <target id="t_116"/>
+      </span>
+    </coref>
+    <coref id="coevent18" type="event">
+      <span>
+        <target id="t_74"/>
+      </span>
+    </coref>
+    <coref id="coevent19" type="event">
+      <span>
+        <target id="t_149"/>
+        <target id="t_143"/>
+      </span>
+    </coref>
+    <coref id="coevent20" type="event">
+      <span>
+        <target id="t_1"/>
+      </span>
+    </coref>
+    <coref id="coevent21" type="event">
+      <span>
+        <target id="t_156"/>
+      </span>
+    </coref>
+    <coref id="coevent22" type="event">
+      <span>
+        <target id="t_12"/>
+      </span>
+    </coref>
+    <coref id="coevent23" type="event">
+      <span>
+        <target id="t_161"/>
+      </span>
+    </coref>
+    <coref id="coevent24" type="event">
+      <span>
+        <target id="t_28"/>
+      </span>
+    </coref>
+    <coref id="coevent25" type="event">
+      <span>
+        <target id="t_168"/>
+      </span>
+    </coref>
+  </coreferences>
 </NAF>

@@ -34,7 +34,7 @@
       <lp beginTimestamp="2016-01-11T22:52:04+0100" endTimestamp="2016-01-11T22:52:13+0100" hostname="kyoto.vu.nl" name="ixa-pipe-heideltime-nl" version="1.0.1-da4604a7b33975e977017440cbc10f7d59917ddf"/>
     </linguisticProcessors>
     <linguisticProcessors layer="coreferences">
-      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-09T12:47:50CEST" beginTimestamp="2016-05-09T12:47:50CEST" endTimestamp="2016-05-09T12:47:50CEST" hostname="Antskes-MacBook-Pro.local"/>
+      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-09T13:51:28CEST" beginTimestamp="2016-05-09T13:51:28CEST" endTimestamp="2016-05-09T13:51:28CEST" hostname="Antskes-MacBook-Pro.local"/>
     </linguisticProcessors>
   </nafHeader>
   <raw>Apple overweldigd door iPhone 4 pre-orders
@@ -11037,4 +11037,79 @@ De aandelen van Apple Inc. stegen gisteren op de beurs met US $ 5,41, waarmee de
       </span>
     </timex3>
   </timeExpressions>
+  <coreferences>
+    <coref id="coevent1" type="event">
+      <span>
+        <target id="t_38"/>
+        <target id="t_37"/>
+      </span>
+    </coref>
+    <coref id="coevent2" type="event">
+      <span>
+        <target id="t_53"/>
+      </span>
+    </coref>
+    <coref id="coevent3" type="event">
+      <span>
+        <target id="t_62"/>
+      </span>
+    </coref>
+    <coref id="coevent4" type="event">
+      <span>
+        <target id="t_70"/>
+      </span>
+    </coref>
+    <coref id="coevent5" type="event">
+      <span>
+        <target id="t_75"/>
+      </span>
+    </coref>
+    <coref id="coevent6" type="event">
+      <span>
+        <target id="t_28"/>
+      </span>
+    </coref>
+    <coref id="coevent7" type="event">
+      <span>
+        <target id="t_82"/>
+      </span>
+    </coref>
+    <coref id="coevent8" type="event">
+      <span>
+        <target id="t_90"/>
+        <target id="t_88"/>
+      </span>
+    </coref>
+    <coref id="coevent9" type="event">
+      <span>
+        <target id="t_27"/>
+      </span>
+    </coref>
+    <coref id="coevent10" type="event">
+      <span>
+        <target id="t_92"/>
+      </span>
+    </coref>
+    <coref id="coevent11" type="event">
+      <span>
+        <target id="t_1"/>
+      </span>
+    </coref>
+    <coref id="coevent12" type="event">
+      <span>
+        <target id="t_12"/>
+        <target id="t_13"/>
+      </span>
+    </coref>
+    <coref id="coevent13" type="event">
+      <span>
+        <target id="t_214"/>
+      </span>
+    </coref>
+    <coref id="coevent14" type="event">
+      <span>
+        <target id="t_231"/>
+      </span>
+    </coref>
+  </coreferences>
 </NAF>

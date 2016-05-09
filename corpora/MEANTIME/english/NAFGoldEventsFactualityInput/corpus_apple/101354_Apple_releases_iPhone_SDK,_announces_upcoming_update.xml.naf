@@ -34,9 +34,6 @@
     <linguisticProcessors layer="timeExpressions">
       <lp beginTimestamp="2016-05-02T10:56:51+0200" endTimestamp="2016-05-02T10:57:03+0200" hostname="kyoto.vu.nl" name="TimePro-FBK" version="v1.5, based on Yamcha"/>
     </linguisticProcessors>
-    <linguisticProcessors layer="coreferences">
-      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-03T13:44:54CEST" beginTimestamp="2016-05-03T13:44:54CEST" endTimestamp="2016-05-03T13:44:54CEST" hostname="Antskes-MacBook-Pro.local"/>
-    </linguisticProcessors>
   </nafHeader>
   <raw>Apple releases iPhone SDK, announces upcoming update March 06, 2008 During a media event held at its Cupertino headquarters, Apple released the long awaited iPhones Software Development Kit (SDK) and the associated iTunes ``App Store'' and iPhone Developer Program. The SDK will allow third party software developers to create applications for the iPhone and then distribute them on the iTunes Apps Stores. Any members of the iPhone Developer Program can add applications to the store for free; the program costs $ 99 (USD) to join. Developers will be able to set the price of the applications or release them for free. All applications will have to be approved by Apple before being allowed on the store. Some of the disallowed categories are ``porn'', excessive bandwidth users and anything malicious or illegal. VoIP applications would be allowed over Wi-Fi only. Enterprises can setup private pages on the store to distribute internal applications. At the event several third party developers that had been given early access to the SDK demonstrated their applications. Among the applications demonstrated were EA 's Spore, AOL 's AIM instant messenger and a client for epocrates, a drug reference service. The company also announced the iPhone 2.0 update that was released as a closed beta for developers and is scheduled for public release in June. In the new version Apple has been focusing on enterprise features in an attempt to compete with rivals like RIM 's BlackBerry and Microsoft 's Windows Mobile. The update adds support for ActiveSync, which Apple has licensed from rival Microsoft, WPA2 and virtual private network support. The update will also be available to iPod Touch users for what Steve Jobs described as ``a nominal charge'', as Apple have done in the past with the previous iPod Touch and MacBook Wi-Fi updates.</raw>
   <text>
@@ -12390,100 +12387,4 @@
       </externalReferences>
     </mark>
   </markables>
-  <coreferences>
-    <coref id="coevent1" type="event">
-      <span>
-        <target id="t80"/>
-      </span>
-    </coref>
-    <coref id="coevent2" type="event">
-      <span>
-        <target id="t97"/>
-      </span>
-    </coref>
-    <coref id="coevent3" type="event">
-      <span>
-        <target id="t104"/>
-      </span>
-    </coref>
-    <coref id="coevent4" type="event">
-      <span>
-        <target id="t111"/>
-      </span>
-    </coref>
-    <coref id="coevent5" type="event">
-      <span>
-        <target id="t17"/>
-      </span>
-    </coref>
-    <coref id="coevent6" type="event">
-      <span>
-        <target id="t2"/>
-      </span>
-    </coref>
-    <coref id="coevent7" type="event">
-      <span>
-        <target id="t6"/>
-      </span>
-    </coref>
-    <coref id="coevent8" type="event">
-      <span>
-        <target id="t8"/>
-      </span>
-    </coref>
-    <coref id="coevent9" type="event">
-      <span>
-        <target id="t90"/>
-      </span>
-    </coref>
-    <coref id="coevent10" type="event">
-      <span>
-        <target id="t101"/>
-        <target id="t102"/>
-      </span>
-    </coref>
-    <coref id="coevent11" type="event">
-      <span>
-        <target id="t104"/>
-        <target id="t111"/>
-      </span>
-    </coref>
-    <coref id="coevent12" type="event">
-      <span>
-        <target id="t2"/>
-        <target id="t6"/>
-      </span>
-    </coref>
-    <coref id="coevent13" type="event">
-      <span>
-        <target id="t15"/>
-        <target id="t16"/>
-      </span>
-    </coref>
-    <coref id="coevent14" type="event">
-      <span>
-        <target id="t24"/>
-      </span>
-    </coref>
-    <coref id="coevent15" type="event">
-      <span>
-        <target id="t51"/>
-      </span>
-    </coref>
-    <coref id="coevent16" type="event">
-      <span>
-        <target id="t57"/>
-      </span>
-    </coref>
-    <coref id="coevent17" type="event">
-      <span>
-        <target id="t64"/>
-      </span>
-    </coref>
-    <coref id="coevent18" type="event">
-      <span>
-        <target id="t308"/>
-      </span>
-    </coref>
-  </coreferences>
 </NAF>

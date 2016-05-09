@@ -34,7 +34,7 @@
       <lp beginTimestamp="2016-01-11T21:08:41+0100" endTimestamp="2016-01-11T21:08:47+0100" hostname="kyoto.vu.nl" name="ixa-pipe-heideltime-nl" version="1.0.1-da4604a7b33975e977017440cbc10f7d59917ddf"/>
     </linguisticProcessors>
     <linguisticProcessors layer="coreferences">
-      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-09T12:49:38CEST" beginTimestamp="2016-05-09T12:49:38CEST" endTimestamp="2016-05-09T12:49:38CEST" hostname="Antskes-MacBook-Pro.local"/>
+      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-09T13:54:41CEST" beginTimestamp="2016-05-09T13:54:41CEST" endTimestamp="2016-05-09T13:54:41CEST" hostname="Antskes-MacBook-Pro.local"/>
     </linguisticProcessors>
   </nafHeader>
   <raw>Chrysler vraagt faillissement aan, Fiat Group SpA neemt het roer over
@@ -17625,4 +17625,92 @@ Fiat moet een auto produceren die 40 mijl per gallon kan afleggen terwijl het he
       </span>
     </timex3>
   </timeExpressions>
+  <coreferences>
+    <coref id="coevent1" type="event">
+      <span>
+        <target id="t_17"/>
+        <target id="t_19"/>
+        <target id="t_20"/>
+      </span>
+    </coref>
+    <coref id="coevent2" type="event">
+      <span>
+        <target id="t_31"/>
+        <target id="t_25"/>
+      </span>
+    </coref>
+    <coref id="coevent3" type="event">
+      <span>
+        <target id="t_41"/>
+        <target id="t_40"/>
+      </span>
+    </coref>
+    <coref id="coevent4" type="event">
+      <span>
+        <target id="t_63"/>
+      </span>
+    </coref>
+    <coref id="coevent5" type="event">
+      <span>
+        <target id="t_81"/>
+        <target id="t_79"/>
+        <target id="t_80"/>
+      </span>
+    </coref>
+    <coref id="coevent6" type="event">
+      <span>
+        <target id="t_86"/>
+      </span>
+    </coref>
+    <coref id="coevent7" type="event">
+      <span>
+        <target id="t_168"/>
+      </span>
+    </coref>
+    <coref id="coevent8" type="event">
+      <span>
+        <target id="t_92"/>
+      </span>
+    </coref>
+    <coref id="coevent9" type="event">
+      <span>
+        <target id="t_111"/>
+      </span>
+    </coref>
+    <coref id="coevent10" type="event">
+      <span>
+        <target id="t_215"/>
+      </span>
+    </coref>
+    <coref id="coevent11" type="event">
+      <span>
+        <target id="t_2"/>
+        <target id="t_1"/>
+        <target id="t_3"/>
+      </span>
+    </coref>
+    <coref id="coevent12" type="event">
+      <span>
+        <target id="t_8"/>
+        <target id="t_9"/>
+        <target id="t_11"/>
+        <target id="t_10"/>
+      </span>
+    </coref>
+    <coref id="coevent13" type="event">
+      <span>
+        <target id="t_262"/>
+      </span>
+    </coref>
+    <coref id="coevent14" type="event">
+      <span>
+        <target id="t_270"/>
+      </span>
+    </coref>
+    <coref id="coevent15" type="event">
+      <span>
+        <target id="t_360"/>
+      </span>
+    </coref>
+  </coreferences>
 </NAF>

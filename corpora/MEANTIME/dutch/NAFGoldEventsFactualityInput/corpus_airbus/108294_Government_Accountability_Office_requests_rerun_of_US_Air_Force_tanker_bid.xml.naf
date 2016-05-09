@@ -34,7 +34,7 @@
       <lp beginTimestamp="2016-01-12T00:26:32+0100" endTimestamp="2016-01-12T00:26:41+0100" hostname="kyoto.vu.nl" name="ixa-pipe-heideltime-nl" version="1.0.1-da4604a7b33975e977017440cbc10f7d59917ddf"/>
     </linguisticProcessors>
     <linguisticProcessors layer="coreferences">
-      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-09T12:49:16CEST" beginTimestamp="2016-05-09T12:49:16CEST" endTimestamp="2016-05-09T12:49:16CEST" hostname="Antskes-MacBook-Pro.local"/>
+      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-09T13:49:06CEST" beginTimestamp="2016-05-09T13:49:06CEST" endTimestamp="2016-05-09T13:49:06CEST" hostname="Antskes-MacBook-Pro.local"/>
     </linguisticProcessors>
   </nafHeader>
   <raw>Government Accountability Office eist nieuwe aanbestedingsprocedure US Air Force tankvliegtuig
@@ -9989,4 +9989,116 @@ De Air Force moet binnen 60 dagen reageren op het advies van de GAO.</raw>
       </span>
     </timex3>
   </timeExpressions>
+  <coreferences>
+    <coref id="coevent1" type="event">
+      <span>
+        <target id="t_43"/>
+      </span>
+    </coref>
+    <coref id="coevent2" type="event">
+      <span>
+        <target id="t_46"/>
+        <target id="t_71"/>
+        <target id="t_70"/>
+      </span>
+    </coref>
+    <coref id="coevent3" type="event">
+      <span>
+        <target id="t_67"/>
+        <target id="t_69"/>
+        <target id="t_66"/>
+      </span>
+    </coref>
+    <coref id="coevent4" type="event">
+      <span>
+        <target id="t_88"/>
+      </span>
+    </coref>
+    <coref id="coevent5" type="event">
+      <span>
+        <target id="t_90"/>
+      </span>
+    </coref>
+    <coref id="coevent6" type="event">
+      <span>
+        <target id="t_95"/>
+      </span>
+    </coref>
+    <coref id="coevent7" type="event">
+      <span>
+        <target id="t_97"/>
+        <target id="t_102"/>
+      </span>
+    </coref>
+    <coref id="coevent8" type="event">
+      <span>
+        <target id="t_100"/>
+      </span>
+    </coref>
+    <coref id="coevent9" type="event">
+      <span>
+        <target id="t_115"/>
+      </span>
+    </coref>
+    <coref id="coevent10" type="event">
+      <span>
+        <target id="t_119"/>
+      </span>
+    </coref>
+    <coref id="coevent11" type="event">
+      <span>
+        <target id="t_130"/>
+      </span>
+    </coref>
+    <coref id="coevent12" type="event">
+      <span>
+        <target id="t_48"/>
+      </span>
+    </coref>
+    <coref id="coevent13" type="event">
+      <span>
+        <target id="t_110"/>
+      </span>
+    </coref>
+    <coref id="coevent14" type="event">
+      <span>
+        <target id="t_121"/>
+      </span>
+    </coref>
+    <coref id="coevent15" type="event">
+      <span>
+        <target id="t_128"/>
+      </span>
+    </coref>
+    <coref id="coevent16" type="event">
+      <span>
+        <target id="t_155"/>
+      </span>
+    </coref>
+    <coref id="coevent17" type="event">
+      <span>
+        <target id="t_230"/>
+      </span>
+    </coref>
+    <coref id="coevent18" type="event">
+      <span>
+        <target id="t_3"/>
+      </span>
+    </coref>
+    <coref id="coevent19" type="event">
+      <span>
+        <target id="t_5"/>
+      </span>
+    </coref>
+    <coref id="coevent20" type="event">
+      <span>
+        <target id="t_14"/>
+      </span>
+    </coref>
+    <coref id="coevent21" type="event">
+      <span>
+        <target id="t_24"/>
+      </span>
+    </coref>
+  </coreferences>
 </NAF>

@@ -34,7 +34,7 @@
       <lp beginTimestamp="2016-01-12T02:36:58+0100" endTimestamp="2016-01-12T02:37:04+0100" hostname="kyoto.vu.nl" name="ixa-pipe-heideltime-nl" version="1.0.1-da4604a7b33975e977017440cbc10f7d59917ddf"/>
     </linguisticProcessors>
     <linguisticProcessors layer="coreferences">
-      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-09T12:49:59CEST" beginTimestamp="2016-05-09T12:49:59CEST" endTimestamp="2016-05-09T12:49:59CEST" hostname="Antskes-MacBook-Pro.local"/>
+      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-09T13:55:30CEST" beginTimestamp="2016-05-09T13:55:30CEST" endTimestamp="2016-05-09T13:55:30CEST" hostname="Antskes-MacBook-Pro.local"/>
     </linguisticProcessors>
   </nafHeader>
   <raw>Amerikaanse beurzen stijgen vierde opeenvolgende week
@@ -9541,4 +9541,118 @@ De Duitse DAX en de Japanse Nikkei 225 bleven gelijk staan terwijl de Britse FTS
   <timeExpressions>
     <timex3 functionInDocument="CREATION_TIME" id="tx1" type="DATE" value="2009-04-04"/>
   </timeExpressions>
+  <coreferences>
+    <coref id="coevent1" type="event">
+      <span>
+        <target id="t_25"/>
+      </span>
+    </coref>
+    <coref id="coevent2" type="event">
+      <span>
+        <target id="t_30"/>
+      </span>
+    </coref>
+    <coref id="coevent3" type="event">
+      <span>
+        <target id="t_41"/>
+      </span>
+    </coref>
+    <coref id="coevent4" type="event">
+      <span>
+        <target id="t_45"/>
+      </span>
+    </coref>
+    <coref id="coevent5" type="event">
+      <span>
+        <target id="t_55"/>
+      </span>
+    </coref>
+    <coref id="coevent6" type="event">
+      <span>
+        <target id="t_60"/>
+      </span>
+    </coref>
+    <coref id="coevent7" type="event">
+      <span>
+        <target id="t_76"/>
+      </span>
+    </coref>
+    <coref id="coevent8" type="event">
+      <span>
+        <target id="t_91"/>
+        <target id="t_88"/>
+      </span>
+    </coref>
+    <coref id="coevent9" type="event">
+      <span>
+        <target id="t_106"/>
+      </span>
+    </coref>
+    <coref id="coevent10" type="event">
+      <span>
+        <target id="t_15"/>
+      </span>
+    </coref>
+    <coref id="coevent11" type="event">
+      <span>
+        <target id="t_27"/>
+      </span>
+    </coref>
+    <coref id="coevent12" type="event">
+      <span>
+        <target id="t_110"/>
+      </span>
+    </coref>
+    <coref id="coevent13" type="event">
+      <span>
+        <target id="t_134"/>
+      </span>
+    </coref>
+    <coref id="coevent14" type="event">
+      <span>
+        <target id="t_140"/>
+      </span>
+    </coref>
+    <coref id="coevent15" type="event">
+      <span>
+        <target id="t_153"/>
+      </span>
+    </coref>
+    <coref id="coevent16" type="event">
+      <span>
+        <target id="t_171"/>
+      </span>
+    </coref>
+    <coref id="coevent17" type="event">
+      <span>
+        <target id="t_188"/>
+      </span>
+    </coref>
+    <coref id="coevent18" type="event">
+      <span>
+        <target id="t_200"/>
+        <target id="t_203"/>
+      </span>
+    </coref>
+    <coref id="coevent19" type="event">
+      <span>
+        <target id="t_217"/>
+      </span>
+    </coref>
+    <coref id="coevent20" type="event">
+      <span>
+        <target id="t_79"/>
+      </span>
+    </coref>
+    <coref id="coevent21" type="event">
+      <span>
+        <target id="t_2"/>
+      </span>
+    </coref>
+    <coref id="coevent22" type="event">
+      <span>
+        <target id="t_9"/>
+      </span>
+    </coref>
+  </coreferences>
 </NAF>

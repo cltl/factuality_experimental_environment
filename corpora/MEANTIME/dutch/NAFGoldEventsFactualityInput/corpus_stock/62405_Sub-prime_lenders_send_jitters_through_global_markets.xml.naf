@@ -34,7 +34,7 @@
       <lp beginTimestamp="2016-01-12T02:56:16+0100" endTimestamp="2016-01-12T02:56:21+0100" hostname="kyoto.vu.nl" name="ixa-pipe-heideltime-nl" version="1.0.1-da4604a7b33975e977017440cbc10f7d59917ddf"/>
     </linguisticProcessors>
     <linguisticProcessors layer="coreferences">
-      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-09T12:49:59CEST" beginTimestamp="2016-05-09T12:49:59CEST" endTimestamp="2016-05-09T12:49:59CEST" hostname="Antskes-MacBook-Pro.local"/>
+      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-09T13:55:30CEST" beginTimestamp="2016-05-09T13:55:30CEST" endTimestamp="2016-05-09T13:55:30CEST" hostname="Antskes-MacBook-Pro.local"/>
     </linguisticProcessors>
   </nafHeader>
   <raw>Sub-prime kredietverstrekkers doen wereldmarkt opschrikken
@@ -17146,4 +17146,98 @@ Alhoewel nog niemand een faillissement van grote banken voorspelt, vreest men we
       </span>
     </timex3>
   </timeExpressions>
+  <coreferences>
+    <coref id="coevent1" type="event">
+      <span>
+        <target id="t_2"/>
+      </span>
+    </coref>
+    <coref id="coevent2" type="event">
+      <span>
+        <target id="t_4"/>
+      </span>
+    </coref>
+    <coref id="coevent3" type="event">
+      <span>
+        <target id="t_13"/>
+      </span>
+    </coref>
+    <coref id="coevent4" type="event">
+      <span>
+        <target id="t_14"/>
+      </span>
+    </coref>
+    <coref id="coevent5" type="event">
+      <span>
+        <target id="t_51"/>
+      </span>
+    </coref>
+    <coref id="coevent6" type="event">
+      <span>
+        <target id="t_22"/>
+      </span>
+    </coref>
+    <coref id="coevent7" type="event">
+      <span>
+        <target id="t_88"/>
+      </span>
+    </coref>
+    <coref id="coevent8" type="event">
+      <span>
+        <target id="t_36"/>
+      </span>
+    </coref>
+    <coref id="coevent9" type="event">
+      <span>
+        <target id="t_92"/>
+      </span>
+    </coref>
+    <coref id="coevent10" type="event">
+      <span>
+        <target id="t_55"/>
+      </span>
+    </coref>
+    <coref id="coevent11" type="event">
+      <span>
+        <target id="t_71"/>
+      </span>
+    </coref>
+    <coref id="coevent12" type="event">
+      <span>
+        <target id="t_228"/>
+      </span>
+    </coref>
+    <coref id="coevent13" type="event">
+      <span>
+        <target id="t_78"/>
+      </span>
+    </coref>
+    <coref id="coevent14" type="event">
+      <span>
+        <target id="t_239"/>
+      </span>
+    </coref>
+    <coref id="coevent15" type="event">
+      <span>
+        <target id="t_85"/>
+      </span>
+    </coref>
+    <coref id="coevent16" type="event">
+      <span>
+        <target id="t_110"/>
+      </span>
+    </coref>
+    <coref id="coevent17" type="event">
+      <span>
+        <target id="t_115"/>
+        <target id="t_112"/>
+      </span>
+    </coref>
+    <coref id="coevent18" type="event">
+      <span>
+        <target id="t_125"/>
+        <target id="t_126"/>
+      </span>
+    </coref>
+  </coreferences>
 </NAF>

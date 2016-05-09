@@ -34,7 +34,7 @@
       <lp beginTimestamp="2016-01-11T22:56:01+0100" endTimestamp="2016-01-11T22:56:13+0100" hostname="kyoto.vu.nl" name="ixa-pipe-heideltime-nl" version="1.0.1-da4604a7b33975e977017440cbc10f7d59917ddf"/>
     </linguisticProcessors>
     <linguisticProcessors layer="coreferences">
-      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-09T12:47:50CEST" beginTimestamp="2016-05-09T12:47:50CEST" endTimestamp="2016-05-09T12:47:50CEST" hostname="Antskes-MacBook-Pro.local"/>
+      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-09T13:51:28CEST" beginTimestamp="2016-05-09T13:51:28CEST" endTimestamp="2016-05-09T13:51:28CEST" hostname="Antskes-MacBook-Pro.local"/>
     </linguisticProcessors>
   </nafHeader>
   <raw>Apple biedt gratis hoesjes aan en geeft geld terug aan iPhone 4-eigenaren
@@ -24029,4 +24029,146 @@ Een iOS-update die donderdag werd uitgebracht, gebruikt een meer nauwkeurige met
       </span>
     </timex3>
   </timeExpressions>
+  <coreferences>
+    <coref id="coevent1" type="event">
+      <span>
+        <target id="t_17"/>
+        <target id="t_15"/>
+      </span>
+    </coref>
+    <coref id="coevent2" type="event">
+      <span>
+        <target id="t_29"/>
+      </span>
+    </coref>
+    <coref id="coevent3" type="event">
+      <span>
+        <target id="t_37"/>
+      </span>
+    </coref>
+    <coref id="coevent4" type="event">
+      <span>
+        <target id="t_51"/>
+      </span>
+    </coref>
+    <coref id="coevent5" type="event">
+      <span>
+        <target id="t_63"/>
+      </span>
+    </coref>
+    <coref id="coevent6" type="event">
+      <span>
+        <target id="t_68"/>
+      </span>
+    </coref>
+    <coref id="coevent7" type="event">
+      <span>
+        <target id="t_80"/>
+      </span>
+    </coref>
+    <coref id="coevent8" type="event">
+      <span>
+        <target id="t_84"/>
+      </span>
+    </coref>
+    <coref id="coevent9" type="event">
+      <span>
+        <target id="t_88"/>
+      </span>
+    </coref>
+    <coref id="coevent10" type="event">
+      <span>
+        <target id="t_96"/>
+      </span>
+    </coref>
+    <coref id="coevent11" type="event">
+      <span>
+        <target id="t_97"/>
+      </span>
+    </coref>
+    <coref id="coevent12" type="event">
+      <span>
+        <target id="t_114"/>
+        <target id="t_116"/>
+        <target id="t_115"/>
+        <target id="t_117"/>
+      </span>
+    </coref>
+    <coref id="coevent13" type="event">
+      <span>
+        <target id="t_34"/>
+      </span>
+    </coref>
+    <coref id="coevent14" type="event">
+      <span>
+        <target id="t_102"/>
+      </span>
+    </coref>
+    <coref id="coevent15" type="event">
+      <span>
+        <target id="t_1"/>
+        <target id="t_4"/>
+      </span>
+    </coref>
+    <coref id="coevent16" type="event">
+      <span>
+        <target id="t_8"/>
+        <target id="t_6"/>
+      </span>
+    </coref>
+    <coref id="coevent17" type="event">
+      <span>
+        <target id="t_136"/>
+      </span>
+    </coref>
+    <coref id="coevent18" type="event">
+      <span>
+        <target id="t_203"/>
+      </span>
+    </coref>
+    <coref id="coevent19" type="event">
+      <span>
+        <target id="t_243"/>
+      </span>
+    </coref>
+    <coref id="coevent20" type="event">
+      <span>
+        <target id="t_249"/>
+        <target id="t_248"/>
+      </span>
+    </coref>
+    <coref id="coevent21" type="event">
+      <span>
+        <target id="t_263"/>
+      </span>
+    </coref>
+    <coref id="coevent22" type="event">
+      <span>
+        <target id="t_277"/>
+      </span>
+    </coref>
+    <coref id="coevent23" type="event">
+      <span>
+        <target id="t_301"/>
+      </span>
+    </coref>
+    <coref id="coevent24" type="event">
+      <span>
+        <target id="t_360"/>
+        <target id="t_357"/>
+      </span>
+    </coref>
+    <coref id="coevent25" type="event">
+      <span>
+        <target id="t_379"/>
+        <target id="t_381"/>
+        <target id="t_382"/>
+      </span>
+    </coref>
+    <coref id="coevent26" type="event">
+      <span>
+        <target id="t_410"/>
+      </span>
+    </coref>
+  </coreferences>
 </NAF>

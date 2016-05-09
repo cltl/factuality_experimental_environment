@@ -14,7 +14,7 @@ def create_id2event_dict(events):
         eventId += 1
         first = True
         evids = event.pop(0)
-        for tid in evids:
+        for tid in sorted(evids):
             myevent = [event[0],event[1],event[2]]
             if first:
                 myevent.append('B')

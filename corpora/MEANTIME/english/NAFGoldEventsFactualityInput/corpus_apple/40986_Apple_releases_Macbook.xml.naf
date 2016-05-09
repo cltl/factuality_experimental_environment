@@ -33,9 +33,6 @@
     <linguisticProcessors layer="timeExpressions">
       <lp beginTimestamp="2016-05-02T11:55:15+0200" endTimestamp="2016-05-02T11:55:20+0200" hostname="kyoto.vu.nl" name="TimePro-FBK" version="v1.5, based on Yamcha"/>
     </linguisticProcessors>
-    <linguisticProcessors layer="coreferences">
-      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-03T13:44:55CEST" beginTimestamp="2016-05-03T13:44:55CEST" endTimestamp="2016-05-03T13:44:55CEST" hostname="Antskes-MacBook-Pro.local"/>
-    </linguisticProcessors>
   </nafHeader>
   <raw>Apple releases Macbook May 17, 2006 Apple Computer today introduced the new MacBook line, which includes the Macbook and Macbook Pro. It is the successor to the iBook line and contains Intel Core Duo processors and a host of features, and starting at a price of $ 1,099. The Macbook features a 13.3 '' widescreen display, while the Pro can be purchased with either 15 '' or 17 '' displays. It comes in two colors: Black (2 GHz model only) and White (1.83 and 2 GHz models). This release leaves only one PowerPC processor computer that has not made the transition to Intel chips, the PowerMac G5.</raw>
   <text>
@@ -4547,58 +4544,4 @@
       </externalReferences>
     </mark>
   </markables>
-  <coreferences>
-    <coref id="coevent1" type="event">
-      <span>
-        <target id="t26"/>
-        <target id="t34"/>
-        <target id="t46"/>
-      </span>
-    </coref>
-    <coref id="coevent2" type="event">
-      <span>
-        <target id="t18"/>
-      </span>
-    </coref>
-    <coref id="coevent3" type="event">
-      <span>
-        <target id="t34"/>
-      </span>
-    </coref>
-    <coref id="coevent4" type="event">
-      <span>
-        <target id="t56"/>
-      </span>
-    </coref>
-    <coref id="coevent5" type="event">
-      <span>
-        <target id="t26"/>
-      </span>
-    </coref>
-    <coref id="coevent6" type="event">
-      <span>
-        <target id="t46"/>
-      </span>
-    </coref>
-    <coref id="coevent7" type="event">
-      <span>
-        <target id="t2"/>
-      </span>
-    </coref>
-    <coref id="coevent8" type="event">
-      <span>
-        <target id="t68"/>
-      </span>
-    </coref>
-    <coref id="coevent9" type="event">
-      <span>
-        <target id="t79"/>
-      </span>
-    </coref>
-    <coref id="coevent10" type="event">
-      <span>
-        <target id="t11"/>
-      </span>
-    </coref>
-  </coreferences>
 </NAF>

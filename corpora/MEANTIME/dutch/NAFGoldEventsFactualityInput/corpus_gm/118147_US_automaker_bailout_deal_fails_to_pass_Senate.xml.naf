@@ -34,7 +34,7 @@
       <lp beginTimestamp="2016-01-11T20:46:34+0100" endTimestamp="2016-01-11T20:46:38+0100" hostname="kyoto.vu.nl" name="ixa-pipe-heideltime-nl" version="1.0.1-da4604a7b33975e977017440cbc10f7d59917ddf"/>
     </linguisticProcessors>
     <linguisticProcessors layer="coreferences">
-      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-09T12:49:37CEST" beginTimestamp="2016-05-09T12:49:37CEST" endTimestamp="2016-05-09T12:49:37CEST" hostname="Antskes-MacBook-Pro.local"/>
+      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-09T13:54:40CEST" beginTimestamp="2016-05-09T13:54:40CEST" endTimestamp="2016-05-09T13:54:40CEST" hostname="Antskes-MacBook-Pro.local"/>
     </linguisticProcessors>
   </nafHeader>
   <raw>Reddingsplan Amerikaanse autofabrikant geblokkeerd door Senaat
@@ -15143,4 +15143,86 @@ De Europese aandelen, bijvoorbeeld in Engeland en Duitsland, hadden ook de lijde
       </span>
     </timex3>
   </timeExpressions>
+  <coreferences>
+    <coref id="coevent1" type="event">
+      <span>
+        <target id="t_137"/>
+        <target id="t_136"/>
+      </span>
+    </coref>
+    <coref id="coevent2" type="event">
+      <span>
+        <target id="t_143"/>
+        <target id="t_141"/>
+        <target id="t_142"/>
+      </span>
+    </coref>
+    <coref id="coevent3" type="event">
+      <span>
+        <target id="t_3"/>
+      </span>
+    </coref>
+    <coref id="coevent4" type="event">
+      <span>
+        <target id="t_38"/>
+      </span>
+    </coref>
+    <coref id="coevent5" type="event">
+      <span>
+        <target id="t_43"/>
+      </span>
+    </coref>
+    <coref id="coevent6" type="event">
+      <span>
+        <target id="t_45"/>
+      </span>
+    </coref>
+    <coref id="coevent7" type="event">
+      <span>
+        <target id="t_53"/>
+        <target id="t_50"/>
+        <target id="t_52"/>
+        <target id="t_51"/>
+      </span>
+    </coref>
+    <coref id="coevent8" type="event">
+      <span>
+        <target id="t_72"/>
+        <target id="t_71"/>
+      </span>
+    </coref>
+    <coref id="coevent9" type="event">
+      <span>
+        <target id="t_80"/>
+      </span>
+    </coref>
+    <coref id="coevent10" type="event">
+      <span>
+        <target id="t_87"/>
+        <target id="t_85"/>
+        <target id="t_86"/>
+      </span>
+    </coref>
+    <coref id="coevent11" type="event">
+      <span>
+        <target id="t_105"/>
+      </span>
+    </coref>
+    <coref id="coevent12" type="event">
+      <span>
+        <target id="t_109"/>
+      </span>
+    </coref>
+    <coref id="coevent13" type="event">
+      <span>
+        <target id="t_113"/>
+      </span>
+    </coref>
+    <coref id="coevent14" type="event">
+      <span>
+        <target id="t_120"/>
+        <target id="t_121"/>
+      </span>
+    </coref>
+  </coreferences>
 </NAF>

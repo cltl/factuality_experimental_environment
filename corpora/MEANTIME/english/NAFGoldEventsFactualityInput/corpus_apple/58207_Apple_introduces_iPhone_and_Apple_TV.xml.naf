@@ -34,9 +34,6 @@
     <linguisticProcessors layer="timeExpressions">
       <lp beginTimestamp="2016-05-02T12:01:24+0200" endTimestamp="2016-05-02T12:01:37+0200" hostname="kyoto.vu.nl" name="TimePro-FBK" version="v1.5, based on Yamcha"/>
     </linguisticProcessors>
-    <linguisticProcessors layer="coreferences">
-      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-03T13:44:55CEST" beginTimestamp="2016-05-03T13:44:55CEST" endTimestamp="2016-05-03T13:44:55CEST" hostname="Antskes-MacBook-Pro.local"/>
-    </linguisticProcessors>
   </nafHeader>
   <raw>Apple introduces iPhone and Apple TV January 10, 2007 Apple Inc. today has introduced the much-anticipated iPhone at the Macworld Conference in San Francisco. The iPhone is claimed to be ``a revolutionary mobile phone'' as stated on the Apple website. The device appears to be running a mobile version of the Apple operating system Mac OSX. It is approximately the same size as a 5th generation iPod, it has a 3.5-inch LCD touchscreen display that is used to access all features of the phone including number dial, as well as making phone calls. The iPhone plays music, movies, displays pictures and is able to connect to a wireless network. Apple CEO Steve Jobs unveiled the device by walking onto the stage and taking the iPhone out of his jeans pocket. During his 2 hour speech he stated that ``Today Apple is going to reinvent the phone, We are going to make history today''. Today Apple also released their Media Center device - Apple TV. It will directly compete with Microsoft 's Media Center operating system. Apple has taken a different approach to the media center market; rather than storing content (such as movies, music and photos) on the device, Apple TV connects to a computer (Mac and Windows) over a wirless network connection and plays all content stored on that computer. This makes it substantially easier for users to organize their media content.</raw>
   <text>
@@ -10508,92 +10505,4 @@
       </externalReferences>
     </mark>
   </markables>
-  <coreferences>
-    <coref id="coevent1" type="event">
-      <span>
-        <target id="t30"/>
-      </span>
-    </coref>
-    <coref id="coevent2" type="event">
-      <span>
-        <target id="t32"/>
-      </span>
-    </coref>
-    <coref id="coevent3" type="event">
-      <span>
-        <target id="t40"/>
-      </span>
-    </coref>
-    <coref id="coevent4" type="event">
-      <span>
-        <target id="t48"/>
-      </span>
-    </coref>
-    <coref id="coevent5" type="event">
-      <span>
-        <target id="t51"/>
-      </span>
-    </coref>
-    <coref id="coevent6" type="event">
-      <span>
-        <target id="t64"/>
-      </span>
-    </coref>
-    <coref id="coevent7" type="event">
-      <span>
-        <target id="t76"/>
-      </span>
-    </coref>
-    <coref id="coevent8" type="event">
-      <span>
-        <target id="t84"/>
-      </span>
-    </coref>
-    <coref id="coevent9" type="event">
-      <span>
-        <target id="t86"/>
-      </span>
-    </coref>
-    <coref id="coevent10" type="event">
-      <span>
-        <target id="t2"/>
-      </span>
-    </coref>
-    <coref id="coevent11" type="event">
-      <span>
-        <target id="t22"/>
-      </span>
-    </coref>
-    <coref id="coevent12" type="event">
-      <span>
-        <target id="t15"/>
-      </span>
-    </coref>
-    <coref id="coevent13" type="event">
-      <span>
-        <target id="t126"/>
-      </span>
-    </coref>
-    <coref id="coevent14" type="event">
-      <span>
-        <target id="t150"/>
-      </span>
-    </coref>
-    <coref id="coevent15" type="event">
-      <span>
-        <target id="t148"/>
-      </span>
-    </coref>
-    <coref id="coevent16" type="event">
-      <span>
-        <target id="t135"/>
-        <target id="t138"/>
-      </span>
-    </coref>
-    <coref id="coevent17" type="event">
-      <span>
-        <target id="t130"/>
-      </span>
-    </coref>
-  </coreferences>
 </NAF>

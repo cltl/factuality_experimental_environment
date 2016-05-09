@@ -34,9 +34,6 @@
     <linguisticProcessors layer="timeExpressions">
       <lp beginTimestamp="2016-05-02T11:00:16+0200" endTimestamp="2016-05-02T11:00:27+0200" hostname="kyoto.vu.nl" name="TimePro-FBK" version="v1.5, based on Yamcha"/>
     </linguisticProcessors>
-    <linguisticProcessors layer="coreferences">
-      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-03T13:44:54CEST" beginTimestamp="2016-05-03T13:44:54CEST" endTimestamp="2016-05-03T13:44:54CEST" hostname="Antskes-MacBook-Pro.local"/>
-    </linguisticProcessors>
   </nafHeader>
   <raw>Apple 's iTunes replaces Wal - Mart as No. 1 U.S. music seller April 9, 2008 Five years after its launch, Apple Computer 's iTunes downloadable music service in February passed Wal - Mart to become the No. 1 music seller in the United States, according to figures released April 3 by NPD Group, a market research firm. The firm said more than 4 billion songs had been downloaded from the iTunes store since its launch in 2003 and that as of February, the iTunes store accounts for 70 % of all digital music sales. NPD said according to those figures, Apple 's iTunes store passes U.S. electronics retailer Best Buy for the No. 2 U.S. music retailer in 2007. According to an April 2nd report in Ars Technica, an internal memo at Apple showed the company passed Wal - Mart as the top U.S. music seller Wal - Mart at the beginning of the year. Their projections showed that as of January 2008, Apple 's iTunes held 19 percent of the U.S. music market with Wal - Mart at 15 percent, followed by Best Buy at 13 percent. Rounding out the top five were Amazon.com and Target at 6 percent each.</raw>
   <text>
@@ -8416,89 +8413,4 @@
       </externalReferences>
     </mark>
   </markables>
-  <coreferences>
-    <coref id="coevent1" type="event">
-      <span>
-        <target id="t38"/>
-      </span>
-    </coref>
-    <coref id="coevent2" type="event">
-      <span>
-        <target id="t114"/>
-      </span>
-    </coref>
-    <coref id="coevent3" type="event">
-      <span>
-        <target id="t52"/>
-      </span>
-    </coref>
-    <coref id="coevent4" type="event">
-      <span>
-        <target id="t66"/>
-      </span>
-    </coref>
-    <coref id="coevent5" type="event">
-      <span>
-        <target id="t81"/>
-      </span>
-    </coref>
-    <coref id="coevent6" type="event">
-      <span>
-        <target id="t145"/>
-      </span>
-    </coref>
-    <coref id="coevent7" type="event">
-      <span>
-        <target id="t101"/>
-      </span>
-    </coref>
-    <coref id="coevent8" type="event">
-      <span>
-        <target id="t4"/>
-      </span>
-    </coref>
-    <coref id="coevent9" type="event">
-      <span>
-        <target id="t148"/>
-      </span>
-    </coref>
-    <coref id="coevent10" type="event">
-      <span>
-        <target id="t93"/>
-        <target id="t94"/>
-      </span>
-    </coref>
-    <coref id="coevent11" type="event">
-      <span>
-        <target id="t74"/>
-        <target id="t93"/>
-        <target id="t94"/>
-      </span>
-    </coref>
-    <coref id="coevent12" type="event">
-      <span>
-        <target id="t74"/>
-      </span>
-    </coref>
-    <coref id="coevent13" type="event">
-      <span>
-        <target id="t22"/>
-      </span>
-    </coref>
-    <coref id="coevent14" type="event">
-      <span>
-        <target id="t33"/>
-      </span>
-    </coref>
-    <coref id="coevent15" type="event">
-      <span>
-        <target id="t104"/>
-      </span>
-    </coref>
-    <coref id="coevent16" type="event">
-      <span>
-        <target id="t180"/>
-      </span>
-    </coref>
-  </coreferences>
 </NAF>

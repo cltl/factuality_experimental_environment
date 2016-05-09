@@ -34,9 +34,6 @@
     <linguisticProcessors layer="timeExpressions">
       <lp beginTimestamp="2016-05-02T11:22:12+0200" endTimestamp="2016-05-02T11:22:21+0200" hostname="kyoto.vu.nl" name="TimePro-FBK" version="v1.5, based on Yamcha"/>
     </linguisticProcessors>
-    <linguisticProcessors layer="coreferences">
-      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-03T13:44:54CEST" beginTimestamp="2016-05-03T13:44:54CEST" endTimestamp="2016-05-03T13:44:54CEST" hostname="Antskes-MacBook-Pro.local"/>
-    </linguisticProcessors>
   </nafHeader>
   <raw>Apple unveils iPod nano September 7, 2005 Apple today unveiled its latest addition to the iPod line, the iPod nano. The announcement came today at a special music event hosted by Apple, held in the Moscone West Convention Center in San Francisco. The iPod Nano comes in two colors, white and black, as well as two sizes, a 2GB and a 4GB, capable of holding 500 and 1,000 songs and will cost $ 199 and $ 249 USD respectively. The iPod nano is the second model of the iPod family to utilize flash memory, after the Shuffle was introduced in January. The iPod nano replaces the similar iPod Mini in the iPod family. The iPod nano 's maximum capacity is 2GB smaller than that of the last version of the iPod Mini, which held 6GB for the same price of $ 249. Apple also announced an iTunes - compatible cell phone, the Motorola ROKR E1, which will be available exclusively from Cingular Wireless in the United States, Virgin will be in the UK. The ROKR has a color display for viewing album art and features built-in stereo speakers, as well as stereo headphones that also serve as a mobile headset with microphone. Users can randomly autofill or manually fill the mobile phone with playlists of music, audiobooks and Podcasts from their iTunes library via a USB 1.1 connection. The Motorola ROKR pauses music automatically when users take a call and offers the ability to listen to music while messaging or taking a photo. It will cost $ 250 with a two-year cell service contract. A new version of iTunes was also announced at the event, bringing it to version 5. Along with a new look, it also features a customizable randomization, improved search for the Library and Music Store, and greater parental controls on songs with explicit lyrics in the iTunes Music Store as well as controlling content of Podcasts.</raw>
   <text>
@@ -12675,77 +12672,4 @@
       </externalReferences>
     </mark>
   </markables>
-  <coreferences>
-    <coref id="coevent1" type="event">
-      <span>
-        <target id="t93"/>
-      </span>
-    </coref>
-    <coref id="coevent2" type="event">
-      <span>
-        <target id="t102"/>
-      </span>
-    </coref>
-    <coref id="coevent3" type="event">
-      <span>
-        <target id="t110"/>
-      </span>
-    </coref>
-    <coref id="coevent4" type="event">
-      <span>
-        <target id="t33"/>
-      </span>
-    </coref>
-    <coref id="coevent5" type="event">
-      <span>
-        <target id="t25"/>
-      </span>
-    </coref>
-    <coref id="coevent6" type="event">
-      <span>
-        <target id="t51"/>
-        <target id="t81"/>
-      </span>
-    </coref>
-    <coref id="coevent7" type="event">
-      <span>
-        <target id="t2"/>
-      </span>
-    </coref>
-    <coref id="coevent8" type="event">
-      <span>
-        <target id="t11"/>
-      </span>
-    </coref>
-    <coref id="coevent9" type="event">
-      <span>
-        <target id="t26"/>
-      </span>
-    </coref>
-    <coref id="coevent10" type="event">
-      <span>
-        <target id="t32"/>
-      </span>
-    </coref>
-    <coref id="coevent11" type="event">
-      <span>
-        <target id="t37"/>
-      </span>
-    </coref>
-    <coref id="coevent12" type="event">
-      <span>
-        <target id="t51"/>
-      </span>
-    </coref>
-    <coref id="coevent13" type="event">
-      <span>
-        <target id="t74"/>
-      </span>
-    </coref>
-    <coref id="coevent14" type="event">
-      <span>
-        <target id="t81"/>
-      </span>
-    </coref>
-  </coreferences>
 </NAF>

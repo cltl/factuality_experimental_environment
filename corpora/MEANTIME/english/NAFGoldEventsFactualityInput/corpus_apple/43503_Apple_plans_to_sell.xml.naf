@@ -34,9 +34,6 @@
     <linguisticProcessors layer="timeExpressions">
       <lp beginTimestamp="2016-05-02T11:58:07+0200" endTimestamp="2016-05-02T11:58:19+0200" hostname="kyoto.vu.nl" name="TimePro-FBK" version="v1.5, based on Yamcha"/>
     </linguisticProcessors>
-    <linguisticProcessors layer="coreferences">
-      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-03T13:44:55CEST" beginTimestamp="2016-05-03T13:44:55CEST" endTimestamp="2016-05-03T13:44:55CEST" hostname="Antskes-MacBook-Pro.local"/>
-    </linguisticProcessors>
   </nafHeader>
   <raw>Apple plans to sell movies on iTunes June 20, 2006 Apple Computer is planning to sell full-length feature films for download via the online iTunes Music Store. The store currently sells digital music tracks, and more recently has begun to sell TV episodes. Apple executives are in negotiations with film studios to arrange the deal and settle on pricing structures. It is expected that films will retail for around $ 9.99 US dollars, although some studios are reported to want to set a higher price. iTunes is currently by the biggest online retailer of digital music, with its software tightly integrated with the popular iPod line of products. Newer versions of the iPod include a colour screen capable of displaying videos, and so consumers could watch the films on the devices, but it is not yet clear how many people will want to do this. Apple CEO Steve Jobs is also the largest single shareholder of Disney, which now owns animation studio Pixar, however he could end up playing a wider role within the film industry if iTunes becomes the dominant online distributor. A full-length TV movie, ' High School Musical Sources ' from Disney, is already available on iTunes, suggesting that the technical infrastructure is already in place.</raw>
   <text>
@@ -8868,108 +8865,4 @@
       </externalReferences>
     </mark>
   </markables>
-  <coreferences>
-    <coref id="coevent1" type="event">
-      <span>
-        <target id="t72"/>
-      </span>
-    </coref>
-    <coref id="coevent2" type="event">
-      <span>
-        <target id="t84"/>
-      </span>
-    </coref>
-    <coref id="coevent3" type="event">
-      <span>
-        <target id="t86"/>
-      </span>
-    </coref>
-    <coref id="coevent4" type="event">
-      <span>
-        <target id="t88"/>
-      </span>
-    </coref>
-    <coref id="coevent5" type="event">
-      <span>
-        <target id="t15"/>
-      </span>
-    </coref>
-    <coref id="coevent6" type="event">
-      <span>
-        <target id="t17"/>
-      </span>
-    </coref>
-    <coref id="coevent7" type="event">
-      <span>
-        <target id="t2"/>
-      </span>
-    </coref>
-    <coref id="coevent8" type="event">
-      <span>
-        <target id="t33"/>
-        <target id="t42"/>
-      </span>
-    </coref>
-    <coref id="coevent9" type="event">
-      <span>
-        <target id="t4"/>
-      </span>
-    </coref>
-    <coref id="coevent10" type="event">
-      <span>
-        <target id="t22"/>
-      </span>
-    </coref>
-    <coref id="coevent11" type="event">
-      <span>
-        <target id="t33"/>
-      </span>
-    </coref>
-    <coref id="coevent12" type="event">
-      <span>
-        <target id="t42"/>
-      </span>
-    </coref>
-    <coref id="coevent13" type="event">
-      <span>
-        <target id="t44"/>
-      </span>
-    </coref>
-    <coref id="coevent14" type="event">
-      <span>
-        <target id="t52"/>
-      </span>
-    </coref>
-    <coref id="coevent15" type="event">
-      <span>
-        <target id="t50"/>
-      </span>
-    </coref>
-    <coref id="coevent16" type="event">
-      <span>
-        <target id="t57"/>
-      </span>
-    </coref>
-    <coref id="coevent17" type="event">
-      <span>
-        <target id="t59"/>
-      </span>
-    </coref>
-    <coref id="coevent18" type="event">
-      <span>
-        <target id="t61"/>
-      </span>
-    </coref>
-    <coref id="coevent19" type="event">
-      <span>
-        <target id="t57"/>
-        <target id="t61"/>
-      </span>
-    </coref>
-    <coref id="coevent20" type="event">
-      <span>
-        <target id="t68"/>
-      </span>
-    </coref>
-  </coreferences>
 </NAF>

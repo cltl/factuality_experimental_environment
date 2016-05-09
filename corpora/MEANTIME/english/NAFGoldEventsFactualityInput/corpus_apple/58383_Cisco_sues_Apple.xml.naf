@@ -34,9 +34,6 @@
     <linguisticProcessors layer="timeExpressions">
       <lp beginTimestamp="2016-05-02T12:04:35+0200" endTimestamp="2016-05-02T12:04:41+0200" hostname="kyoto.vu.nl" name="TimePro-FBK" version="v1.5, based on Yamcha"/>
     </linguisticProcessors>
-    <linguisticProcessors layer="coreferences">
-      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-03T13:44:55CEST" beginTimestamp="2016-05-03T13:44:55CEST" endTimestamp="2016-05-03T13:44:55CEST" hostname="Antskes-MacBook-Pro.local"/>
-    </linguisticProcessors>
   </nafHeader>
   <raw>Cisco sues Apple for iPhone trademark January 12, 2007 The iPhone only made its appearance as a prototype and there have been controversies aroused. The dispute has come up between the manufacturer of the iPhone (which was resented on Wednesday for the first time) - Apple Inc. - and a leader in network and communication systems, based in San Jose - Cisco. The company claims to possess the trademark for iPhone, and moreover, that it sells devices under the same brand through one of its divisions. This became the reason for Cisco to file a lawsuit against Apple Inc. so that the latter would stop selling the device. Cisco states that it has received the trademark in 2000, when the company overtook Infogear Technology Corp., which took place in 1996. The Vice President and general counsel of the company, Mark Chandler, explained that there was no doubt about the excitement of the new device from Apple, but they should not use a trademark, which belongs to Cisco. The iPhone developed by Cisco is a device which allows users to make phone calls over the voice over Internet protocol (VoIP).</raw>
   <text>
@@ -8276,103 +8273,4 @@
       </externalReferences>
     </mark>
   </markables>
-  <coreferences>
-    <coref id="coevent1" type="event">
-      <span>
-        <target id="t2"/>
-      </span>
-    </coref>
-    <coref id="coevent2" type="event">
-      <span>
-        <target id="t28"/>
-      </span>
-    </coref>
-    <coref id="coevent3" type="event">
-      <span>
-        <target id="t30"/>
-        <target id="t31"/>
-      </span>
-    </coref>
-    <coref id="coevent4" type="event">
-      <span>
-        <target id="t96"/>
-      </span>
-    </coref>
-    <coref id="coevent5" type="event">
-      <span>
-        <target id="t41"/>
-      </span>
-    </coref>
-    <coref id="coevent6" type="event">
-      <span>
-        <target id="t97"/>
-      </span>
-    </coref>
-    <coref id="coevent7" type="event">
-      <span>
-        <target id="t62"/>
-      </span>
-    </coref>
-    <coref id="coevent8" type="event">
-      <span>
-        <target id="t103"/>
-      </span>
-    </coref>
-    <coref id="coevent9" type="event">
-      <span>
-        <target id="t105"/>
-      </span>
-    </coref>
-    <coref id="coevent10" type="event">
-      <span>
-        <target id="t114"/>
-      </span>
-    </coref>
-    <coref id="coevent11" type="event">
-      <span>
-        <target id="t115"/>
-      </span>
-    </coref>
-    <coref id="coevent12" type="event">
-      <span>
-        <target id="t71"/>
-      </span>
-    </coref>
-    <coref id="coevent13" type="event">
-      <span>
-        <target id="t73"/>
-      </span>
-    </coref>
-    <coref id="coevent14" type="event">
-      <span>
-        <target id="t84"/>
-      </span>
-    </coref>
-    <coref id="coevent15" type="event">
-      <span>
-        <target id="t14"/>
-      </span>
-    </coref>
-    <coref id="coevent16" type="event">
-      <span>
-        <target id="t73"/>
-        <target id="t84"/>
-      </span>
-    </coref>
-    <coref id="coevent17" type="event">
-      <span>
-        <target id="t16"/>
-      </span>
-    </coref>
-    <coref id="coevent18" type="event">
-      <span>
-        <target id="t25"/>
-      </span>
-    </coref>
-    <coref id="coevent19" type="event">
-      <span>
-        <target id="t24"/>
-      </span>
-    </coref>
-  </coreferences>
 </NAF>

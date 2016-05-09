@@ -34,9 +34,6 @@
     <linguisticProcessors layer="timeExpressions">
       <lp beginTimestamp="2016-05-02T11:27:33+0200" endTimestamp="2016-05-02T11:27:43+0200" hostname="kyoto.vu.nl" name="TimePro-FBK" version="v1.5, based on Yamcha"/>
     </linguisticProcessors>
-    <linguisticProcessors layer="coreferences">
-      <lp name="meantime-gold-events" version="oct2015" timestamp="2016-05-03T13:44:55CEST" beginTimestamp="2016-05-03T13:44:55CEST" endTimestamp="2016-05-03T13:44:55CEST" hostname="Antskes-MacBook-Pro.local"/>
-    </linguisticProcessors>
   </nafHeader>
   <raw>Apple plans another special event October 04, 2005 Within one month of the iPod nano and iTunes phone special event, Apple Computer announced today another special event to be held on October 12. It is to be held at the California Theater in downtown San Jose, California. The invitation reads, ``One more thing ...'', the teasing tagline of Steve Jobs. The words were atop a picture of closed theater curtains. Recently Apple has been gaining rights to sell music videos from record labels. This has increased rumors of a video iPod (vPod) along with this event. AppleInsider is claiming that there are sources that have seen the new iPod. Alongside this rumor, AppleInsider claims to have seen a wireless device similar to Apple 's Airport Express that supports video. Other rumors for this event include a major iTunes Music Store update and a Macintosh with a Intel processor.</raw>
   <text>
@@ -6297,56 +6294,4 @@
       </externalReferences>
     </mark>
   </markables>
-  <coreferences>
-    <coref id="coevent1" type="event">
-      <span>
-        <target id="t21"/>
-      </span>
-    </coref>
-    <coref id="coevent2" type="event">
-      <span>
-        <target id="t25"/>
-      </span>
-    </coref>
-    <coref id="coevent3" type="event">
-      <span>
-        <target id="t29"/>
-      </span>
-    </coref>
-    <coref id="coevent4" type="event">
-      <span>
-        <target id="t32"/>
-      </span>
-    </coref>
-    <coref id="coevent5" type="event">
-      <span>
-        <target id="t37"/>
-      </span>
-    </coref>
-    <coref id="coevent6" type="event">
-      <span>
-        <target id="t41"/>
-      </span>
-    </coref>
-    <coref id="coevent7" type="event">
-      <span>
-        <target id="t55"/>
-      </span>
-    </coref>
-    <coref id="coevent8" type="event">
-      <span>
-        <target id="t73"/>
-      </span>
-    </coref>
-    <coref id="coevent9" type="event">
-      <span>
-        <target id="t2"/>
-      </span>
-    </coref>
-    <coref id="coevent10" type="event">
-      <span>
-        <target id="t5"/>
-      </span>
-    </coref>
-  </coreferences>
 </NAF>
